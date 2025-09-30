@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>PassengersBefore</title>
+    <link rel="stylesheet" href="./css/AllPassengers.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 id="pageTitleBefore"></h1>
+      </header>
+
+      <main>
+        <div class="corner-icon top-left"></div>
+        <div class="corner-icon top-right"></div>
+        <div class="corner-icon bottom-left"></div>
+        <div class="corner-icon bottom-right"></div>
+
+        <div class="passagers">
+          <section id="passenger-grid" class="grid"></section>
+        </div>
+        <p id="no-results" class="no-results-message" style="display: none"></p>
+        <div class="filter-search-wrapper">
+          <div class="filter-buttons" id="filter-buttons"></div>
+          <div class="search-container">
+            <input
+              type="text"
+              id="search-box"
+              class="search-box"
+              placeholder="Rechercher..."
+            />
+            <table class="search-results" id="results-table"></table>
+          </div>
+
+          <div class="custom-select-wrapper">
+            <div class="custom-select" id="custom-select">
+              <span class="selected-option">English</span>
+              <div class="select-arrow">&#9662;</div>
+            </div>
+            <ul class="select-options" id="select-options">
+              <li data-value="da">Dansk</li>
+              <li data-value="de">Deutsch</li>
+              <li data-value="en" class="selected">English</li>
+              <li data-value="fr">Français</li>
+              <li data-value="it">Italiano</li>
+              <li data-value="pt">Português</li> 
+            </ul>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <!-- CLAVIER  -->
+
+    <!--
+        <div id="virtual-keyboard" class="keyboard hidden">
+        <button id="close-keyboard" class="close-keyboard">✕</button>
+        <div id="keyboard-keys" class="keyboard-keys"></div>
+        </div>
+    -->
+
+    <!-- CLAVIER  -->
+
+    <script src="./Components/AllPassengersControl.js"></script>
+  </body>
+</html>

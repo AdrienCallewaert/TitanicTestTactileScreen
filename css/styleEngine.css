@@ -1,0 +1,262 @@
+/*Paysage*/
+@media (orientation: landscape) {
+  .corner-icon {
+    width: 6vw;
+    height: 6vw;
+    margin: 0.2%;
+  }
+  h1 {
+    font-size: 2.2vw;
+  }
+  .carousel-buttons {
+    position: absolute;
+    bottom: 9vh;
+    left: 50%;
+  }
+
+  .slide img {
+    max-width: 70vw;
+    max-height: 70vh;
+    border-radius: 8px;
+    padding-bottom: 10vh;
+  }
+
+  .carousel-buttons button {
+    padding: 1rem 2rem;
+  }
+  .custom-select-wrapper {
+    position: fixed;
+    bottom: 4vh;
+    right: 6vw;
+  }
+  .custom-select {
+    padding: 1vh 1.2vw;
+  }
+}
+
+/*Portrait*/
+@media (orientation: portrait) {
+  .corner-icon {
+    width: 12vw;
+    height: 12vw;
+    margin: 0.5%;
+  }
+  h1 {
+    font-size: 4vw;
+  }
+  .carousel-buttons {
+    position: absolute;
+    bottom: 14vh;
+    left: 52%;
+  }
+
+  .slide img {
+    max-width: 90vw;
+    max-height: 90vh;
+    border-radius: 8px;
+    padding-bottom: 10vh;
+  }
+  .carousel-buttons button {
+    padding: 1rem 1rem;
+  }
+  .custom-select-wrapper {
+    position: fixed;
+    bottom: 5vh;
+    right: 42vw;
+  }
+  .custom-select {
+    padding: 0.6vh 1.5vw;
+  }
+}
+
+.top-controls {
+  display: flex;
+  justify-content: flex-end;
+  width: 98%;
+  margin-top: 1rem;
+}
+
+body {
+  margin: 0;
+  font-family: "Cinzel", serif;
+  background-color: #0f1a28;
+  color: #ffffff;
+  overflow: hidden;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 3rem 1rem 1rem;
+  text-align: center;
+  background: transparent;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: 1.5px;
+}
+
+.custom-select-wrapper {
+  font-family: "Cinzel", serif;
+  z-index: 1000;
+}
+
+.custom-select {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 999px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.select-arrow {
+  font-size: 1.2rem;
+  margin-left: 0.5rem;
+}
+
+.select-options {
+  color: #000;
+  display: none;
+  position: absolute;
+  bottom: 110%;
+  right: 0;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  list-style: none;
+  padding: 0.5rem 0;
+  margin: 0;
+  width: 100%;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.select-options li {
+  padding: 0.6rem 1.5rem;
+  border-bottom: 0.1vh solid #706e6e3c;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+  width: 60%;
+  margin: 0 auto;
+}
+.select-options li:last-child {
+  border-bottom: none;
+}
+.select-options li:hover,
+.select-options li.selected {
+  background-color: #b8b8b8c4;
+}
+.select-options li:hover:first-child,
+.select-options li.selected:first-child {
+  border-top-left-radius: 1.5rem;
+  border-top-right-radius: 1.5rem;
+}
+.select-options li:hover:last-child,
+.select-options li.selected:last-child {
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+
+main {
+  flex: 1;
+  position: relative;
+}
+
+.carousel {
+  display: flex;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  width: 100vw;
+  height: 90%;
+  position: relative;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.slide {
+  min-width: 100vw;
+  height: 100%;
+  scroll-snap-align: start;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.slide h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.carousel-buttons {
+  transform: translateX(-50%);
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  z-index: 5;
+}
+
+.carousel-buttons button {
+  border-radius: 999px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.carousel-buttons button.active {
+  background-color: #ffffff;
+  color: #000;
+}
+
+.corner-icon {
+  position: fixed;
+  background-image: url("../Assets/images/corner.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.corner-icon.top-right {
+  top: 0;
+  right: 0;
+  transform: rotate(90deg);
+}
+
+.corner-icon.top-left {
+  top: 0;
+  left: 0;
+}
+
+.corner-icon.bottom-left {
+  bottom: 0;
+  left: 0;
+  transform: rotate(-90deg);
+}
+
+.corner-icon.bottom-right {
+  bottom: 0;
+  right: 0;
+  transform: rotate(180deg);
+}

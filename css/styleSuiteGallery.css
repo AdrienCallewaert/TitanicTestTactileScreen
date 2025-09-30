@@ -1,0 +1,472 @@
+/*Paysage*/
+@media (orientation: landscape) {
+  .corner-icon {
+    width: 6vw;
+    height: 6vw;
+    margin: 0.2%;
+  }
+  h1 {
+    font-size: 2.2vw;
+  }
+  .custom-select-wrapper {
+    position: absolute;
+    right: 8vw;
+    bottom: 3vh;
+  }
+  .custom-select {
+    padding: 1vh 1vw;
+  }
+
+  .picturesLancement {
+    height: 70vh;
+    overflow-y: auto;                /* autorise le scroll */
+    overflow-x: hidden;
+    position: relative;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    -webkit-overflow-scrolling: touch; /* inertie iOS */
+    touch-action: pan-y;               /* geste vertical */
+  }
+  .picturesConstruction {
+
+    height: 77vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;
+      padding-bottom: 10vh;   /* espace de sécurité au-dessus des filtres */
+  }
+
+  #filters {
+    width: 60vw;
+    margin-left: 20vw;
+    text-align: center;
+    margin-top: 2vh;
+    line-height: 4vh;
+
+    /* défilement horizontal tactile */
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x;
+  }
+  #filters .btn { display: inline-block; }
+
+  #goBackButton {
+    background-color: #ffffff;
+    border-radius: 999px;
+    width: 6vw;
+    height: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 8vw;
+    bottom: 3vh;
+  }
+  #goBackButton img {
+    height: 1.5vw;
+    width: auto;
+    cursor: pointer;
+    filter: invert(00%);
+  }
+}
+
+/*Portrait*/
+@media (orientation: portrait) {
+  .corner-icon {
+    width: 12vw;
+    height: 12vw;
+    margin: 0.5%;
+  }
+  h1 {
+    font-size: 4vw;
+  }
+
+  .custom-select-wrapper {
+    position: absolute;
+    right: 16vw;
+    bottom: 2vh;
+  }
+  .custom-select {
+    padding: 0.8vh 1.2vw;
+  }
+
+  .picturesConstruction {
+    height: 77vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;
+  }
+  .picturesLancement {
+    height: 67vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;
+    padding-bottom: 10vh;   /* espace de sécurité au-dessus des filtres */
+  }
+
+  #filters {
+    width: 70vw;
+    margin-left: 15vw;
+    text-align: center;
+    margin-top: 2vh;
+    line-height: 3vh;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x;
+  }
+  #filters .btn { display: inline-block; }
+
+  #goBackButton {
+    background-color: #ffffff;
+    border-radius: 999px;
+    width: 10vw;
+    height: 2.9vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 16vw;
+    bottom: 2vh;
+  }
+  #goBackButton img {
+    height: 3vw;
+    width: auto;
+    cursor: pointer;
+    filter: invert(00%);
+  }
+}
+
+.top-controls {
+  display: flex;
+  justify-content: flex-end;
+  width: 98%;
+  margin-top: 1rem;
+}
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: "Cinzel", serif;
+  background-color: #0f1a28;
+  color: #ffffff;
+
+  /* défilement tactile global */
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 3rem 1rem 1rem;
+  text-align: center;
+  background: transparent;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: 1.5px;
+}
+
+.custom-select-wrapper {
+  font-family: "Cinzel", serif;
+  z-index: 1000;
+}
+
+.custom-select {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 999px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.select-arrow { font-size: 1.2rem; margin-left: 0.5rem; }
+
+.select-options {
+  color: #000;
+  display: none;
+  position: absolute;
+  bottom: 110%;
+  right: 0;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  list-style: none;
+  padding: 0.5rem 0;
+  margin: 0;
+  width: 100%;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+.select-options li {
+  padding: 0.6rem 1rem;
+  border-bottom: 0.1vh solid #706e6e3c;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+  width: 85%;
+  margin: 0 auto;
+}
+.select-options li:last-child { border-bottom: none; }
+.select-options li:hover, .select-options li.selected { background-color: #b8b8b8c4; }
+.select-options li:hover:first-child, .select-options li.selected:first-child {
+  border-top-left-radius: 1.5rem; border-top-right-radius: 1.5rem;
+}
+.select-options li:hover:last-child, .select-options li.selected:last-child {
+  border-bottom-left-radius: 1.5rem; border-bottom-right-radius: 1.5rem;
+}
+
+* { box-sizing: border-box; }
+
+#portfolio {
+  margin: 1.5vh 0;
+  -webkit-column-count: 5;
+  -moz-column-count: 5;
+  column-count: 5;
+  -webkit-column-gap: 1rem;
+  -moz-column-gap: 1rem;
+  column-gap: 1rem;
+  -webkit-column-width: 33.3333333333%;
+  -moz-column-width: 33.3333333333%;
+  column-width: 33.3333333333%;
+}
+
+.tile { display: none; }
+.scale-anm { margin: 0 0 1.125rem; width: 100%; }
+.tile img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 100%;
+}
+
+.btn {
+  font-family: Cinzel, serif;
+  font-size: 1rem;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: normal;
+  padding: 0.5rem 1rem;
+  margin: 0;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  color: #c9c8c8;
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn:focus { background-color: brown; }
+
+/* Masque scrollbar WebKit ; conserve clavier/lecteurs */
+.picturesConstruction::-webkit-scrollbar,
+.picturesLancement::-webkit-scrollbar { width: 0; height: 0; }
+
+/* Masque scrollbar Firefox/Edge */
+.picturesConstruction, .picturesLancement {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+/* Lightbox : bloque gestes quand visible, ne gêne pas quand cachée */
+.lightbox {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(15, 26, 40, 0.95);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+.lightbox-image {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+  margin-bottom: 1rem;
+}
+.lightbox button {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 50%;
+  width: 70px; height: 70px;
+  font-size: 1.8rem;
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease;
+}
+.lightbox .prev, .lightbox .next {
+  position: absolute; top: 50%; transform: translateY(-50%);
+}
+.lightbox .prev { left: 2rem; }
+.lightbox .next { right: 2rem; }
+.lightbox .close {
+  background-color: transparent;
+  color: #fff;
+  border: solid 1px white;
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+  font-size: 3rem;
+  cursor: pointer;
+
+  /* centrage parfait en bas */
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hidden { display: none !important; }
+
+/* Loader : ne bloque plus le tactile */
+#loader {
+  position: relative;           /* ← au lieu de fixed */
+  margin: 2rem auto;
+  width: 300px;
+  height: 20px;
+  background: #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  pointer-events: none;         /* ← ne capte pas les gestes */
+}
+#loader-bar {
+  width: 0%;
+  height: 100%;
+  background: black;
+  transition: width 0.2s ease-in-out;
+}
+#loader-text {
+  margin-top: 10px;
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #222;
+}
+
+.corner-icon {
+  position: fixed;
+  background-image: url("../Assets/images/corner.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 9999;
+  pointer-events: none;
+}
+.corner-icon.top-right { top: 0; right: 0; transform: rotate(90deg); }
+.corner-icon.top-left  { top: 0; left: 0; }
+.corner-icon.bottom-left { bottom: 0; left: 0; transform: rotate(-90deg); }
+.corner-icon.bottom-right { bottom: 0; right: 0; transform: rotate(180deg); }
+
+/* ====== OVERRIDES ANTI-DÉBORDEMENT DES FILTRES (à coller en bas) ====== */
+
+/* Un peu d'air en bas pour éviter que la dernière rangée touche le bord/OS bar */
+body, .container, main {
+  padding-bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  box-sizing: border-box;
+}
+
+/* Le conteneur des filtres : largeur auto, centré, retour à la ligne, jamais hors cadre */
+#filters {
+  width: auto !important;
+  max-width: 96vw !important;          /* marge de sécurité */
+  margin: 2vh auto 0 !important;
+  padding: 0.5rem 0.5rem !important;
+  box-sizing: border-box;
+
+  display: flex !important;
+  flex-wrap: wrap !important;          /* casse les lignes */
+  justify-content: center !important;  /* centre les boutons */
+  gap: 0.45rem !important;
+
+  /* on interdit le débordement horizontal, on laisse les lignes s’empiler */
+  overflow-x: hidden !important;
+  overflow-y: visible !important;
+  white-space: normal !important;      /* ← annule le nowrap des styles initiaux */
+}
+
+/* Boutons : plus compacts, largeur max par bouton, ellipse si trop long */
+#filters .btn,
+#filters .filter.btn,
+#filters .fil-cat.btn {
+  font-size: clamp(0.56rem, 1.1vw, 0.88rem) !important;
+  padding: 0.28em 0.7em !important;
+  line-height: 1.1 !important;
+
+  white-space: nowrap !important;              /* pas de retour dans le bouton */
+  max-width: min(26vw, 22ch) !important;       /* limite stricte par bouton */
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+  display: inline-block !important;
+
+  border: 1px solid #ffffff !important;
+  border-radius: 10px !important;
+  background: transparent !important;
+  color: #ffffff !important;
+
+  flex: 0 1 auto !important;                   /* accepte de se réduire */
+}
+
+/* Portrait : encore plus compact + largeur max un peu plus large (écran étroit) */
+@media (orientation: portrait) {
+  #filters { max-width: 94vw !important; }
+
+  #filters .btn,
+  #filters .filter.btn,
+  #filters .fil-cat.btn {
+    font-size: clamp(0.52rem, 2.4vw, 0.8rem) !important;
+    padding: 0.26em 0.6em !important;
+    max-width: min(40vw, 22ch) !important;
+  }
+}
+
+/* Très petits écrans : squeeze supplémentaire, au besoin */
+@media (max-width: 380px) {
+  #filters .btn,
+  #filters .filter.btn,
+  #filters .fil-cat.btn {
+    font-size: clamp(0.5rem, 3vw, 0.75rem) !important;
+    max-width: min(44vw, 20ch) !important;
+  }
+}

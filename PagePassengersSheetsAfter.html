@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>PagePassagers</title>
+    <link rel="stylesheet" href="./css/PassengersSheets.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header></header>
+
+      <main>
+        <div class="corner-icon top-left"></div>
+        <div class="corner-icon top-right"></div>
+        <div class="corner-icon bottom-left"></div>
+        <div class="corner-icon bottom-right"></div>
+        <div class="photo-navigation">
+          <button
+            class="nav-arrows"
+            id="prev-passenger"
+            aria-label="Passager précédent"
+          >&#10094;
+            </button
+          ><img id="photo" alt="passenger photo" />
+          <button
+            class="nav-arrows"
+            id="next-passenger"
+            aria-label="Passager suivant"
+          >&#10095;
+          </button>
+        </div>
+        <p id="survivant"></p>
+        <h1 id="name"></h1>
+        <h2 id="role"></h2>
+        <p id="description"></p>
+        <p id="postIceberg"></p>
+        
+    </div>      </main>
+<div class="back-and-language">
+          <div id="goBackButton">
+            <a href="PageAllPassengersAfter.html">
+              <img src="Assets/images/Gallery/GoBack.svg" alt="Retour" />
+            </a>
+          </div>
+           <div class="custom-select-wrapper">
+          <div class="custom-select" id="custom-select">
+            <span class="selected-option">English</span>
+            <div class="select-arrow">&#9662;</div>
+          </div>
+          <ul class="select-options" id="select-options">
+            <li data-value="da">Dansk</li>
+            <li data-value="de">Deutsch</li>
+            <li data-value="en" class="selected">English</li>
+            <li data-value="fr">Français</li>
+            <li data-value="it">Italiano</li>
+            <li data-value="pt">Português</li> 
+          </ul>
+        </div></div>
+        </div>
+    <script src="./Components/PassengersSheetsControl.js"></script>
+  </body>
+</html>

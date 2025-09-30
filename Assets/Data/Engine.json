@@ -1,0 +1,56 @@
+{
+  "pageTitle": {
+    "text": {
+      "fr": "LES MACHINES",
+      "en": "THE ENGINES",
+      "da": "MASKINERNE",
+      "de": "DIE MOTOR",
+      "it": "LE MACCHINE",
+      "pt": "AS MÁQUINAS"
+    }
+  },
+  "boiler": {
+    "image": "Assets/images/Engine/Boiler.gif",
+    "title": {
+      "fr": "Chaudière",
+      "en": "Boiler",
+      "da": "Kedel",
+      "de": "Kessel",
+      "it": "Caldaia",
+      "pt": "Caldeira"
+    }
+  },
+  "engine": {
+    "image": "Assets/images/Engine/Engine.gif",
+    "title": {
+      "fr": "Moteur",
+      "en": "Engine",
+      "da": "Motor",
+      "de": "Motor",
+      "it": "Motore",
+      "pt": "Motor"
+    }
+  },
+  "fullEngine": {
+    "image": "Assets/images/Engine/FullEngine.gif",
+    "title": {
+      "fr": "Moteur complet",
+      "en": "Full engine",
+      "da": "Komplet motor",
+      "de": "Voller motor",
+      "it": "Motore completo",
+      "pt": "Motor completo"
+    }
+  },
+  "engineRoom": {
+    "image": "Assets/images/Engine/Turbine.gif",
+    "title": {
+      "fr": "Turbine",
+      "en": "Turbine",
+      "da": "Turbine",
+      "de": "Turbine",
+      "it": "Turbina",
+      "pt": "Turbina"
+    }
+  }
+}

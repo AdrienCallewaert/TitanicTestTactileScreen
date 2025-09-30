@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>PageDeck</title>
+    <link rel="stylesheet" href="./css/styleDeck.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+         <h1 id="pageTitle"></h1>
+
+        <div class="deck-selector">
+          <label id="choixSelection" for="zoom-select"></label>
+          <select id="zoom-select">
+            <option value="rmsTitanic">RMS Titanic</option>
+            <option value="boatDeck">Boat Deck</option>
+            <option value="aDeck">A Deck</option>
+            <option value="bDeck">B Deck</option>
+            <option value="cDeck">C Deck</option>
+            <option value="dDeck">D Deck</option>
+            <option value="eDeck">E Deck</option>
+            <option value="fDeck">F Deck</option>
+            <option value="gDeck">G Deck</option>
+            <option value="orlopDeck">Orlop Deck</option>
+            <option value="tankTop">Tank Top</option>
+          </select>
+        </div>
+      </header>
+
+      <main>
+        <div id="image-container">
+          <div id="zoom-wrapper">
+            <img id="zoom-image" src="" alt="Zoom" style="display: none" />
+          </div>
+
+
+          <div class="zoom-controls">
+    <button id="zoom-in"> <img src="Assets/images/Deck/zoomIn.svg" alt="Zoom In Icon" /></button>
+    <button id="zoom-out"> <img src="Assets/images/Deck/zoomOut.svg" alt="Zoom Out Icon" /></button>
+    <button id="zoom-reset">Reset zoom</button>
+  
+</div><button id="info-button" class="info-button">
+  <img src="Assets/images/Deck/more-info-icon.svg" alt="More info icon" />
+</button>  
+</div>
+        </div>
+
+        <div id="text-container"></div>
+         <div class="custom-select-wrapper">
+          <div class="custom-select" id="custom-select">
+            <span class="selected-option">English</span>
+            <div class="select-arrow">&#9662;</div>
+          </div>
+          <ul class="select-options" id="select-options">
+            <li data-value="da">Dansk</li>
+            <li data-value="de">Deutsch</li>
+            <li data-value="en" class="selected">English</li>
+            <li data-value="fr">Français</li>
+            <li data-value="it">Italiano</li>
+            <li data-value="pt">Português</li>
+          </ul>
+        </div>
+
+        <section id="caption-section" class="caption-grid-container" >
+            <div class="caption-scroll-wrapper">
+          <div id="caption-grid" class="caption-grid">
+
+            <option value="caption1"></option>
+            <option value="caption2"></option>
+            <option value="caption3"></option>
+            <option value="caption4"></option>
+            <option value="caption5"></option>
+            <option value="caption6"></option>
+            <option value="caption7"></option>
+            <option value="caption8"></option>
+            <option value="caption9"></option>
+            <option value="caption10"></option>
+            <option value="caption11"></option>
+            <option value="caption12"></option>
+            <option value="caption13"></option>
+            <option value="caption14"></option>
+            <option value="caption15"></option>
+            <option value="caption16"></option>
+            <option value="caption17"></option>
+            <option value="caption18"></option>
+            <option value="caption19"></option>
+            <option value="caption20"></option>
+            <option value="caption21"></option>
+            <option value="caption22"></option>
+            <option value="caption23"></option>
+            <option value="caption24"></option>
+            <option value="caption25"></option>
+            <option value="caption26"></option>
+            <option value="caption27"></option>
+            <option value="caption28"></option>
+            <option value="caption29"></option>
+            <option value="caption30"></option>
+            <option value="caption31"></option>
+            <option value="caption32"></option>
+            <option value="caption33"></option>
+            <option value="caption34"></option>
+            <option value="caption35"></option>
+            <option value="caption36"></option>
+            <option value="caption37"></option>
+            <option value="caption38"></option>
+            <option value="caption39"></option>
+            <option value="caption40"></option>
+            <option value="caption41"></option>
+            <option value="caption42"></option>
+            <option value="caption43"></option>
+          </div>
+        </div>
+      </section>
+      </main>
+    </div>
+
+
+    <script src="./Components/DeckControl.js"></script>
+  </body>
+</html>

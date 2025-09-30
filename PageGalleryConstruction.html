@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+    <title>PageGalleryConstruction</title>
+    <link rel="stylesheet" href="./css/styleSuiteGallery.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 id="pageTitleConstruction"></h1>
+      </header>
+      <main>
+        <div class="corner-icon top-left"></div>
+        <div class="corner-icon top-right"></div>
+        <div class="corner-icon bottom-left"></div>
+        <div class="corner-icon bottom-right"></div>
+      
+
+      <div class="picturesConstruction">
+      <div id="portfolio">
+           <div id="loader">
+  <div id="loader-bar"></div>
+  <p id="loader-text">Chargement…</p>
+    </div>
+
+    <div id="lightbox" class="lightbox hidden">
+  <img class="lightbox-image" src="" alt="" />  
+  <span class="close">&times;</span>
+  <button class="prev">&#10094;</button>
+  <button class="next">&#10095;</button>
+</div></div></div><div id="filters" class="toolbar mb2 mt2">
+        <button class="btn fil-cat filter active" href="" data-filter="all">
+          All
+        </button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="harland"
+          data-filter=".harland"
+          id="titleHarland"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="insideConstruction"
+          data-filter=".insideConstruction"
+          id="titleInsideConstruction"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="outsideConstruction"
+          data-filter=".outsideConstruction"
+          id="titleOutsideConstruction"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="hull"
+          data-filter=".hull"
+          id="titleHull"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="funnel"
+          data-filter=".funnel"
+          id="titleFunnel"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="stern"
+          data-filter=".stern"
+          id="titleStern"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="propellers"
+          data-filter=".propellers"
+          id="titlePropellers"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="electricMotor"
+          data-filter=".electricMotor"
+          id="titleElectricMotor"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="steamMotor"
+          data-filter=".steamMotor"
+          id="titleSteamMotor"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="ventilation"
+          data-filter=".ventilation"
+          id="titleVentilation"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="windows"
+          data-filter=".windows"
+          id="titleWindows"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="anchor"
+          data-filter=".anchor"
+          id="titleAnchor"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="lifeboat"
+          data-filter=".lifeboat"
+          id="titleLifeboat"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="finish"
+          data-filter=".finish"
+          id="titleFinish"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="layout"
+          data-filter=".layout"
+          id="titleLayout"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="stockingPlaces"
+          data-filter=".stockingPlaces"
+          id="titleStockingPlaces"
+        ></button>
+        <button
+          class="btn fil-cat filter"
+          data-rel="other"
+          data-filter=".other"
+          id="titleOther"
+        ></button> </div>
+          <div id="goBackButton">
+            <a href="PageGallery.html">
+              <img src="Assets/images/Gallery/GoBack.svg" alt="Retour" />
+            </a>
+          </div>
+           <div class="custom-select-wrapper">
+          <div class="custom-select" id="custom-select">
+            <span class="selected-option">English</span>
+            <div class="select-arrow">&#9662;</div>
+          </div>
+          <ul class="select-options" id="select-options">
+            <li data-value="da">Dansk</li>
+            <li data-value="de">Deutsch</li>
+            <li data-value="en" class="selected">English</li>
+            <li data-value="fr">Français</li>
+            <li data-value="it">Italiano</li>
+            <li data-value="pt">Português</li>
+
+          </ul>
+        </div>
+        </div>
+
+</main>
+    <div style="clear: both"></div>
+    <script src="./Assets/Script/jquery.min.js"></script>
+    <script src="./Assets/Script/jquery.mixitup.min.js"></script>
+    <script src="./Components/GalleryConstructionControl.js"></script>
+  </body>
+</html>

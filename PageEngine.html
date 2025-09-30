@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>PageEngine</title>
+    <link rel="stylesheet" href="./css/styleEngine.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 id="pageTitle"></h1>
+      </header>
+
+      <main>
+        <div class="corner-icon top-left"></div>
+        <div class="corner-icon top-right"></div>
+        <div class="corner-icon bottom-left"></div>
+        <div class="corner-icon bottom-right"></div>
+        <div class="carousel" id="carousel"></div>
+        <div class="carousel-buttons" id="carousel-buttons"></div>
+        <div class="custom-select-wrapper">
+          <div class="custom-select" id="custom-select">
+            <span class="selected-option">English</span>
+            <div class="select-arrow">&#9662;</div>
+          </div>
+          <ul class="select-options" id="select-options">
+            <li data-value="da">Dansk</li>
+            <li data-value="de">Deutsch</li>
+            <li data-value="en" class="selected">English</li>
+            <li data-value="fr">Français</li>
+            <li data-value="it">Italiano</li>
+            <li data-value="pt">Português</li>
+          </ul>
+        </div>
+      </main>
+    </div>
+    <label for="lang-select"></label>
+
+    <script src="./Components/EngineControl.js"></script>
+  </body>
+</html>

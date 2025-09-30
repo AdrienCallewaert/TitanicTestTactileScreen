@@ -1,0 +1,51 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./css/Home.css" />
+    <title>Menu WebApp Titanic</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("./sw-manifest.json")
+        .catch(console.error);
+    });
+  }
+</script>
+
+
+  
+  <body>
+    <div class="container">
+      <header>
+        <h1>Main menu</h1>
+      </header>
+      <div class="corner-icon top-left"></div>
+      <div class="corner-icon top-right"></div>
+      <div class="corner-icon bottom-left"></div>
+      <div class="corner-icon bottom-right"></div>
+
+      <ul>
+        <div><a href="PageDeck.html">I. Page Deck</a></div>
+        <div><a href="PageEngine.html">II. Page Engine</a></div>
+        <div><a href="PageGallery.html">III. Page Gallery</a></div>
+        <div>
+          <a href="PageAllPassengersBefore.html"
+            >IV. Page All Passengers Before</a
+          >
+        </div>
+        <div>
+          <a href="PageAllPassengersAfter.html">V. Page All Passengers After</a>
+        </div>
+      </ul>
+    </div> 
+  </body>
+</html>
