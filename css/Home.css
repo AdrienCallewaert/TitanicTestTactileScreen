@@ -1,4 +1,4 @@
-/*Paysage*/
+/* --- ORIENTATIONS --- */
 @media (orientation: landscape) {
   .corner-icon {
     width: 6vw;
@@ -9,18 +9,15 @@
     font-size: 2.2vw;
   }
   .custom-select-wrapper {
-    position: fixed;
     bottom: 4vh;
     right: 6vw;
-    margin-left: 1vw;
-    width: 6vw;
+    width: auto;
   }
   .custom-select {
     padding: 1vh 1.2vw;
   }
 }
 
-/*Portrait*/
 @media (orientation: portrait) {
   .corner-icon {
     width: 12vw;
@@ -28,20 +25,19 @@
     margin: 0.5%;
   }
   h1 {
-    font-size: 3vw;
+    font-size: 3.5vw;
   }
   .custom-select-wrapper {
-    position: fixed;
     bottom: 4vh;
-    right: 11vw;
-    margin-left: 1vw;
-    width: 10vw;
+    right: 10vw;
+    width: auto;
   }
   .custom-select {
-    padding: 0.4vh 1.5vw;
+    padding: 0.8vh 1.6vw;
   }
 }
 
+/* --- STRUCTURE GÉNÉRALE --- */
 body {
   margin: 0;
   font-family: "Cinzel", serif;
@@ -54,28 +50,31 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
+/* --- EN-TÊTE --- */
 header {
-  padding: 2.2rem 1rem 1rem;
+  padding: 2rem 1rem 1rem;
   text-align: center;
   background: transparent;
-  /* border-bottom: 1px solid rgba(255, 255, 255, 0.2); */
   position: sticky;
-  top: 0rem;
+  top: 0;
   z-index: 10;
 }
 
 h1 {
-  margin: 0;
-  margin-top: 0.5rem;
-  margin-bottom: 1rem;
+  margin: 0.5rem 0 1rem 0;
   letter-spacing: 1.5px;
+  font-weight: 700;
 }
 
-.custom-select-wrapper {
-  font-family: "Cinzel", serif;
-  z-index: 1000;
+/* --- LISTE DE LIENS --- */
+ul {
+  padding-top: 16vh;
+  text-align: center;
+  margin: 0;
+  list-style: none;
 }
 
 ul a {
@@ -85,16 +84,27 @@ ul a {
   font-weight: bold;
   display: inline-block;
   margin: 1rem 0;
+  transition: color 0.3s ease, transform 0.3s ease;
 }
 
-ul {
-  padding-top: 16vh;
-  text-align: center;
+ul a:hover {
+  color: #b3cfff;
+  transform: scale(1.05);
+}
+
+/* --- SÉLECTEUR DE LANGUE --- */
+.custom-select-wrapper {
+  position: fixed;
+  font-family: "Cinzel", serif;
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
 
 .custom-select {
   background-color: #ffffff;
-  color: #000000;
+  color: #0f1a28;
   border-radius: 999px;
   font-weight: bold;
   font-size: 0.95rem;
@@ -102,66 +112,87 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.6rem 1.4rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.custom-select:hover {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
 }
 
 .select-arrow {
-  font-size: 1.2rem;
-  margin-left: 0.5rem;
+  font-size: 1rem;
 }
+
+/* Liste déroulante */
 .select-options {
-  color: #000;
   display: none;
   position: absolute;
   bottom: 110%;
   right: 0;
   background-color: #ffffff;
+  color: #0f1a28;
   border-radius: 1.5rem;
   list-style: none;
   padding: 0.5rem 0;
   margin: 0;
   width: 100%;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  z-index: 2100;
 }
 
 .select-options.open {
   display: block;
+  animation: fadeIn 0.2s ease-in-out;
 }
 
 .select-options li {
   padding: 0.6rem 1.5rem;
-  border-bottom: 0.1vh solid #706e6e3c;
+  border-bottom: 1px solid rgba(112, 110, 110, 0.2);
   cursor: pointer;
   font-weight: bold;
   transition: background-color 0.2s ease;
-  width: 60%;
+  width: 70%;
   margin: 0 auto;
+  text-align: center;
 }
 
 .select-options li:last-child {
   border-bottom: none;
 }
+
 .select-options li:hover,
 .select-options li.selected {
   background-color: #b8b8b8c4;
 }
-.select-options li:hover:first-child,
-.select-options li.selected:first-child {
+
+.select-options li:first-child:hover,
+.select-options li:first-child.selected {
   border-top-left-radius: 1.5rem;
   border-top-right-radius: 1.5rem;
 }
-.select-options li:hover:last-child,
-.select-options li.selected:last-child {
+
+.select-options li:last-child:hover,
+.select-options li:last-child.selected {
   border-bottom-left-radius: 1.5rem;
   border-bottom-right-radius: 1.5rem;
 }
 
+/* --- ANIMATION --- */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* --- ORNEMENTS DE COIN --- */
 .corner-icon {
   position: fixed;
   background-image: url("../Assets/images/corner.svg");
   background-size: contain;
   background-repeat: no-repeat;
-  z-index: 9999;
+  z-index: 999;
   pointer-events: none;
 }
 

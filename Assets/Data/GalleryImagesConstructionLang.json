@@ -1,0 +1,172 @@
+{
+  "anchor": {
+    "text": {
+      "en": "Anchor",
+      "fr": "Ancre",
+      "da": "Anker",
+      "de": "Anker",
+      "it": "Ancora",
+      "pt": "Âncora"
+    }
+  },
+  "electricMotor": {
+    "text": {
+      "en": "Electric Motor",
+      "fr": "Moteur électrique",
+      "da": "Elektrisk motor",
+      "de": "Elektromotor",
+      "it": "Motore elettrico",
+      "pt": "Motor elétrico"
+    }
+  },
+  "finish": {
+    "text": {
+      "en": "Finish",
+      "fr": "Finition",
+      "da": "Afslutning",
+      "de": "Finish",
+      "it": "Finitura",
+      "pt": "Acabamento"
+    }
+  },
+  "funnel": {
+    "text": {
+      "en": "Funnel",
+      "fr": "Cheminée",
+      "da": "Skorsten",
+      "de": "Schornstein",
+      "it": "Camino",
+      "pt": "Chaminé"
+    }
+  },
+  "harland": {
+    "text": {
+      "en": "Harland & Wolff",
+      "fr": "Harland & Wolff",
+      "da": "Harland & Wolff",
+      "de": "Harland & Wolff",
+      "it": "Harland & Wolff",
+      "pt": "Harland & Wolff"
+    }
+  },
+  "hull": {
+    "text": {
+      "en": "Hull",
+      "fr": "Coque",
+      "da": "Skrog",
+      "de": "Schiffsrumpf",
+      "it": "Scafo",
+      "pt": "Casco"
+    }
+  },
+  "insideConstruction": {
+    "text": {
+      "en": "Inside Construction",
+      "fr": "Intérieur du chantier",
+      "da": "Konstruktion indefra",
+      "de": "Innenkonstruktion",
+      "it": "Costruzione interna",
+      "pt": "Construção interna"
+    }
+  },
+  "layout": {
+    "text": {
+      "en": "Layout",
+      "fr": "Plans",
+      "da": "Planløsning",
+      "de": "Grundriss",
+      "it": "Piantina",
+      "pt": "Planta"
+    }
+  },
+  "lifeboat": {
+    "text": {
+      "en": "Lifeboat",
+      "fr": "Canot de sauvetage",
+      "da": "Redningsbåd",
+      "de": "Rettungsboot",
+      "it": "Scialuppa di salvataggio",
+      "pt": "Bote salva-vidas"
+    }
+  },
+  "other": {
+    "text": {
+      "en": "Other",
+      "fr": "Autres",
+      "da": "Andet",
+      "de": "Andere",
+      "it": "Altro",
+      "pt": "Outros"
+    }
+  },
+  "outsideConstruction": {
+    "text": {
+      "en": "Outside Construction",
+      "fr": "Extérieur du chantier",
+      "da": "Konstruktion udefra",
+      "de": "Außenkonstruktion",
+      "it": "Costruzione esterna",
+      "pt": "Construção externa"
+    }
+  },
+  "propellers": {
+    "text": {
+      "en": "Propellers",
+      "fr": "Hélices",
+      "da": "Propeller",
+      "de": "Schiffsschrauben",
+      "it": "Eliche",
+      "pt": "Hélices"
+    }
+  },
+  "steamMotor": {
+    "text": {
+      "en": "Steam Motor",
+      "fr": "Moteur à vapeur",
+      "da": "Damp-motor",
+      "de": "Dampfmotor",
+      "it": "Motore a vapore",
+      "pt": "Motor a vapor"
+    }
+  },
+  "stern": {
+    "text": {
+      "en": "Stern",
+      "fr": "Poupe",
+      "da": "Agter",
+      "de": "Heck",
+      "it": "Poppa",
+      "pt": "Popa"
+    }
+  },
+  "stockingPlaces": {
+    "text": {
+      "en": "Stocking Places",
+      "fr": "Zones de stockage",
+      "da": "Opbevaringssteder",
+      "de": "Bevorratungsplätze",
+      "it": "Aree di stoccaggio",
+      "pt": "Áreas de armazenamento"
+    }
+  },
+  "ventilation": {
+    "text": {
+      "en": "Ventilation",
+      "fr": "Ventilation",
+      "da": "Udluftning",
+      "de": "Belüftung",
+      "it": "Ventilazione",
+      "pt": "Ventilação"
+    }
+  },
+  "windows": {
+    "text": {
+      "en": "Windows",
+      "fr": "Fenêtres",
+      "da": "Vinduer",
+      "de": "Fenster",
+      "it": "Finestre",
+      "pt": "Janelas"
+    }
+  }
+}

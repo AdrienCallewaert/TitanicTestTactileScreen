@@ -6,7 +6,8 @@
       "da": "MASKINERNE",
       "de": "DIE MOTOR",
       "it": "LE MACCHINE",
-      "pt": "AS MÁQUINAS"
+      "pt": "AS MÁQUINAS",
+      "nl": "DE MACHINES"
     }
   },
   "boiler": {
@@ -17,7 +18,8 @@
       "da": "Kedel",
       "de": "Kessel",
       "it": "Caldaia",
-      "pt": "Caldeira"
+      "pt": "Caldeira",
+      "nl": "Ketel"
     }
   },
   "engine": {
@@ -28,7 +30,8 @@
       "da": "Motor",
       "de": "Motor",
       "it": "Motore",
-      "pt": "Motor"
+      "pt": "Motor",
+      "nl": "Motor"
     }
   },
   "fullEngine": {
@@ -39,7 +42,8 @@
       "da": "Komplet motor",
       "de": "Voller motor",
       "it": "Motore completo",
-      "pt": "Motor completo"
+      "pt": "Motor completo",
+      "nl": "Volledige motor"
     }
   },
   "engineRoom": {
@@ -50,7 +54,8 @@
       "da": "Turbine",
       "de": "Turbine",
       "it": "Turbina",
-      "pt": "Turbina"
+      "pt": "Turbina",
+      "nl": "Turbine"
     }
   }
 }

@@ -2,272 +2,114 @@
 <html lang="fr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
-    <title>PageGalleryConstruction</title>
-    <link rel="stylesheet" href="./css/styleSuiteGallery.css" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title data-i18n="pageTitleLancement">Launching of the Titanic</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="./css/Home.css" />
+    <link rel="stylesheet" href="./css/gallery.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
       rel="stylesheet"
     />
   </head>
+
   <body>
-    <div class="container">
-      <header>
-        <h1 id="pageTitleLancement"></h1>
-      </header>
-      <main>
-        <div class="corner-icon top-left"></div>
-        <div class="corner-icon top-right"></div>
-        <div class="corner-icon bottom-left"></div>
-        <div class="corner-icon bottom-right"></div>
+    <!-- === En-tête === -->
+    <header class="page-header">
+      <h1 id="pageTitleLancement" data-i18n="pageTitleLancement">
+        Launching of the Titanic
+      </h1>
+    </header>
 
-      <div class="picturesLancement">
-      <div id="portfolio">
-        <div id="loader">
-  <div id="loader-bar"></div>
-  <p id="loader-text">Chargement…</p>
-</div>
+    <!-- === Galerie === -->
+    <div id="gallery" class="grid">
+      <div class="grid-sizer"></div>
+    </div>
 
-<div id="lightbox" class="lightbox hidden">
-  <img class="lightbox-image" src="" alt="" />  
-  <span class="close">&times;</span>
-  <button class="prev">&#10094;</button>
-  <button class="next">&#10095;</button>
-</div></div></div><div id="filters" class="toolbar mb2 mt2">
-        <button class="btn fil-cat filter active" href="" data-filter="all">
-          All
-        </button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="cabin1st"
-          data-filter=".cabin1st"
-          id="titleCabin1st"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="cabin2nd"
-          data-filter=".cabin2nd"
-          id="titleCabin2nd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="cabin3rd"
-          data-filter=".cabin3rd"
-          id="titleCabin3rd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="dinner1st"
-          data-filter=".dinner1st"
-          id="titleDinner1st"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="dinner2nd"
-          data-filter=".dinner2nd"
-          id="titleDinner2nd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="dinner3rd"
-          data-filter=".dinner3rd"
-          id="titleDinner3rd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="porcelaine"
-          data-filter=".porcelaine"
-          id="titlePorcelaine"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="restaurant"
-          data-filter=".restaurant"
-          id="titleRestaurant"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="barber"
-          data-filter=".barber"
-          id="titleBarber"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="elevator"
-          data-filter=".elevator"
-          id="titleElevator"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="gym"
-          data-filter=".gym"
-          id="titleGym"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="squash"
-          data-filter=".squash"
-          id="titleSquash"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="swimmingPool"
-          data-filter=".swimmingPool"
-          id="titleSwimmingPool"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="turkishBath"
-          data-filter=".turkishBath"
-          id="titleTurkishBath"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="ontheDeck"
-          data-filter=".ontheDeck"
-          id="titleOntheDeck"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="cafeParisien"
-          data-filter=".cafeParisien"
-          id="titleCafeParisien"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="verandaCafe"
-          data-filter=".verandaCafe"
-          id="titleVerandaCafe"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="lounge1st"
-          data-filter=".lounge1st"
-          id="titleLounge1st"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="lounge2nd"
-          data-filter=".lounge2nd"
-          id="titleLounge2nd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="reading"
-          data-filter=".reading"
-          id="titleReading"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="receptionRoom"
-          data-filter=".receptionRoom"
-          id="titleReceptionRoom"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="sittingRoom"
-          data-filter=".sittingRoom"
-          id="titleSittingRoom"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="smokeRoom1st"
-          data-filter=".smokeRoom1st"
-          id="titleSmokeRoom1st"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="smokeRoom2nd"
-          data-filter=".smokeRoom2nd"
-          id="titleSmokeRoom2nd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="smokeRoom3rd"
-          data-filter=".smokeRoom3rd"
-          id="titleSmokeRoom3rd"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="staircase"
-          data-filter=".staircase"
-          id="titleStaircase"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="grandStaircase"
-          data-filter=".grandStaircase"
-          id="titleGrandStaircase"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="mailService"
-          data-filter=".mailService"
-          id="titleMailService"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="marconiTelegram"
-          data-filter=".marconiTelegram"
-          id="titleMarconiTelegram"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="kitchen"
-          data-filter=".kitchen"
-          id="titleKitchen"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="departure"
-          data-filter=".departure"
-          id="titleDeparture"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="aftermath"
-          data-filter=".aftermath"
-          id="titleAftermath"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="wreck"
-          data-filter=".wreck"
-          id="titleWreck"
-        ></button>
-        <button
-          class="btn fil-cat filter"
-          data-rel="layout"
-          data-filter=".layout"
-          id="titleLayout"
-        ></button>
+    <!-- === Coins décoratifs === -->
+    <div class="corner-icon top-left"></div>
+    <div class="corner-icon top-right"></div>
+    <div class="corner-icon bottom-left"></div>
+    <div class="corner-icon bottom-right"></div>
+
+    <!-- === Lightbox === -->
+    <div id="lightbox" class="lightbox hidden">
+      <span class="close">&times;</span>
+      <img id="lightbox-img" src="" alt="Preview" />
+    </div>
+
+    <!-- === Barre de filtres === -->
+    <div id="filters" class="toolbar">
+      <button class="filter-button active" data-filter="*" data-i18n="titleAll">All</button>
+
+      <button class="filter-button" data-filter=".cabin1st" data-i18n="titleCabin1st">Cabin 1st</button>
+      <button class="filter-button" data-filter=".cabin2nd" data-i18n="titleCabin2nd">Cabin 2nd</button>
+      <button class="filter-button" data-filter=".cabin3rd" data-i18n="titleCabin3rd">Cabin 3rd</button>
+
+      <button class="filter-button" data-filter=".dinner1st" data-i18n="titleDinner1st">Dinner 1st</button>
+      <button class="filter-button" data-filter=".dinner2nd" data-i18n="titleDinner2nd">Dinner 2nd</button>
+      <button class="filter-button" data-filter=".dinner3rd" data-i18n="titleDinner3rd">Dinner 3rd</button>
+
+      <button class="filter-button" data-filter=".porcelaine" data-i18n="titlePorcelaine">Porcelaine</button>
+      <button class="filter-button" data-filter=".restaurant" data-i18n="titleRestaurant">Restaurant</button>
+      <button class="filter-button" data-filter=".barber" data-i18n="titleBarber">Barber</button>
+      <button class="filter-button" data-filter=".elevator" data-i18n="titleElevator">Elevator</button>
+      <button class="filter-button" data-filter=".gym" data-i18n="titleGym">Gym</button>
+      <button class="filter-button" data-filter=".squash" data-i18n="titleSquash">Squash</button>
+      <button class="filter-button" data-filter=".swimmingpool" data-i18n="titleSwimmingpool">Swimming Pool</button>
+      <button class="filter-button" data-filter=".turkishbath" data-i18n="titleTurkishbath">Turkish Bath</button>
+      <button class="filter-button" data-filter=".onthedeck" data-i18n="titleOnthedeck">On the Deck</button>
+      <button class="filter-button" data-filter=".cafeparisien" data-i18n="titleCafeparisien">Cafe Parisien</button>
+      <button class="filter-button" data-filter=".verandacafe" data-i18n="titleVerandacafe">Veranda Cafe</button>
+      <button class="filter-button" data-filter=".lounge1st" data-i18n="titleLounge1st">Lounge 1st</button>
+      <button class="filter-button" data-filter=".lounge2nd" data-i18n="titleLounge2nd">Lounge 2nd</button>
+      <button class="filter-button" data-filter=".reading" data-i18n="titleReading">Reading & Writing</button>
+      <button class="filter-button" data-filter=".receptionroom" data-i18n="titleReceptionroom">Reception Room</button>
+      <button class="filter-button" data-filter=".sittingroom" data-i18n="titleSittingroom">Sitting Room</button>
+      <button class="filter-button" data-filter=".smokeroom1st" data-i18n="titleSmokeroom1st">Smoke Room 1st</button>
+      <button class="filter-button" data-filter=".smokeroom2nd" data-i18n="titleSmokeroom2nd">Smoke Room 2nd</button>
+      <button class="filter-button" data-filter=".smokeroom3rd" data-i18n="titleSmokeroom3rd">Smoke Room 3rd</button>
+      <button class="filter-button" data-filter=".staircase" data-i18n="titleStaircase">Staircase</button>
+      <button class="filter-button" data-filter=".grandstaircase" data-i18n="titleGrandstaircase">Grand Staircase</button>
+      <button class="filter-button" data-filter=".mailservice" data-i18n="titleMailservice">Mail Service</button>
+      <button class="filter-button" data-filter=".marconitelegram" data-i18n="titleMarconitelegram">Marconi Telegram</button>
+      <button class="filter-button" data-filter=".kitchen" data-i18n="titleKitchen">Kitchen</button>
+      <button class="filter-button" data-filter=".departure" data-i18n="titleDeparture">Departure</button>
+      <button class="filter-button" data-filter=".aftermath" data-i18n="titleAftermath">Aftermath</button>
+      <button class="filter-button" data-filter=".wreck" data-i18n="titleWreck">Wreck</button>
+      <button class="filter-button" data-filter=".layout" data-i18n="titleLayout">Layout</button>
+    </div>
+
+    <!-- === Bouton retour === -->
+    <div id="goBackButton">
+      <a href="PageGallery.html" data-i18n="goBack">
+        <img src="Assets/images/Gallery/GoBack.svg" alt="Return" />
+      </a>
+    </div>
+
+    <!-- === Sélecteur de langue === -->
+    <div class="custom-select-wrapper">
+      <div class="custom-select" id="custom-select">
+        <span class="selected-option">English</span>
+        <div class="select-arrow">&#9662;</div>
       </div>
-          <div id="goBackButton">
-            <a href="PageGallery.html">
-              <img src="Assets/images/Gallery/GoBack.svg" alt="Retour" />
-            </a>
-          </div>
-           <div class="custom-select-wrapper">
-          <div class="custom-select" id="custom-select">
-            <span class="selected-option">English</span>
-            <div class="select-arrow">&#9662;</div>
-          </div>
-          <ul class="select-options" id="select-options">
-            <li data-value="da">Dansk</li>
-            <li data-value="de">Deutsch</li>
-            <li data-value="en" class="selected">English</li>
-            <li data-value="fr">Français</li>
-            <li data-value="it">Italiano</li>
-            <li data-value="pt">Português</li>
-          </ul>
-        </div></div>
-        </div>
+      <ul class="select-options" id="select-options">
+        <li data-value="da">Dansk</li>
+        <li data-value="de">Deutsch</li>
+        <li data-value="en" class="selected">English</li>
+        <li data-value="fr">Français</li>
+        <li data-value="it">Italiano</li>
+        <li data-value="pt">Português</li>
+      </ul>
+    </div>
 
-</main>
-
-    <div style="clear: both"></div>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
-    <script src="./Components/GalleryLancementControl.js"></script>
+    <!-- === Librairies === -->
+    <script src="Assets/Script/imagesloaded.pkgd.min.js" defer></script>
+    <script src="Assets/Script/isotope.pkgd.min.js" defer></script>
+    <script src="./Components/GalleryLancementIsotope.js" defer></script>
   </body>
 </html>

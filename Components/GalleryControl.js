@@ -1,64 +1,62 @@
 document.addEventListener("DOMContentLoaded", async () => {
-  const langSelect = document.getElementById("custom-select");
-  const selectedOption = langSelect.querySelector(".selected-option");
-  const optionsList = document.getElementById("select-options");
-  const constructionTitle = document.getElementById("constructionTitle");
-  const launchingTitle = document.getElementById("launchingTitle");
-  const pageTitle = document.getElementById("pageTitle");
+  const select = document.getElementById("custom-select");
+  const options = document.getElementById("select-options");
+  const selected = document.querySelector(".selected-option");
 
-  let data;
-  let lang = optionsList.querySelector(".selected").dataset.value;
+  // === 🔧 Gestion des langues (helper commun) ===
+  function getSavedLang() {
+    return localStorage.getItem("lang") || (navigator.language || "en").slice(0, 2);
+  }
 
-  async function fetchGalleryData() {
+  async function loadLanguage(lang = getSavedLang()) {
     try {
-      const res = await fetch("Assets/Data/Gallery.json");
-      if (!res.ok) throw new Error("Fichier JSON introuvable.");
-      return await res.json();
-    } catch (e) {
-      alert("Erreur de chargement des données.");
-      console.error(e);
-      return;
+      const res = await fetch("Assets/Data/Gallery.json", { cache: "no-store" });
+      const data = await res.json();
+
+      // 🔁 Appliquer les traductions à tous les éléments avec data-i18n
+      document.querySelectorAll("[data-i18n]").forEach((el) => {
+        const key = el.dataset.i18n;
+        const translation = data[key]?.text?.[lang];
+        if (translation) el.textContent = translation;
+      });
+
+      // 🔖 Met à jour l’état du menu
+      if (selected) selected.textContent = options.querySelector(`[data-value="${lang}"]`)?.textContent || "English";
+      options.querySelectorAll("li").forEach((li) => li.classList.remove("selected"));
+      const active = options.querySelector(`[data-value="${lang}"]`);
+      if (active) active.classList.add("selected");
+
+      localStorage.setItem("lang", lang);
+    } catch (err) {
+      console.error("Erreur de chargement du fichier de langue :", err);
     }
   }
 
-  //maj texte selon langue
-  function updateTextContent() {
-    if (!data) return;
+  function wireLanguageSelector() {
+    if (!select || !options) return;
 
-    pageTitle.textContent = data.pageTitle?.text?.[lang] || "Galerie";
-    constructionTitle.textContent =
-      data.constructionTitle?.text?.[lang] || "Construction";
-    launchingTitle.textContent =
-      data.launchingTitle?.text?.[lang] || "Lancement";
-  }
-
-  data = await fetchGalleryData();
-  updateTextContent();
-
-  // Choix langue
-  langSelect.addEventListener("click", () => {
-    optionsList.style.display =
-      optionsList.style.display === "block" ? "none" : "block";
-  });
-
-  optionsList.querySelectorAll("li").forEach((option) => {
-    option.addEventListener("click", () => {
-      selectedOption.textContent = option.textContent;
-      lang = option.dataset.value;
-      optionsList
-        .querySelectorAll("li")
-        .forEach((li) => li.classList.remove("selected"));
-      option.classList.add("selected");
-      optionsList.style.display = "none";
-
-      updateTextContent();
+    // 🧭 Ouvre / ferme le menu
+    select.addEventListener("click", () => {
+      options.classList.toggle("show");
     });
-  });
 
-  // Fermer si on clique à l'extérieur
-  document.addEventListener("click", (e) => {
-    if (!langSelect.contains(e.target) && !optionsList.contains(e.target)) {
-      optionsList.style.display = "none";
-    }
-  });
+    // 🖱️ Sélection d’une langue
+    options.querySelectorAll("li").forEach((li) => {
+      li.addEventListener("click", () => {
+        options.classList.remove("show");
+        loadLanguage(li.dataset.value);
+      });
+    });
+
+    // 🚪 Ferme le menu si clic à l’extérieur
+    document.addEventListener("click", (e) => {
+      if (!select.contains(e.target)) {
+        options.classList.remove("show");
+      }
+    });
+  }
+
+  // === Initialisation ===
+  wireLanguageSelector();
+  loadLanguage(getSavedLang());
 });

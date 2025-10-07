@@ -1,0 +1,342 @@
+{
+  "cabin1st": {
+    "text": {
+      "en": "Cabin 1st",
+      "fr": "Cabine 1ère classe",
+      "da": "Kahyt 1. klasse",
+      "de": "Kabine 1. Klasse",
+      "it": "Cabina 1ª classe",
+      "pt": "Cabine de 1ª classe"
+    }
+  },
+  "cabin2nd": {
+    "text": {
+      "en": "Cabin 2nd",
+      "fr": "Cabine 2ème classe",
+      "da": "Kahyt 2. klasse",
+      "de": "Kabine 2. Klasse",
+      "it": "Cabina 2ª classe",
+      "pt": "Cabine de 2ª classe"
+    }
+  },
+  "cabin3rd": {
+    "text": {
+      "en": "Cabin 3rd",
+      "fr": "Cabine 3ème classe",
+      "da": "Kahyt 3. klasse",
+      "de": "Kabine 3. Klasse",
+      "it": "Cabina 3ª classe",
+      "pt": "Cabine de 3ª classe"
+    }
+  },
+  "dinner1st": {
+    "text": {
+      "en": "Dinner 1st",
+      "fr": "Salle à manger 1ère classe",
+      "da": "Spisesal 1. klasse",
+      "de": "Speisesaal 1. Klasse",
+      "it": "Sala da pranzo 1ª classe",
+      "pt": "Sala de jantar 1ª classe"
+    }
+  },
+  "dinner2nd": {
+    "text": {
+      "en": "Dinner 2nd",
+      "fr": "Salle à manger 2ème classe",
+      "da": "Spisesal 2. klasse",
+      "de": "Speisesaal 2. Klasse",
+      "it": "Sala da pranzo 2ª classe",
+      "pt": "Sala de jantar 2ª classe"
+    }
+  },
+  "dinner3rd": {
+    "text": {
+      "en": "Dinner 3rd",
+      "fr": "Salle à manger 3ème classe",
+      "da": "Spisesal 3. klasse",
+      "de": "Speisesaal 3. Klasse",
+      "it": "Sala da pranzo 3ª classe",
+      "pt": "Sala de jantar 3ª classe"
+    }
+  },
+  "porcelaine": {
+    "text": {
+      "en": "Porcelaine",
+      "fr": "Porcelaine",
+      "da": "Porcelæn",
+      "de": "Porzellan",
+      "it": "Porcellane",
+      "pt": "Porcelana"
+    }
+  },
+  "restaurant": {
+    "text": {
+      "en": "Restaurant",
+      "fr": "Restaurant",
+      "da": "Restaurant",
+      "de": "Restaurant",
+      "it": "Ristorante",
+      "pt": "Restaurante"
+    }
+  },
+  "barber": {
+    "text": {
+      "en": "Barber",
+      "fr": "Barbier",
+      "da": "Barber",
+      "de": "Barbier",
+      "it": "Barbiere",
+      "pt": "Barbeiro"
+    }
+  },
+  "elevator": {
+    "text": {
+      "en": "Elevator",
+      "fr": "Ascenseur",
+      "da": "Lift",
+      "de": "Aufzug",
+      "it": "Ascensore",
+      "pt": "Elevador"
+    }
+  },
+  "gym": {
+    "text": {
+      "en": "Gym",
+      "fr": "Gymnase",
+      "da": "Træningslokale",
+      "de": "Fitnessraum",
+      "it": "Palestra",
+      "pt": "Ginásio"
+    }
+  },
+  "squash": {
+    "text": {
+      "en": "Squash",
+      "fr": "Squash",
+      "da": "Squash",
+      "de": "Squash",
+      "it": "Squash",
+      "pt": "Squash"
+    }
+  },
+  "swimmingpool": {
+    "text": {
+      "en": "Swimming Pool",
+      "fr": "Piscine",
+      "da": "Svømmehal",
+      "de": "Schwimmbecken",
+      "it": "Piscina",
+      "pt": "Piscina"
+    }
+  },
+  "turkishbath": {
+    "text": {
+      "en": "Turkish Bath",
+      "fr": "Bain turc",
+      "da": "Tyrkisk bad",
+      "de": "Türkisches Bad",
+      "it": "Bagno turco",
+      "pt": "Banho turco"
+    }
+  },
+  "onthedeck": {
+    "text": {
+      "en": "On the Deck",
+      "fr": "Sur le pont",
+      "da": "På dækket",
+      "de": "Auf dem Deck",
+      "it": "Sul ponte",
+      "pt": "No convés"
+    }
+  },
+  "cafeparisien": {
+    "text": {
+      "en": "Cafe Parisien",
+      "fr": "Café Parisien",
+      "da": "PariserCafe",
+      "de": "Pariser Café",
+      "it": "Caffè Parisien",
+      "pt": "Café Parisien"
+    }
+  },
+  "verandacafe": {
+    "text": {
+      "en": "Veranda Cafe",
+      "fr": "Véranda Café",
+      "da": "Verandacafé",
+      "de": "Veranda Café",
+      "it": "Veranda Café",
+      "pt": "Café Veranda"
+    }
+  },
+  "lounge1st": {
+    "text": {
+      "en": "Lounge 1st",
+      "fr": "Lounge 1ère classe",
+      "da": "Lounge 1. klasse",
+      "de": "Lounge 1. Klasse",
+      "it": "Lounge 1ª classe",
+      "pt": "Lounge 1ª classe"
+    }
+  },
+  "lounge2nd": {
+    "text": {
+      "en": "Lounge 2nd",
+      "fr": "Lounge 2ème classe",
+      "da": "Lounge 2. klasse",
+      "de": "Lounge 2. Klasse",
+      "it": "Lounge 2ª classe",
+      "pt": "Lounge 2ª classe"
+    }
+  },
+  "reading": {
+    "text": {
+      "en": "Reading & Writing",
+      "fr": "Salle de lecture et d'écriture",
+      "da": "Læse- og skriverum",
+      "de": "Lesen und Schreiben",
+      "it": "Sala lettura e scrittura",
+      "pt": "Sala de leitura e escrita"
+    }
+  },
+  "receptionroom": {
+    "text": {
+      "en": "Reception Room",
+      "fr": "Salle de réception",
+      "da": "Modtagelsesværelse",
+      "de": "Empfangsraum",
+      "it": "Sala ricevimento",
+      "pt": "Sala de recepção"
+    }
+  },
+  "sittingroom": {
+    "text": {
+      "en": "Sitting Room",
+      "fr": "Salle de séjour",
+      "da": "Opholdsstue",
+      "de": "Salon",
+      "it": "Salotto",
+      "pt": "Sala de estar"
+    }
+  },
+  "smokeroom1st": {
+    "text": {
+      "en": "Smoke Room 1st",
+      "fr": "Fumoir 1ère classe",
+      "da": "Rygestue 1. klasse",
+      "de": "Rauchzimmer 1. Klasse",
+      "it": "Sala fumatori 1ª classe",
+      "pt": "Sala de fumadores 1ª classe"
+    }
+  },
+  "smokeroom2nd": {
+    "text": {
+      "en": "Smoke Room 2nd",
+      "fr": "Fumoir 2ème classe",
+      "da": "Rygestue 2. klasse",
+      "de": "Rauchzimmer 2. Klasse",
+      "it": "Sala fumatori 2ª classe",
+      "pt": "Sala de fumadores 2ª classe"
+    }
+  },
+  "smokeroom3rd": {
+    "text": {
+      "en": "Smoke Room 3rd",
+      "fr": "Fumoir 3ème classe",
+      "da": "Rygestue 3. klasse",
+      "de": "Rauchzimmer 3. Klasse",
+      "it": "Sala fumatori 3ª classe",
+      "pt": "Sala de fumadores 3ª classe"
+    }
+  },
+  "staircase": {
+    "text": {
+      "en": "Staircase",
+      "fr": "Escalier",
+      "da": "Trappe",
+      "de": "Treppe",
+      "it": "Scala",
+      "pt": "Escada"
+    }
+  },
+  "grandstaircase": {
+    "text": {
+      "en": "Grand Staircase",
+      "fr": "Grand escalier",
+      "da": "Stor trappe",
+      "de": "Prunktreppe",
+      "it": "Grande scala",
+      "pt": "Grande escadaria"
+    }
+  },
+  "mailservice": {
+    "text": {
+      "en": "Mail Service",
+      "fr": "Service postal",
+      "da": "Postservice",
+      "de": "Postdienst",
+      "it": "Ufficio postale",
+      "pt": "Serviço postal"
+    }
+  },
+  "marconitelegram": {
+    "text": {
+      "en": "Marconi Telegram",
+      "fr": "Télégramme de Marconi",
+      "da": "Marconi Telegram",
+      "de": "Marconi Telegramm",
+      "it": "Sala Marconi",
+      "pt": "Telegrama Marconi"
+    }
+  },
+  "kitchen": {
+    "text": {
+      "en": "Kitchen",
+      "fr": "Cuisine",
+      "da": "Køkken",
+      "de": "Küche",
+      "it": "Cucina",
+      "pt": "Cozinha"
+    }
+  },
+  "departure": {
+    "text": {
+      "en": "Departure",
+      "fr": "Départ",
+      "da": "Afrejse",
+      "de": "Abfahrt",
+      "it": "Partenza",
+      "pt": "Partida"
+    }
+  },
+  "aftermath": {
+    "text": {
+      "en": "Aftermath",
+      "fr": "Conséquences",
+      "da": "Eftervirkninger",
+      "de": "Nachwirkungen",
+      "it": "Conseguenze",
+      "pt": "Consequências"
+    }
+  },
+  "wreck": {
+    "text": {
+      "en": "Wreck",
+      "fr": "Épave",
+      "da": "Vrag",
+      "de": "Wrack",
+      "it": "Relitto",
+      "pt": "Naufrágio"
+    }
+  },
+  "layout": {
+    "text": {
+      "en": "Layout",
+      "fr": "Disposition",
+      "da": "Planløsning",
+      "de": "Grundriss",
+      "it": "Disposizione",
+      "pt": "Disposição"
+    }
+  }
+}

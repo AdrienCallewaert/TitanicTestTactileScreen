@@ -1,104 +1,217 @@
-/*Paysage*/
-@media (orientation: landscape) {
-  .corner-icon {
-    width: 6vw;
-    height: 6vw;
-    margin: 0.2%;
-  }
-  h1 { font-size: 2.2vw; }
-  .custom-select-wrapper { position: fixed; bottom: 4vh; right: 6vw; }
-  .custom-select { padding: 1vh 1.2vw; }
-  .options {
-    display: flex; justify-content: center; align-items: flex-start;
-    gap: 2.5rem; padding: 1rem; margin: 3% 10%;
-  }
-}
+@import url("Home.css");
 
-/*Portrait*/
-@media (orientation: portrait) {
-  .corner-icon { width: 12vw; height: 12vw; margin: 0.5%; }
-  h1 { font-size: 4vw; }
-
-  .custom-select-wrapper { position: fixed; bottom: 5vh; right: 44vw; }
-  .custom-select { padding: 0.6vh 1.5vw; }
-  .options {
-    display: flex; flex-direction: column; justify-content: center; align-items: center;
-    gap: 4rem; padding: 1rem; margin: 3vw 10vw;
-  }
-}
-
-.top-controls { display: flex; justify-content: flex-end; width: 98%; margin-top: 1rem; }
-
-html, body { height: 100%; }
-body {
+/* --- STYLE GLOBAL --- */
+html, body {
   margin: 0;
-  font-family: "Cinzel", serif;
+  padding: 0;
   background-color: #0f1a28;
   color: #ffffff;
-
-  /* inertie & scroll tactile */
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  touch-action: pan-y;
+  font-family: "Cinzel", serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
-.container { height: 100vh; display: flex; flex-direction: column; }
-
-header {
-  padding: 3rem 1rem 1rem;
-  text-align: center;
-  background: transparent;
-  position: sticky;
-  top: 0;
-  z-index: 10;
-}
-h1 { margin: 0; letter-spacing: 1.5px; }
-
-.custom-select-wrapper { font-family: "Cinzel", serif; z-index: 1000; }
-.custom-select {
-  background-color: #ffffff; color: #000000; border-radius: 999px;
-  font-weight: bold; font-size: 0.95rem; cursor: pointer;
-  display: flex; align-items: center; justify-content: space-between;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-.select-arrow { font-size: 1.2rem; margin-left: 0.5rem; }
-
-.select-options {
-  color: #000; display: none; position: absolute; bottom: 110%; right: 0;
-  background-color: #ffffff; border-radius: 1.5rem; list-style: none;
-  padding: 0.5rem 0; margin: 0; width: 100%;
-  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
-}
-.select-options li {
-  padding: 0.6rem 1.5rem; border-bottom: 0.1vh solid #706e6e3c; cursor: pointer;
-  font-weight: bold; transition: background-color 0.2s ease; width: 60%; margin: 0 auto;
-}
-.select-options li:last-child { border-bottom: none; }
-.select-options li:hover, .select-options li.selected { background-color: #b8b8b8c4; }
-.select-options li:hover:first-child, .select-options li.selected:first-child {
-  border-top-left-radius: 1.5rem; border-top-right-radius: 1.5rem;
-}
-.select-options li:hover:last-child, .select-options li.selected:last-child {
-  border-bottom-left-radius: 1.5rem; border-bottom-right-radius: 1.5rem;
-}
-
-.box { flex: 1 1 45%; display: flex; flex-direction: column; text-align: center; }
-.box p { font-size: 1.5rem; font-weight: bold; margin-bottom: 0.5rem; font-family: "Cinzel", serif; }
-
-.box img {
-  width: 100%; max-height: 600px; aspect-ratio: 4 / 3; object-fit: cover; display: block;
-  border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2); border: solid 1px #ffffff;
-}
-
+/* --- COINS DÉCORATIFS --- */
 .corner-icon {
   position: fixed;
   background-image: url("../Assets/images/corner.svg");
   background-size: contain;
   background-repeat: no-repeat;
-  z-index: 9999;
+  z-index: 5000;
+  opacity: 0.9;
   pointer-events: none;
 }
-.corner-icon.top-right { top: 0; right: 0; transform: rotate(90deg); }
+
 .corner-icon.top-left { top: 0; left: 0; }
+.corner-icon.top-right { top: 0; right: 0; transform: rotate(90deg); }
 .corner-icon.bottom-left { bottom: 0; left: 0; transform: rotate(-90deg); }
 .corner-icon.bottom-right { bottom: 0; right: 0; transform: rotate(180deg); }
+
+/* --- TITRE PRINCIPAL (aligné avec Deck/Engine) --- */
+header {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  padding: 9vh 2vw 6vh;
+  z-index: 10;
+}
+
+header h1 {
+  display: inline-block;
+  margin: 0 auto;
+  font-size: clamp(1.8rem, 2.6vw, 3rem);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  color: #ffffff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+  padding-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+/* --- CONTENEUR DES CHOIX --- */
+.gallery-choice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5vw;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 5vh 2vw 12vh;
+}
+
+/* --- BLOCS DE CHOIX --- */
+.gallery-box {
+  position: relative;
+  width: clamp(250px, 40vw, 520px);
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 18px;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.4);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  background-color: #0f1a28;
+}
+
+.gallery-box:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.4);
+}
+
+/* --- IMAGE --- */
+.gallery-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(20%) brightness(0.85);
+  transition: filter 0.4s ease, transform 0.4s ease;
+}
+
+.gallery-box:hover img {
+  filter: brightness(1);
+  transform: scale(1.05);
+}
+
+/* --- TITRE SUR IMAGE (centré proprement) --- */
+.gallery-box p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(15, 26, 40, 0.85);
+  color: #fff;
+  font-size: clamp(1rem, 1.4vw, 1.6rem);
+  font-weight: 600;
+  text-transform: uppercase;
+  height: 20%;
+  margin: 0;
+  letter-spacing: 1px;
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+  transition: background 0.3s ease;
+}
+
+.gallery-box:hover p {
+  background: rgba(15, 26, 40, 0.65);
+}
+
+/* --- SÉLECTEUR DE LANGUE --- */
+.custom-select-wrapper {
+  position: fixed;
+  bottom: 4vh;
+  right: 6vw;
+  z-index: 4000;
+}
+
+.custom-select {
+  background-color: #fff;
+  color: #0f1a28;
+  padding: 8px 18px;
+  border-radius: 25px;
+  font-weight: 600;
+  font-family: "Cinzel", serif;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease-in-out;
+}
+
+.custom-select:hover {
+  box-shadow: 0 0 14px rgba(255, 255, 255, 0.4);
+}
+
+.select-arrow {
+  font-size: 0.8em;
+}
+
+.select-options {
+  position: absolute;
+  bottom: 110%;
+  right: 0;
+  background: #fff;
+  color: #0f1a28;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+  display: none;
+  list-style: none;
+  padding: 8px 0;
+  margin: 0;
+  z-index: 4100;
+}
+
+.select-options.show {
+  display: block;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+.select-options li {
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+  text-align: center;
+}
+
+.select-options li:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* --- ANIMATION --- */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* --- RESPONSIVE --- */
+@media (max-width: 900px) {
+  .gallery-choice {
+    flex-direction: column;
+    gap: 4vh;
+  }
+
+  .gallery-box {
+    width: 75vw;
+    aspect-ratio: 1 / 1;
+  }
+
+  .gallery-box p {
+    height: 18%;
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-height: 700px) {
+  header {
+    padding-top: 8vh;
+    padding-bottom: 5vh;
+  }
+  header h1 {
+    font-size: clamp(1.6rem, 2vw, 2.6rem);
+  }
+}
