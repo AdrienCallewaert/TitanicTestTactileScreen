@@ -1,0 +1,44 @@
+{
+  "passenger36": {
+    "grade": "Passenger",
+    "age": 23,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "1st",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/36-Marjorie-Anne-Newell.jpg",
+      "alt": "picture of Marjorie Anne Newell"
+    },
+    "name": {
+      "fr": "Marjorie Anne Newell",
+      "en": "Marjorie Anne Newell",
+      "da": "Marjorie Anne Newell",
+      "de": "Marjorie Anne Newell",
+      "it": "Marjorie Anne Newell",
+      "pt": "Marjorie Anne Newell"
+    },
+    "description": {
+      "fr": "Marjorie Newell, voyageant avec son père Arthur, rentrait d’un tour culturel d’Europe. Ils visitèrent des sites historiques majeurs, des musées et assistèrent à divers événements culturels. Jeune femme instruite et raffinée, Marjorie appréciait l’opportunité de découvrir différentes cultures. Avant d’embarquer sur le Titanic, ils séjournèrent dans des villes comme Paris et Rome, s’imprégnant d’histoire et d’art. Le retour aux États-Unis était attendu avec impatience, désireux de partager leurs expériences avec famille et amis. Les connaissances artistiques de Marjorie rendaient ce voyage particulièrement enrichissant et mémorable.",
+      "en": "Marjorie Newell, traveling with her father Arthur, was returning from a cultural tour of Europe. They visited significant historical sites, museums, and attended various cultural events. Marjorie, a young woman of education and refinement, enjoyed the opportunity to learn and experience different cultures. Before boarding the Titanic, they spent time in cities like Paris and Rome, absorbing the rich history and art. The journey back to the United States was eagerly anticipated, as they looked forward to sharing their experiences with family and friends. Marjorie's background in the arts made this trip particularly enriching and memorable.",
+      "da": "Marjorie Newell, som rejste med sin far Arthur, var på vej hjem fra en kulturel rundrejse i Europa. De besøgte vigtige historiske steder og museer og deltog i forskellige kulturelle arrangementer. Som en veluddannet og kultiveret ung kvinde nød Marjorie muligheden for at lære og opleve forskellige kulturer. Før de gik ombord på Titanic, tilbragte de tid i byer som Paris og Rom, hvor de sugede til sig af den rige historie og kunst. Rejsen tilbage til USA var ventet med spænding, og de glædede sig til at dele deres oplevelser med familie og venner. Marjories baggrund inden for kunst gjorde denne rejse særligt berigende og mindeværdig.",
+      "de": "Marjorie Newell, die mit ihrem Vater Arthur reiste, kehrte von einer Kulturreise durch Europa zurück. Sie besuchten bedeutende historische Stätten und Museen und nahmen an verschiedenen kulturellen Veranstaltungen teil. Marjorie, eine junge, gebildete und kultivierte Frau, genoss die Gelegenheit, andere Kulturen kennenzulernen und zu erleben. Bevor sie an Bord der Titanic gingen, verbrachten sie Zeit in Städten wie Paris und Rom und nahmen die reiche Geschichte und Kunst in sich auf. Die Reise zurück in die Vereinigten Staaten wurde mit Spannung erwartet, da sie sich darauf freuten, ihre Erfahrungen mit Familie und Freunden zu teilen. Marjories Hintergrund in der Kunst machte diese Reise besonders bereichernd und unvergesslich.",
+      "it": "Marjorie Newell, in viaggio con suo padre Arthur, tornava da un tour culturale in Europa. Avevano visitato siti storici significativi, musei e partecipato a vari eventi culturali. Marjorie, una giovane donna di istruzione e raffinatezza, apprezzava l'opportunità di imparare e sperimentare culture diverse. Prima di imbarcarsi sul Titanic, avevano trascorso del tempo in città come Parigi e Roma, assorbendo la ricca storia e l'arte. Il viaggio di ritorno negli Stati Uniti era atteso con impazienza, poiché non vedevano l'ora di condividere le loro esperienze con familiari e amici. Il background di Marjorie nelle arti rendeva questo viaggio particolarmente arricchente e memorabile.",
+      "pt": "Marjorie Newell, que viajava com seu pai Arthur, retornava de uma viagem cultural pela Europa. Eles visitaram importantes sítios históricos, museus e participaram de diversos eventos culturais. Marjorie, uma jovem educada e refinada, apreciou a oportunidade de aprender e vivenciar diferentes culturas. Antes de embarcar no Titanic, passaram temporadas em cidades como Paris e Roma, absorvendo a rica história e arte desses locais. A volta para os Estados Unidos era ansiosamente aguardada, pois planejavam compartilhar suas experiências com familiares e amigos. O interesse de Marjorie pelas artes tornou esta viagem especialmente enriquecedora e memorável."
+    },
+    "postIceberg": {
+      "fr": "Marjorie Newell, qui voyageait avec son père, survécut en embarquant dans le canot de sauvetage n°6. Elle mena ensuite une vie discrète aux États-Unis après la catastrophe.",
+      "en": "Marjorie Newell, traveling with her father, survived by boarding lifeboat 6. She continued to live a quiet life in the United States after the disaster.",
+      "da": "Marjorie Newell, som rejste med sin far, overlevede ved at gå om bord i redningsbåd nr. 6. Hun fortsatte med at leve et stille liv i USA efter katastrofen.",
+      "de": "Marjorie Newell, die mit ihrem Vater reiste, überlebte an Bord des Rettungsbootes 6. Nach der Katastrophe führte sie ein ruhiges Leben in den Vereinigten Staaten.",
+      "it": "Marjorie Newell, in viaggio con il padre, sopravvisse salendo sulla scialuppa di salvataggio 6. Continuò a vivere una vita tranquilla negli Stati Uniti dopo il disastro.",
+      "pt": "Marjorie Newell, viajando com seu pai, sobreviveu ao embarcar no bote salva-vidas número 6. Após o desastre, ela levou uma vida tranquila nos Estados Unidos."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "passenger68": {
+    "grade": "Passenger",
+    "age": "18 & 15",
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "3rd",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/68-NOPICS2.png",
+      "alt": "picture of Saiide Barbara and Catherine David Barbara"
+    },
+    "name": {
+      "fr": "Saiide Barbara et Catherine David Barbara",
+      "en": "Saiide Barbara and Catherine David Barbara",
+      "da": "Saiide Barbara og Catherine David Barbara",
+      "de": "Saiide Barbara und Catherine David Barbara",
+      "it": "Saiide Barbara e Catherine David Barbara",
+      "pt": ""
+    },
+    "description": {
+      "fr": "Saiide et Catherine Barbara émigrent aux États-Unis pour de meilleures perspectives. Avant d’embarquer sur le Titanic, elles vivent au Liban, où elles font face à des difficultés économiques et aspirent à une vie plus prospère. Elles organisent leur voyage ensemble, espérant trouver du travail et se soutenir mutuellement dans leur nouvel environnement. La traversée sur le Titanic s’inscrit dans leur projet de repartir à zéro en Amérique, où elles souhaitent améliorer leurs conditions de vie et assurer un avenir stable. Saiide et Catherine Barbara sont toutes deux femmes de ménage à destination d’Ottawa, au Canada.",
+      "en": "Saiide and Catherine Barbara were emigrating to the United States for better opportunities. Before boarding the Titanic, they lived in Lebanon, where they faced economic difficulties and sought a more prosperous life. They made arrangements to travel together, hoping to find work and support each other in their new environment. The journey on the Titanic was part of their plan to start afresh in America, where they aimed to improve their living conditions and secure a stable future. Saiide and Catherine Barbara were both housekeepers bound for Ottawa, Canada.",
+      "da": "Saiide og Catherine Barbara emigrerede til USA i jagten på et bedre liv. Før de gik om bord på Titanic, boede de i Libanon, hvor de havde økonomiske problemer og ønskede bedre levevilkår. De rejste sammen i håb om at finde arbejde og støtte hinanden i deres nye tilværelse. Rejsen med Titanic var en del af deres plan om at starte på en frisk i Amerika, hvor de ville opnå et bedre liv og sikre sig en stabil fremtid. Saiide og Catherine Barbara var begge husholdersker og på vej til Ottawa i Canada.",
+      "de": "Saiide und Catherine Barbara waren auf der Suche nach besseren Möglichkeiten in die Vereinigten Staaten ausgewandert. Bevor sie an Bord der Titanic gingen, lebten sie im Libanon, wo sie mit wirtschaftlichen Schwierigkeiten zu kämpfen hatten und ein wohlhabenderes Leben suchten. Sie trafen Vorkehrungen, um gemeinsam zu reisen, in der Hoffnung, Arbeit zu finden und sich gegenseitig in ihrer neuen Umgebung zu unterstützen. Die Reise auf der Titanic war Teil ihres Plans für einen Neuanfang in Amerika, wo sie ihre Lebensbedingungen verbessern und sich eine stabile Zukunft sichern wollten. Saiide und Catherine Barbara waren beide Haushälterinnen, die nach Ottawa, Kanada, reisten.",
+      "it": "Saiide e Catherine Barbara stavano emigrando negli Stati Uniti per migliori opportunità. Prima di imbarcarsi sul Titanic, vivevano in Libano, dove affrontavano difficoltà economiche e cercavano una vita più prospera. Fecero i preparativi per viaggiare insieme, sperando di trovare lavoro e sostenersi a vicenda nel nuovo ambiente. Il viaggio sul Titanic faceva parte del loro piano di ricominciare in America, dove miravano a migliorare le loro condizioni di vita e garantire un futuro stabile. Saiide e Catherine Barbara erano entrambe governanti dirette a Ottawa, Canada.",
+      "pt": "Saiide e Catherine Barbara emigravam para os Estados Unidos em busca de melhores oportunidades. Antes de embarcarem no Titanic, viviam no Líbano, onde enfrentavam dificuldades econômicas e ansiavam por uma vida mais próspera. Organizaram-se para viajar juntas, na esperança de encontrar trabalho e de poderem apoiar-se mutuamente no novo ambiente. A travessia no Titanic fazia parte do plano de recomeçar na América, onde buscavam melhorar suas condições de vida e conquistar um futuro estável. Saiide e Catherine Barbara eram ambas empregadas domésticas, com destino a Ottawa, no Canadá."
+    },
+    "postIceberg": {
+      "fr": "Saiide et Catherine Barbara, immigrées libanaises, voyageaient aux États-Unis pour de meilleures opportunités. La nuit du naufrage, elles réussirent à monter dans un canot et furent secourues par le Carpathia. Après la catastrophe, elles s’installèrent aux États-Unis.",
+      "en": "Saiide and Catherine Barbara, Lebanese immigrants, were traveling to the United States for better opportunities. On the night of the sinking, they managed to board a lifeboat and were rescued by the Carpathia. After the disaster, they settled in the United States.",
+      "da": "Saiide og Catherine Barbara, libanesiske immigranter, rejste til USA for at opnå bedre muligheder i livet. På aftenen for forliset lykkedes det dem at komme om bord i en redningsbåd og blive reddet af Carpathia. Efter katastrofen slog de sig ned i USA.",
+      "de": "Saiide und Catherine Barbara, libanesische Einwanderer, waren auf der Suche nach besseren Möglichkeiten in die Vereinigten Staaten gereist. In der Nacht des Schiffbruchs gelang es ihnen, an Bord eines Rettungsbootes zu gehen und von der Carpathia gerettet zu werden. Nach der Katastrophe ließen sie sich in den Vereinigten Staaten nieder.",
+      "it": "Saiide e Catherine Barbara, immigrate libanesi, stavano viaggiando negli Stati Uniti in cerca di migliori opportunità. La notte del naufragio riuscirono a salire su una scialuppa di salvataggio e furono salvate dal Carpathia. Dopo il disastro, si stabilirono negli Stati Uniti.",
+      "pt": "Saiide e Catherine Barbara, imigrantes libanesas, viajavam para os Estados Unidos em busca de melhores oportunidades. Na noite do naufrágio, conseguiram embarcar em um bote salva-vidas e foram resgatadas pelo Carpathia. Após o desastre, estabeleceram-se nos Estados Unidos."
+    }
+  }
+}

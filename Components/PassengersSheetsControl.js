@@ -1,8 +1,4 @@
 document.addEventListener("DOMContentLoaded", async () => {
-  const container = document.getElementById("passenger-grid");
-  const langSelect = document.getElementById("custom-select");
-  const optionsList = document.getElementById("select-options");
-  const selectedOption = langSelect.querySelector(".selected-option");
   const params = new URLSearchParams(window.location.search);
   let id = params.get("id");
 
@@ -10,164 +6,94 @@ document.addEventListener("DOMContentLoaded", async () => {
   const photoEl = document.getElementById("photo");
   const roleEl = document.getElementById("role");
   const descEl = document.getElementById("description");
-  const age = document.getElementById("age");
-
-  const postIceberg = document.getElementById("postIceberg");
+  const postEl = document.getElementById("postIceberg");
   const statusEl = document.getElementById("survivant");
   const prevBtn = document.getElementById("prev-passenger");
   const nextBtn = document.getElementById("next-passenger");
 
-  let currentLang =
+  const langSelect = document.getElementById("custom-select");
+  const optionsList = document.getElementById("select-options");
+  const selectedOption = langSelect.querySelector(".selected-option");
+
+  let lang =
     optionsList.querySelector("li.selected")?.dataset.value || "en";
-  let data;
-  let keys = [];
 
-const survivalText = {
-    fr: {
-      true: "Survivant au naufrage",
-      false: "Décédé dans le naufrage",
-    },
-    en: {
-      true: "Survived the shipwreck",
-      false: "Perished in the shipwreck",
-    },
-    de: {
-      true: "Überlebte das Schiffsunglück",
-      false: "Gestorben beim Schiffsunglück",
-    },
-    da: {
-      true: "Overlevede forliset",
-      false: "Ombordkommet ved forliset",
-    },
-    it: {
-      true: "Sopravvissuto al naufragio",
-      false: "Deceduto nel naufragio",
-    },
-    pt: {
-      true: "Sobreviveu ao naufrágio",
-      false: "Perdeu a vida no naufrágio",
-    },
-  };
+  let indexList = [];
 
+  async function loadIndex() {
+    const res = await fetch("Assets/Data/split_passengers/index.json");
+    indexList = await res.json();
+  }
 
-  const bioLabel = {
-    fr: "Biographie : ",
-    en: "Biography : ",
-    de: "Biografie: ",
-    da: "Biografi: ",
-    it: "Biografia: ",
-    pt: "Biografia : "
-  };
-
-  const postIcebergLabel = {
-    fr: "Après le naufrage : ",
-    en: "After the shipwreck : ",
-    de: "Nach dem Schiffbruch : ",
-    da: "Efter skibbruddet : ",
-    it: "Dopo il naufragio : ",
-    pt: "Após o naufrágio : ",
-  };
-
-  const tradAge = {
-    fr: "ans",
-    en: "years old",
-    de: "Jahre alt",
-    da: "år gammel",
-    it: "anni",
-    pt: "anos de idade",
-  };
-
-  async function loadData() {
+  async function loadPassenger(pid) {
     try {
-      const res = await fetch("Assets/Data/Passengers.json");
-      if (!res.ok)
-        throw new Error("Erreur lors du chargement des données passager.");
-      data = await res.json();
-      keys = Object.keys(data).filter(
-        (key) =>
-          !key.startsWith("pageTitle") &&
-          key !== "noResultsMessages" &&
-          key !== "searchBox"
-      );
-
-      if (!data[id]) throw new Error("Passager non trouvé.");
-      updateContent();
-    } catch (err) {
-      console.error(err);
-      nameEl.textContent = "Erreur : passager introuvable.";
+      const res = await fetch(`Assets/Data/split_passengers/${pid}.json`);
+      const json = await res.json();
+      const p = json[pid] || json;
+      renderPassenger(p);
+    } catch {
+      nameEl.textContent = "Passenger not found";
     }
   }
 
-  //maj textes selon langues
-  function updateContent() {
-    const passenger = data[id];
-    if (!passenger) return;
+  function renderPassenger(p) {
+    nameEl.textContent = p.name?.[lang] || p.name?.en || "[Unknown]";
+    photoEl.src = p.image?.src || "";
+    photoEl.alt = p.image?.alt || "";
+    roleEl.textContent = p.role?.[lang] || p.role?.en || "";
 
-    nameEl.textContent = passenger.name?.[currentLang] || "[Nom inconnu]";
-    photoEl.src = passenger.image?.src?.replace(/\\/g, "/") || "";
-    photoEl.alt = passenger.image?.alt || "";
-    roleEl.textContent = passenger.role?.[currentLang] || "";
     descEl.innerHTML =
-      `<strong>${bioLabel[currentLang] || bioLabel["fr"]}</strong>` +
-      (passenger.description?.[currentLang] || "");
+      `<strong>${lang === "fr" ? "Biographie :" : "Biography:"}</strong> ` +
+      (p.description?.[lang] || p.description?.en || "");
 
-    if (postIceberg) {
-      postIceberg.innerHTML =
-        `<strong>${
-          postIcebergLabel[currentLang] || postIcebergLabel["fr"]
-        }</strong>` + (passenger.postIceberg?.[currentLang] || "");
+    if (postEl && p.postIceberg) {
+      postEl.innerHTML =
+        `<strong>${lang === "fr" ? "Après le naufrage :" : "After the shipwreck:"}</strong> ` +
+        (p.postIceberg?.[lang] || p.postIceberg?.en || "");
     }
 
-    const survivedKey = passenger.survived ? "true" : "false";
-    const ageText =
-      passenger.age && tradAge[currentLang]
-        ? ` (${passenger.age} ${tradAge[currentLang]})`
-        : "";
-    statusEl.textContent =
-      (survivalText[currentLang]?.[survivedKey] ||
-        survivalText["fr"][survivedKey]) + ageText;
+    const survived = p.survived ? "true" : "false";
+    const statusMap = {
+      fr: { true: "Survivant", false: "Décédé" },
+      en: { true: "Survived", false: "Deceased" }
+    };
+    const text = statusMap[lang]?.[survived] || statusMap.en[survived];
+    const age =
+      p.age ? ` (${p.age} ${lang === "fr" ? "ans" : "years old"})` : "";
+    statusEl.textContent = text + age;
   }
 
-  //navigation entre les passagers
-  function navigateTo(offset) {
-    const currentIndex = keys.indexOf(id);
-    if (currentIndex === -1) return;
-
-    let newIndex = currentIndex + offset;
-    if (newIndex < 0) newIndex = keys.length - 1;
-    if (newIndex >= keys.length) newIndex = 0;
-
-    id = keys[newIndex];
-    updateContent();
-
-    // Maj de l'URL sans recharger la page
+  function navigate(offset) {
+    const idx = indexList.indexOf(id);
+    if (idx === -1) return;
+    let newIdx = idx + offset;
+    if (newIdx < 0) newIdx = indexList.length - 1;
+    if (newIdx >= indexList.length) newIdx = 0;
+    id = indexList[newIdx];
     const newUrl = new URL(window.location);
     newUrl.searchParams.set("id", id);
     window.history.replaceState({}, "", newUrl);
+    loadPassenger(id);
   }
 
-  // choix langue
-  langSelect.addEventListener("click", () => {
-    optionsList.classList.toggle("open");
-  });
-  optionsList.querySelectorAll("li").forEach((option) => {
-    option.addEventListener("click", () => {
-      selectedOption.textContent = option.textContent;
-      currentLang = option.dataset.value;
-      optionsList
-        .querySelectorAll("li")
-        .forEach((li) => li.classList.remove("selected"));
-      option.classList.add("selected");
+  prevBtn?.addEventListener("click", () => navigate(-1));
+  nextBtn?.addEventListener("click", () => navigate(1));
+
+  langSelect.addEventListener("click", () =>
+    optionsList.classList.toggle("open")
+  );
+  optionsList.querySelectorAll("li").forEach((li) => {
+    li.addEventListener("click", () => {
+      lang = li.dataset.value;
+      selectedOption.textContent = li.textContent;
       optionsList.classList.remove("open");
-      updateContent();
+      optionsList.querySelectorAll("li").forEach((x) => x.classList.remove("selected"));
+      li.classList.add("selected");
+      loadPassenger(id);
     });
   });
 
-  //appel fonction de déplacement entre les passagers quand appui sur flèches
-  if (prevBtn && nextBtn) {
-    prevBtn.addEventListener("click", () => navigateTo(-1));
-    nextBtn.addEventListener("click", () => navigateTo(1));
-  }
-
-  await loadData();
+  await loadIndex();
+  if (!id && indexList.length) id = indexList[0];
+  await loadPassenger(id);
 });

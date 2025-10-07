@@ -1,0 +1,44 @@
+{
+  "passenger101": {
+    "grade": "Passenger",
+    "age": 26,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "2nd",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/101-Albert-Francis-Caldwell.png",
+      "alt": "picture of Albert Francis Caldwell"
+    },
+    "name": {
+      "fr": "Albert Francis Caldwell",
+      "en": "Albert Francis Caldwell",
+      "da": "Albert Francis Caldwell",
+      "de": "Albert Francis Caldwell",
+      "it": "Albert Francis Caldwell",
+      "pt": "Albert Francis Caldwell"
+    },
+    "description": {
+      "fr": "Albert Francis Caldwell naquit à Knoxville, Tennessee, en 1887. Instruit et animé par la foi, il choisit de consacrer sa carrière à l’enseignement et au travail missionnaire. En 1909, il épousa Sylvia Mae Harbaugh, et le couple se lança bientôt dans une vie de service à l’étranger. Ils partirent à Bangkok, au Siam (aujourd’hui la Thaïlande), où Albert exerça comme enseignant et missionnaire presbytérien. En 1912, la santé de Sylvia s’était détériorée dans le climat tropical, et les médecins conseillèrent à la famille de rentrer en Amérique. Avec leur jeune fils Alden (né en 1911), Albert et Sylvia souhaitaient retrouver la famille de Sylvia et entamer un nouveau chapitre de leur vie. Les Caldwell arrivèrent sains et saufs à New York et furent réunis avec la famille de Sylvia.",
+      "en": " Albert Francis Caldwell was born in Knoxville, Tennessee, in 1887. Educated and devoted to faith, he chose to dedicate his career to education and missionary work. In 1909, he married Sylvia Mae Harbaugh, and the couple soon embarked on a life of service abroad. They traveled to Bangkok, Siam (Thailand), where Albert worked as a teacher and Presbyterian missionary. By 1912, Sylvia’s health had deteriorated in the tropical climate, and doctors advised the family to return to America. With their young son Alden (born 1911), Albert and Sylvia want to rejoin Sylvia’s family and begin a new chapter of life. The Caldwells arrived safely in New York and reunited with Sylvia’s family. ",
+      "da": "Albert Francis Caldwell blev født i Knoxville, Tennessee, i 1887. Uddannet og drevet af sin tro valgte han at vie sin karriere til undervisning og missionsarbejde. I 1909 giftede han sig med Sylvia Mae Harbaugh, og parret begyndte snart et liv i tjeneste i udlandet. De rejste til Bangkok, Siam (nutidens Thailand), hvor Albert arbejdede som lærer og presbyteriansk missionær. I 1912 var Sylvias helbred blevet forværret i det tropiske klima, og lægerne rådede familien til at vende tilbage til Amerika. Sammen med deres lille søn Alden (født i 1911) ønskede Albert og Sylvia at genforenes med Sylvias familie og begynde et nyt kapitel i deres liv. Caldwell-familien ankom sikkert til New York og blev genforenet med Sylvias familie.",
+      "de": "Albert Francis Caldwell wurde 1887 in Knoxville, Tennessee, geboren. Gebildet und vom Glauben geprägt, entschied er sich, seine Laufbahn dem Unterricht und der Missionsarbeit zu widmen. 1909 heiratete er Sylvia Mae Harbaugh, und das Paar begann bald ein Leben im Ausland im Dienste anderer. Sie reisten nach Bangkok, Siam (heute Thailand), wo Albert als Lehrer und presbyterianischer Missionar arbeitete. Bis 1912 hatte sich Sylvias Gesundheit im tropischen Klima verschlechtert, und die Ärzte rieten der Familie, nach Amerika zurückzukehren. Mit ihrem kleinen Sohn Alden (geboren 1911) wollten Albert und Sylvia zu Sylvias Familie zurückkehren und ein neues Kapitel beginnen. Die Caldwells kamen sicher in New York an und wurden mit Sylvias Familie wiedervereint.",
+      "it": "Albert Francis Caldwell nacque a Knoxville, Tennessee, nel 1887. Istruito e animato dalla fede, decise di dedicare la sua carriera all’insegnamento e al lavoro missionario. Nel 1909 sposò Sylvia Mae Harbaugh e la coppia intraprese presto una vita di servizio all’estero. Si trasferirono a Bangkok, Siam (oggi Thailandia), dove Albert lavorò come insegnante e missionario presbiteriano. Nel 1912 la salute di Sylvia peggiorò a causa del clima tropicale e i medici consigliarono alla famiglia di tornare in America. Con il loro giovane figlio Alden (nato nel 1911), Albert e Sylvia volevano ricongiungersi con la famiglia di Sylvia e iniziare un nuovo capitolo della loro vita. I Caldwell arrivarono sani e salvi a New York e si riunirono con la famiglia di Sylvia.",
+      "pt": "Albert Francis Caldwell nasceu em Knoxville, Tennessee, em 1887. Educado e com forte ligação à fé, decidiu dedicar sua vida ao ensino e ao trabalho missionário. Em 1909, casou-se com Sylvia Mae Harbaugh, e juntos partiram para uma vida de serviço no exterior. O casal foi para Bangkok, Sião (Tailândia), onde Albert atuou como professor e missionário presbiteriano. Por volta de 1912, a saúde de Sylvia foi prejudicada pelo clima tropical, e os médicos recomendaram o retorno da família aos Estados Unidos. Com o filho pequeno, Alden (nascido em 1911), decidiram voltar para perto da família de Sylvia e recomeçar a vida. Os Caldwell sobreviveram ao desastre do Titanic e chegaram a Nova Iorque em segurança, reunindo-se com os familiares. "
+    },
+    "postIceberg": {
+      "fr": "Albert ne retourna pas au travail missionnaire à l’étranger ; il poursuivit plutôt une carrière dans l’enseignement et la fonction publique aux États-Unis. La survie de sa famille devint l’un des récits heureux du Titanic, d’autant plus remarquable que très peu de jeunes familles de deuxième classe furent sauvées au complet.",
+      "en": "Albert did not return to missionary work overseas; instead, he pursued a career in teaching and government service in the United States. The family’s survival became one of the fortunate stories of Titanic, especially as very few young families in second class were saved intact.",
+      "da": "Albert vendte ikke tilbage til missionsarbejde i udlandet; i stedet fortsatte han en karriere inden for undervisning og offentlig tjeneste i USA. Familiens overlevelse blev en af de heldige historier fra Titanic, især bemærkelsesværdig da meget få unge familier fra anden klasse blev reddet samlet.",
+      "de": "Albert kehrte nicht zur Missionsarbeit im Ausland zurück; stattdessen verfolgte er eine Laufbahn im Lehrwesen und im öffentlichen Dienst in den Vereinigten Staaten. Das Überleben seiner Familie wurde zu einer der glücklichen Geschichten der Titanic, besonders bemerkenswert, da nur sehr wenige junge Familien der zweiten Klasse vollständig gerettet wurden.",
+      "it": "Albert non tornò al lavoro missionario all’estero; intraprese invece una carriera nell’insegnamento e nel servizio pubblico negli Stati Uniti. La sopravvivenza della sua famiglia divenne una delle storie fortunate del Titanic, tanto più notevole poiché pochissime giovani famiglie di seconda classe furono salvate al completo.",
+      "pt": "Albert não voltou ao trabalho missionário no exterior, mas seguiu carreira como professor e depois no serviço público americano. A sobrevivência da família é lembrada como uma das histórias mais afortunadas do Titanic, já que poucas famílias jovens da segunda classe conseguiram se salvar juntas."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "passenger53": {
+    "grade": "Passenger",
+    "age": 42,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "2nd",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/53-Father-Byles.jpg",
+      "alt": "picture of Father Thomas Byles"
+    },
+    "name": {
+      "fr": "Père Thomas Byles",
+      "en": "Father Thomas Byles",
+      "da": "Fader Thomas Byles",
+      "de": "Pater Thomas Byles",
+      "it": "Padre Thomas Byles",
+      "pt": "Padre Thomas Byles"
+    },
+    "description": {
+      "fr": "Le père Thomas Byles, prêtre catholique, se rendait à New York pour célébrer le mariage de son frère. Il était curé à Ongar, dans l’Essex, et jouissait d’une grande estime pour son accompagnement pastoral et son engagement spirituel. Il était connu pour son dévouement envers ses paroissiens et sa foi. Ce voyage familial était un événement important ; le père Byles se réjouissait de retrouver sa famille et d’officier la cérémonie de mariage.",
+      "en": "Father Thomas Byles, a Catholic priest, was traveling to New York to officiate his brother's wedding. Father Byles served as a parish priest in Ongar, Essex, where he was well-respected for his pastoral care and spiritual leadership. He was known for his dedication to his parishioners and his commitment to his faith. The trip to New York was an important family event, and Father Byles looked forward to reuniting with his family and performing the wedding ceremony. ",
+      "da": "Fader Thomas Byles var en katolsk præst, der rejste til New York for at forestå sin brors bryllup. Fader Byles fungerede som sognepræst i Ongar, Essex, hvor han var højt respekteret for sin sjælesorg og åndelige ledelse. Han var kendt for sin dedikation til sine menighedsmedlemmer og sit engagement i troen. Rejsen til New York var en vigtig familieanledning, og fader Byles glædede sig til at gense familien og forestå vielsen.",
+      "de": "Pater Thomas Byles, ein katholischer Priester, war auf dem Weg nach New York, um die Trauung seines Bruders zu vollziehen. Pater Byles war Gemeindepfarrer in Ongar, Essex, wo er für seine seelsorgerische Betreuung und geistliche Führung sehr geschätzt wurde. Er war bekannt für seine Hingabe an seine Gemeindemitglieder und sein Engagement für seinen Glauben. Die Reise nach New York war ein wichtiges Familienereignis, und Pater Byles freute sich darauf, seine Familie wiederzusehen und die Trauung vorzunehmen. ",
+      "it": "Padre Thomas Byles, un sacerdote cattolico, stava viaggiando a New York per celebrare il matrimonio di suo fratello. Padre Byles era parroco a Ongar, Essex, dove era molto rispettato per la sua cura pastorale e la sua leadership spirituale. Era conosciuto per la sua dedizione ai parrocchiani e il suo impegno nella fede. Il viaggio a New York era un importante evento familiare e Padre Byles attendeva con ansia di riunirsi con la famiglia e celebrare la cerimonia di nozze.",
+      "pt": "O Padre Thomas Byles, sacerdote católico, viajava para Nova York para celebrar o casamento de seu irmão. Padre Byles servia como pároco em Ongar, Essex, onde era muito respeitado pelo cuidado pastoral e liderança espiritual. Era conhecido por sua dedicação aos paroquianos e seu compromisso com a fé. A viagem a Nova York representava um importante evento familiar, e Padre Byles aguardava com expectativa reencontrar a família e celebrar a cerimônia de casamento."
+    },
+    "postIceberg": {
+      "fr": "Le père Thomas Byles, prêtre catholique, se rendait à New York pour célébrer le mariage de son frère. Il resta à bord pour entendre les confessions et prier avec ceux restés sur le navire. Byles ne survécut pas au naufrage. Il est honoré pour son dévouement et son sacrifice, et des démarches ont été entreprises pour sa canonisation.",
+      "en": "Father Thomas Byles, a Catholic priest, was traveling to officiate his brother's wedding. He stayed on the ship to hear confessions and offer prayers for those left behind. Byles did not survive the disaster. He is remembered for his dedication and sacrifice, and efforts have been made to consider him for sainthood.",
+      "da": "Fader Thomas Byles, katolsk præst, blev om bord på skibet for at høre skriftemål og tilbyde bønner for de tilbageværende. Han overlevede ikke katastrofen. Han huskes for sin hengivenhed og sit offer, og der er blevet gjort forsøg på at få ham kanoniseret.",
+      "de": "Pater Thomas Byles, ein katholischer Priester, war unterwegs, um die Hochzeit seines Bruders zu feiern. Er blieb auf dem Schiff, um Beichten zu hören und für die an Bord verbliebenen Menschen zu beten. Byles überlebte die Katastrophe nicht. Man erinnert sich an ihn wegen seines Engagements und seiner Aufopferung, und es gibt Bestrebungen, ihn als heilig zu betrachten.",
+      "it": "Padre Thomas Byles, un sacerdote cattolico, stava viaggiando per celebrare il matrimonio di suo fratello. Rimase sulla nave per ascoltare le confessioni e offrire preghiere per coloro che rimasero a bordo. Byles non sopravvisse al disastro. È ricordato per la sua dedizione e sacrificio, e sono stati fatti sforzi per considerarlo per la santità.",
+      "pt": "O Padre Thomas Byles, sacerdote católico, viajava para celebrar o casamento de seu irmão. Ele permaneceu a bordo para ouvir confissões e oferecer orações por aqueles que ficaram para trás. Byles não sobreviveu ao desastre. É lembrado por sua dedicação e sacrifício, e esforços têm sido feitos para considerá-lo para a santidade."
+    }
+  }
+}

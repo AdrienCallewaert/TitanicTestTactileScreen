@@ -1,4 +1,4 @@
-/*Paysage*/
+/* === ORIENTATION: LANDSCAPE === */
 @media (orientation: landscape) {
   .corner-icon {
     width: 6vw;
@@ -11,81 +11,48 @@
     overflow-y: scroll;
     overflow-x: hidden;
     position: relative;
-    padding-left: 4vw;
-    padding-right: 4vw;
+    padding: 0 4vw 12vh; /* espace pour footer */
   }
+
   h1 {
     font-size: 2.2vw;
   }
-  
-  .keyboard { display: none !important; }
 
   .keyboard {
-    width: auto;
-    height: auto;
-  }
-  .keyboard-keys {
-    gap: 2.5rem;
-    padding-left: 0vw;
+    display: none !important;
   }
 
-  .keyboard-keys button {
-    width: 2.1vw;
-    height: 5vh;
-    padding: 0.2rem;
-    font-size: large;
-  }
-  .custom-select-wrapper {
-    position: relative;
-    margin-left: 1vw;
-  }
   .custom-select {
     padding: 0.8vh 1.2vw;
   }
 }
 
-/*Portrait*/
+/* === ORIENTATION: PORTRAIT === */
 @media (orientation: portrait) {
   .corner-icon {
     width: 12vw;
     height: 12vw;
     margin: 0.5%;
   }
+
   .passagers {
     height: 85vh;
     overflow-y: scroll;
     overflow-x: hidden;
     position: relative;
-    padding-left: 4vw;
-    padding-right: 4vw;
+    padding: 0 4vw 14vh; /* espace plus large pour footer mobile */
   }
+
   h1 {
     font-size: 3vw;
   }
-  .keyboard {
-    width: auto;
-    height: auto;
-  }
-  .keyboard-keys {
-    gap: 1.5rem;
-    padding-left: 4vw;
-  }
 
-  .keyboard-keys button {
-    width: 4vw;
-    height: 3vh;
-    padding: 0.6rem;
-    font-size: large;
-  }
-  .custom-select-wrapper {
-    position: relative;
-    margin-left: 3vw;
-  }
   .custom-select {
     padding: 0.4vh 1.5vw;
   }
 }
 
+/* === BASE LAYOUT === */
 body {
   margin: 0;
   font-family: "Cinzel", serif;
@@ -103,68 +70,43 @@ body {
 header {
   padding: 2.2rem 1rem 1rem;
   text-align: center;
-  background: transparent;
-  /* border-bottom: 1px solid rgba(255, 255, 255, 0.2); */
   position: sticky;
-  top: 0rem;
+  top: 0;
   z-index: 10;
+  background: transparent;
 }
 
 h1 {
-  margin: 0;
-  margin-top: 0.5rem;
-  margin-bottom: 1rem;
+  margin: 0.5rem 0 1rem;
   letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
-.filter-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 0.7rem;
-  flex-wrap: wrap;
-  margin: 1.5rem 0;
+/* === SECTION PASSAGERS === */
+.passagers {
+  flex: 1;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  position: relative;
+  padding: 0 4vw 12vh;
 }
 
-.filter-button {
-  border: 1px solid #fff;
-  background: transparent;
-  color: #fff;
-  border-radius: 999px;
-  padding: 0.5rem 1rem;
-  font-family: "Cinzel", serif;
-  font-size: 0.9rem;
-  cursor: pointer;
-  transition: background 0.3s ease, color 0.3s ease;
+.passagers::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+.passagers {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
 
-.filter-button.active,
-.filter-button:hover {
-  background: #fff;
-  color: #0f1a28;
-}
-
+/* === GRILLE === */
 #passenger-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 3rem 3rem;
   padding: 2rem;
   justify-items: center;
-}
-
-/* Chrome, Edge, Safari */
-.passagers::-webkit-scrollbar {
-  width: 0;
-  height: 0;
-}
-
-/* Firefox */
-.passagers {
-  scrollbar-width: none; /* masque scrollbar */
-}
-
-/* Autres navigateurs */
-.passagers {
-  -ms-overflow-style: none;
 }
 
 .passenger-card {
@@ -175,7 +117,10 @@ h1 {
   color: white;
   text-decoration: none;
   transition: transform 0.2s ease;
-  object-fit: cover;
+}
+
+.passenger-card:hover {
+  transform: scale(1.05);
 }
 
 .passenger-card img {
@@ -204,24 +149,7 @@ h1 {
   text-overflow: ellipsis;
 }
 
-.search-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-}
-
-.search-box {
-  width: 250px;
-  padding: 10px;
-  font-size: 16px;
-  border: 2px solid #ffffff;
-  border-radius: 10px;
-  margin: 0;
-  color: #fff;
-  background-color: #121f30;
-}
-
+/* === AUCUN RÉSULTAT === */
 .no-results-message {
   text-align: center;
   margin-top: 2rem;
@@ -230,22 +158,7 @@ h1 {
   font-style: italic;
 }
 
-.filter-search-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 1.5rem;
-  padding: 1rem 2rem;
-  flex-direction: column;
-}
-
-@media (min-width: 768px) {
-  .filter-search-wrapper {
-    flex-direction: row;
-  }
-}
-
+/* === COINS DÉCORATIFS === */
 .corner-icon {
   position: fixed;
   background-image: url("../Assets/images/corner.svg");
@@ -260,24 +173,22 @@ h1 {
   right: 0;
   transform: rotate(90deg);
 }
-
 .corner-icon.top-left {
   top: 0;
   left: 0;
 }
-
 .corner-icon.bottom-left {
   bottom: 0;
   left: 0;
   transform: rotate(-90deg);
 }
-
 .corner-icon.bottom-right {
   bottom: 0;
   right: 0;
   transform: rotate(180deg);
 }
 
+/* === CLAVIER VIRTUEL === */
 .keyboard {
   position: fixed;
   bottom: 20px;
@@ -291,56 +202,99 @@ h1 {
   align-items: center;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
   border-radius: 12px;
-  cursor: grab; /* indicateur déplacement */
-  user-select: none; /* éviter sélection texte en drag */
+  cursor: grab;
+  user-select: none;
   transition: box-shadow 0.2s;
   touch-action: none;
-}
-
-.keyboard:active {
-  cursor: grabbing;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
 }
 
 .keyboard.hidden {
   display: none;
 }
 
-.keyboard-keys {
-  grid-template-columns: repeat(auto-fit, minmax(3vw, 0.1vh));
+/* === BARRE INFÉRIEURE FIXE === */
+.filter-language-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
   width: 100%;
-  max-width: 700px;
+  background: rgba(15, 26, 40, 0.95);
+  backdrop-filter: blur(6px);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.8rem 1.5rem;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
-.keyboard-keys button {
-  margin-bottom: 1.2vh;
-  margin-right: 0.4vh;
-  border: none;
-  border-radius: 5px;
-  background: #fff;
-  color: #0f1a28;
-  font-weight: bold;
-  cursor: pointer;
-  transition: transform 0.2s ease;
+/* === FILTRES + RECHERCHE + LANGUE ENSEMBLE === */
+.filter-language-bar .filter-search-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0;
 }
 
-.keyboard-keys button:hover {
-  transform: scale(1.05);
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 0;
 }
 
-.close-keyboard {
-  align-self: flex-end;
+.filter-button {
+  border: 1px solid #fff;
   background: transparent;
   color: #fff;
-  font-size: 1.5rem;
-  border: none;
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+  font-family: "Cinzel", serif;
+  font-size: 0.9rem;
   cursor: pointer;
-  margin-bottom: 1rem;
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
-.custom-select-wrapper {
-  font-family: "Cinzel", serif;
-  z-index: 1000;
+.filter-button.active,
+.filter-button:hover {
+  background: #fff;
+  color: #0f1a28;
+}
+
+/* === RECHERCHE === */
+.search-container {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.search-box {
+  width: 250px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #121f30;
+  text-align: center;
+}
+
+.search-box::placeholder {
+  color: #b8b8b8;
+  opacity: 0.8;
+}
+
+/* === SÉLECTEUR DE LANGUE À CÔTÉ DE LA RECHERCHE === */
+.filter-language-bar .custom-select-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .custom-select {
@@ -352,14 +306,16 @@ h1 {
   cursor: pointer;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  justify-content: center;
+  padding: 0.55rem 1.4rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .select-arrow {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin-left: 0.5rem;
 }
+
 .select-options {
   color: #000;
   display: none;
@@ -381,28 +337,26 @@ h1 {
 
 .select-options li {
   padding: 0.6rem 1.5rem;
-  border-bottom: 0.1vh solid #706e6e3c;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   cursor: pointer;
   font-weight: bold;
+  text-align: center;
   transition: background-color 0.2s ease;
-  width: 60%;
-  margin: 0 auto;
 }
 
-.select-options li:last-child {
-  border-bottom: none;
-}
 .select-options li:hover,
 .select-options li.selected {
   background-color: #b8b8b8c4;
 }
-.select-options li:hover:first-child,
-.select-options li.selected:first-child {
+
+.select-options li:first-child:hover,
+.select-options li:first-child.selected {
   border-top-left-radius: 1.5rem;
   border-top-right-radius: 1.5rem;
 }
-.select-options li:hover:last-child,
-.select-options li.selected:last-child {
+
+.select-options li:last-child:hover,
+.select-options li:last-child.selected {
   border-bottom-left-radius: 1.5rem;
   border-bottom-right-radius: 1.5rem;
 }

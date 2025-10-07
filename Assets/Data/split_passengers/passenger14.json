@@ -1,0 +1,44 @@
+{
+  "passenger14": {
+    "grade": "Passenger",
+    "age": 18,
+    "role": {
+      "fr": "Ingénieur",
+      "en": "Engineer",
+      "da": "Omkommet besætningsmedlem (maskinmester)",
+      "de": "Ingenieur",
+      "it": "Ingegnere",
+      "pt": "Engenheiro"
+    },
+    "class": "Staff",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/14-Abert-Ervine.jpg",
+      "alt": "picture of Abert Ervine"
+    },
+    "name": {
+      "fr": "Abert Ervine",
+      "en": "Abert Ervine",
+      "da": "Abert Ervine",
+      "de": "Abert Ervine",
+      "it": "Abert Ervine",
+      "pt": "Abert Ervine"
+    },
+    "description": {
+      "fr": "Abert Ervine est né à Belfast, en Irlande, et passa une grande partie de sa jeunesse dans la ville industrielle animée, réputée pour la construction navale. Issu d’une famille ouvrière, Ervine fut attiré par l’industrie maritime, qui offrait un emploi stable. Il travailla au chantier Harland and Wolff, où il acquit de l’expérience dans divers rôles liés à la maintenance et à la construction navale. Au début de 1912, Ervine obtint un poste de steward sur le RMS Titanic. Ses tâches consistaient à répondre aux besoins des passagers, à assurer leur confort et à entretenir les quartiers de vie du navire. Ervine attendait ce voyage avec impatience, le considérant comme une étape importante dans sa carrière maritime.",
+      "en": "Abert Ervine was born in Belfast, Ireland, and spent much of his early life in the bustling industrial city known for its shipbuilding. Growing up in a working-class family, Ervine was drawn to the maritime industry, which offered steady employment. He found work at the Harland and Wolff shipyard, where he gained experience in various roles related to ship maintenance and construction. By early 1912, Ervine had secured a position as a steward on the RMS Titanic. His duties included attending to the needs of passengers, ensuring their comfort, and maintaining the ship's living quarters. Ervine looked forward to the journey, seeing it as a significant step in his maritime career.",
+      "da": "Abert Ervine blev født i Belfast, Irland, og tilbragte en stor del af sit tidlige liv i den travle industriby, der er kendt for sin skibsbygning. Ervine voksede op i en arbejderklassefamilie og blev tiltrukket af den maritime industri, som tilbød fast arbejde. Han fik arbejde på skibsværftet Harland & Wolff, hvor han fik erfaring med forskellige roller i forbindelse med skibsvedligeholdelse og -konstruktion. I begyndelsen af 1912 havde Ervine fået en stilling som steward på RMS Titanic. Hans opgaver var blandt andet at tage sig af passagerernes behov, sørge for deres komfort og vedligeholde skibets beboelsesarealer. Ervine glædede sig til rejsen og så den som et vigtigt skridt i sin maritime karriere.",
+      "de": "Abert Ervine wurde in Belfast, Irland, geboren und verbrachte die meiste Zeit seines Lebens in der pulsierenden Industriestadt, die für ihren Schiffbau bekannt ist. Ervine wuchs in einer Arbeiterfamilie auf und fühlte sich von der maritimen Industrie angezogen, die ihm einen sicheren Arbeitsplatz bot. Er fand Arbeit in der Harland & Wolff-Werft, wo er Erfahrungen in verschiedenen Bereichen der Schiffswartung und -konstruktion sammelte. Anfang 1912 erhielt Ervine eine Stelle als Steward auf der RMS Titanic. Zu seinen Aufgaben gehörte die Instandhaltung und Pflege der Wohnräume des Schiffes, das Kümmern um die Passagiere und die Gewährleistung ihres Komforts. Für Ervine war diese Reise ein wichtiger Schritt in seiner maritimen Karriere.",
+      "it": "Abert Ervine è nato a Belfast, Irlanda, e ha trascorso gran parte della sua vita nella vivace città industriale nota per la costruzione di navi. Cresciuto in una famiglia operaia, Ervine fu attratto dall'industria marittima, che offriva un impiego stabile. Trovò lavoro nel cantiere navale Harland and Wolff, dove acquisì esperienza in vari ruoli legati alla manutenzione e costruzione navale. All'inizio del 1912, Ervine ottenne un posto come steward sul RMS Titanic. I suoi compiti includevano prendersi cura dei passeggeri, garantendo il loro comfort e mantenendo le condizioni abitative della nave. Ervine vedeva questo viaggio come un passo significativo nella sua carriera marittima.",
+      "pt": "Abert Ervine nasceu em Belfast, Irlanda, e passou grande parte de sua infância nessa movimentada cidade industrial, conhecida pela construção naval. Crescido em uma família da classe trabalhadora, Ervine foi atraído pela indústria marítima, que oferecia emprego estável. Trabalhou no estaleiro Harland and Wolff, onde adquiriu experiência em várias funções relacionadas à manutenção e construção de navios. No início de 1912, Ervine conseguiu um cargo como mordomo a bordo do RMS Titanic. Suas responsabilidades incluíam atender às necessidades dos passageiros, garantir seu conforto e manter os alojamentos do navio. Ervine via a viagem como um passo importante em sua carreira marítima."
+    },
+    "postIceberg": {
+      "fr": "Dans la nuit du 14 avril 1912, après que le Titanic eut heurté un iceberg, Ervine participa aux efforts d’évacuation, aidant les passagers à rejoindre les canots de sauvetage au milieu du chaos. Contrairement à beaucoup de ses collègues, Ervine réussit à obtenir une place dans un canot et survécut à la catastrophe. Après avoir été secouru par le RMS Carpathia, il dut affronter les conséquences psychologiques de la tragédie, faisant face à la perte de collègues et de passagers.",
+      "en": "On the night of April 14, 1912, after the Titanic hit an iceberg, Ervine assisted in the evacuation efforts, helping passengers reach lifeboats amid the chaos. Unlike many of his colleagues, Ervine managed to secure a place in a lifeboat, surviving the disaster. After being rescued by the RMS Carpathia, he faced the psychological aftermath of the tragedy, coping with the loss of colleagues and passengers.",
+      "da": "Om natten den 14. april 1912, efter at Titanic havde ramt isbjerget, assisterede Ervine med evakueringen og hjalp passagererne med at nå frem til redningsbådene midt i kaosset. I modsætning til mange af sine kolleger lykkedes det Ervine at sikre sig en plads i en redningsbåd og overleve katastrofen. Efter at være blevet reddet af RMS Carpathia stod han tilbage med de psykologiske eftervirkninger af tragedien og håndteringen af tabet af kolleger og passagerer.",
+      "de": "In der Nacht des 14. April 1912, nachdem die Titanic einen Eisberg gerammt hatte, half Ervine bei den Evakuierungsmaßnahmen, indem er den Passagieren in dem Chaos half, die Rettungsboote zu erreichen. Im Gegensatz zu vielen seiner Kollegen gelang es Ervine, einen Platz in einem Rettungsboot zu finden und er überlebte die Katastrophe. Nachdem er von der RMS Carpathia gerettet worden war, musste er die psychologischen Folgen der Tragödie bewältigen und den Verlust von Kollegen und Passagieren verarbeiten.",
+      "it": "La notte del 14 aprile 1912, dopo che il Titanic colpì un iceberg, Ervine aiutò nelle operazioni di evacuazione, aiutando i passeggeri a raggiungere le scialuppe di salvataggio nel caos. Diversamente da molti dei suoi colleghi, Ervine riuscì a trovare un posto su una scialuppa, sopravvivendo al disastro. Dopo essere stato salvato dalla RMS Carpathia, affrontò le conseguenze psicologiche della tragedia, facendo i conti con la perdita di colleghi e passeggeri.",
+      "pt": "Na noite de 14 de abril de 1912, após o Titanic colidir com um iceberg, Albert Ervine auxiliou nos esforços de evacuação, ajudando os passageiros a alcançar os botes salva-vidas em meio ao caos. Diferente de muitos de seus colegas, Ervine conseguiu garantir um lugar em um bote salva-vidas, sobrevivendo ao desastre. Após ser resgatado pelo RMS Carpathia, ele enfrentou as consequências psicológicas da tragédia, lidando com a perda de colegas e passageiros."
+    }
+  }
+}

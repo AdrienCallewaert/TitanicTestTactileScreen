@@ -1,0 +1,44 @@
+{
+  "passenger102": {
+    "grade": "Passenger",
+    "age": 30,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "2nd",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/102-Milio-Ilario-Giuseppe-Portaluppi.png",
+      "alt": "picture of Emilio Ilario Giuseppe Portaluppi"
+    },
+    "name": {
+      "fr": "Emilio Ilario Giuseppe Portaluppi",
+      "en": "Emilio Ilario Giuseppe Portaluppi",
+      "da": "Emilio Ilario Giuseppe Portaluppi",
+      "de": "Emilio Ilario Giuseppe Portaluppi",
+      "it": "Emilio Ilario Giuseppe Portaluppi",
+      "pt": "Emilio Ilario Giuseppe Portaluppi"
+    },
+    "description": {
+      "fr": "Emilio Ilario Giuseppe Portaluppi naquit à Arcisate, dans la province de Varèse, en 1881. De métier, il était tailleur de pierre et maçon, spécialisé dans le travail du marbre et du granit - des compétences qui lui permettaient de trouver du travail aussi bien en Europe qu’en Amérique. Il avait déjà vécu aux États-Unis, notamment dans le Vermont, où de nombreux artisans italiens s’étaient installés pour travailler dans l’industrie du marbre. Sa destination était Barre, dans le Vermont, afin de retrouver sa famille et de reprendre son travail dans les carrières de granit. Les récits divergent quant à la manière dont il survécut : certaines traditions affirment qu’il fut placé dans un canot de sauvetage, tandis que d’autres suggèrent qu’il aurait pu s’accrocher à des débris jusqu’à son sauvetage.",
+      "en": "Emilio Ilario Giuseppe Portaluppi was born in Arcisate, Varese, Italy, in 1881. By trade, he was a stonecutter and mason, skilled in working marble and granite-skills that made him employable in both Europe and America. He had previously lived in the United States, working in Vermont, where many Italian craftsmen settled to work in the marble industry. His destination was Barre, Vermont, to rejoin family and return to work in the granite quarries. Accounts vary on exactly how: some traditions suggest he was placed into a lifeboat, while others imply he may have clung to wreckage until rescue.",
+      "da": "Emilio Ilario Giuseppe Portaluppi blev født i Arcisate, Varese, Italien, i 1881. Han var uddannet stenhugger og murer, specialiseret i marmor og granit - færdigheder der gav ham arbejde både i Europa og i Amerika. Han havde tidligere boet i USA, især i Vermont, hvor mange italienske håndværkere slog sig ned for at arbejde i marmorindustrien. Hans destination var Barre, Vermont, hvor han ville genforenes med sin familie og genoptage arbejdet i granitbruddene. Beretningerne varierer om, hvordan han overlevede: nogle siger, at han fik plads i en redningsbåd, mens andre hævder, at han klamrede sig til vragrester, indtil han blev reddet.",
+      "de": "Emilio Ilario Giuseppe Portaluppi wurde 1881 in Arcisate, Provinz Varese, Italien, geboren. Von Beruf war er Steinmetz und Maurer, spezialisiert auf die Bearbeitung von Marmor und Granit - Fähigkeiten, die ihm Arbeit sowohl in Europa als auch in Amerika ermöglichten. Zuvor hatte er in den Vereinigten Staaten gelebt, insbesondere in Vermont, wo sich viele italienische Handwerker niederließen, um in der Marmorindustrie zu arbeiten. Sein Ziel war Barre, Vermont, um seine Familie wiederzusehen und die Arbeit in den Granitsteinbrüchen fortzusetzen. Die Berichte über seine Rettung sind unterschiedlich: Einige Überlieferungen besagen, er sei in ein Rettungsboot gesetzt worden, andere, dass er sich an Trümmern festhielt, bis er gerettet wurde.",
+      "it": "Emilio Ilario Giuseppe Portaluppi nacque ad Arcisate, in provincia di Varese, nel 1881. Di mestiere era scalpellino e muratore, specializzato nella lavorazione del marmo e del granito - competenze che gli permettevano di trovare lavoro sia in Europa che in America. Aveva già vissuto negli Stati Uniti, in particolare nel Vermont, dove molti artigiani italiani si erano stabiliti per lavorare nell’industria del marmo. La sua destinazione era Barre, nel Vermont, per ricongiungersi con la famiglia e riprendere il lavoro nelle cave di granito. I racconti sulla sua sopravvivenza sono discordanti: alcune tradizioni affermano che salì su una scialuppa di salvataggio, mentre altre suggeriscono che si aggrappò ai rottami fino al salvataggio.",
+      "pt": "Emilio Ilario Giuseppe Portaluppi nasceu em Arcisate, Varese, Itália, em 1881. Trabalhou como cortador de pedras e pedreiro, especializado em mármore e granito - habilidades que lhe permitiram atuar tanto na Europa quanto nos Estados Unidos. Antes de 1912, já havia vivido nos EUA, trabalhando em Vermont, região onde muitos artesãos italianos se estabeleceram para atuar na indústria do mármore. Seu destino ao embarcar no Titanic era Barre, Vermont, onde pretendia reencontrar familiares e retomar o trabalho nas pedreiras de granito. Relatos sobre sua sobrevivência variam: alguns dizem que conseguiu lugar em um bote salva-vidas, outros que se agarrou a destroços até ser resgata"
+    },
+    "postIceberg": {
+      "fr": "Après son sauvetage par le Carpathia, il poursuivit finalement sa route jusqu’au Vermont, où il travailla pendant des décennies dans l’industrie du granit. Il vécut une longue vie et s’éteignit en 1959, à l’âge de 78 ans.",
+      "en": "After rescue by the Carpathia, he eventually continued on to Vermont, where he worked for decades in the granite industry. He lived a long life, passing away in 1959, at the age of 78.",
+      "da": "Efter redningen med Carpathia fortsatte han til Vermont, hvor han arbejdede i årtier i granitindustrien. Han levede et langt liv og døde i 1959, 78 år gammel.",
+      "de": "Nach seiner Rettung durch die Carpathia setzte er seine Reise nach Vermont fort, wo er jahrzehntelang in der Granitindustrie arbeitete. Er führte ein langes Leben und verstarb 1959 im Alter von 78 Jahren.",
+      "it": "Dopo essere stato salvato dal Carpathia, proseguì infine per il Vermont, dove lavorò per decenni nell’industria del granito. Visse una lunga vita e morì nel 1959, all’età di 78 anni.",
+      "pt": "Após o salvamento pelo Carpathia, seguiu viagem para Vermont, onde trabalhou por décadas na indústria do granito. Viveu uma vida longa, falecendo em 1959, aos 78 anos."
+    }
+  }
+}

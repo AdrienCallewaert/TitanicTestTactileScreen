@@ -1,0 +1,44 @@
+{
+  "passenger35": {
+    "grade": "Passenger",
+    "age": 24,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "1st",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/35-Berthe-Antonine-Mayne.jpg",
+      "alt": "picture of Berthe Antoine Mayné"
+    },
+    "name": {
+      "fr": "Berthe Antonine  Mayné",
+      "en": "Berthe Antonine  Mayné",
+      "da": "Berthe Antonine  Mayné",
+      "de": "Berthe Antonine  Mayné",
+      "it": "Berthe Antonine  Mayné",
+      "pt": "Berthe Antonine  Mayné"
+    },
+    "description": {
+      "fr": "Berthe Antoine Mayné, chanteuse belge, voyageait sous le nom de Mrs. de Villiers, accompagnant son riche amant Quigg Edmond Baxter. Elle était connue dans les milieux européens pour ses performances dans divers cabarets et salles de spectacle. Avant d’embarquer, Berthe s’était produite dans plusieurs villes européennes, se forgeant une réputation de talent et de charme. Sa relation avec Baxter lui permit de voyager et de goûter à un style de vie luxueux. Le voyage sur le Titanic devait être la suite de leurs pérégrinations, profitant du prestige et du confort de la première classe sur le paquebot le plus célèbre du monde.",
+      "en": "Berthe Antonine  Mayné, a Belgian singer, traveled under the alias Mrs. de Villiers, accompanying her wealthy lover, Quigg Edmond Baxter. She was known in European circles for her performances in various cabarets and musical venues. Before boarding the Titanic, Berthe performed in several European cities, gaining a reputation for her talent and charm. Her relationship with Baxter provided her with opportunities to travel and experience a luxurious lifestyle. The Titanic voyage was meant to be a continuation of their travels together, enjoying the amenities and prestige associated with first-class travel on the world's most famous ship.",
+      "da": "Berthe Antonine  Mayné, belgisk sangerinde, rejste under dæknavnet Mrs. de Villiers med sin rige elsker, Quigg Edmond Baxter. Hun var kendt i europæiske kredse for sine optrædener i forskellige kabareter og på musikscener. Før hun gik ombord på Titanic, optrådte Berthe i flere europæiske byer, hvor hun fik ros for sit talent og sin charme. Hendes forhold til Baxter gav hende mulighed for at rejse og få del i en luksuriøs livsstil. Rejsen med Titanic skulle være en fortsættelse af deres fælles rejse, hvor de kunne nyde godt af de bekvemmeligheder og den prestige, der var forbundet med at rejse på første klasse på verdens mest berømte skib.",
+      "de": "Berthe Antonine  Mayné, eine belgische Sängerin, reiste unter dem Pseudonym Mrs. de Villiers und begleitete ihren wohlhabenden Liebhaber Quigg Edmond Baxter. Sie war in europäischen Kreisen für ihre Auftritte in verschiedenen Kabaretts und Musiklokalen bekannt. Bevor sie an Bord der Titanic ging, trat Berthe in mehreren europäischen Städten auf und erwarb sich einen Ruf für ihr Talent und ihren Charme. Ihre Beziehung zu Baxter bot ihr die Möglichkeit zu reisen und einen luxuriösen Lebensstil zu erleben. Die Reise mit der Titanic sollte eine Fortsetzung ihrer gemeinsamen Reisen sein, bei denen sie die Annehmlichkeiten und das Prestige genießen konnten, die mit einer Reise erster Klasse auf dem berühmtesten Schiff der Welt verbunden waren.",
+      "it": "Berthe Antonine  Mayné, una cantante belga, viaggiava sotto lo pseudonimo di Mrs. de Villiers, accompagnando il suo ricco amante, Quigg Edmond Baxter. Era nota nei circoli europei per le sue esibizioni in vari cabaret e locali musicali. Prima di imbarcarsi sul Titanic, Berthe si era esibita in diverse città europee, guadagnandosi una reputazione per il suo talento e fascino. La sua relazione con Baxter le offriva opportunità di viaggiare e vivere uno stile di vita lussuoso. Il viaggio sul Titanic doveva essere una continuazione dei loro viaggi insieme, godendo delle comodità e del prestigio associati ai viaggi di prima classe sulla nave più famosa del mondo.",
+      "pt": "Berthe Antoine Mayné, cantora belga, viajava sob o pseudônimo de Sra. de Villiers, acompanhando seu amante rico, Quigg Edmond Baxter. Era conhecida nos círculos europeus por suas apresentações em diversos cabarés e locais musicais. Antes de embarcar no Titanic, Berthe se apresentou em várias cidades europeias, conquistando reputação pelo seu talento e charme. Seu relacionamento com Baxter proporcionou-lhe oportunidades para viajar e desfrutar de um estilo de vida luxuoso. A viagem no Titanic representava a continuidade de suas viagens juntos, aproveitando as comodidades e o prestígio associados à primeira classe do navio mais famoso do mundo."
+    },
+    "postIceberg": {
+      "fr": "Berthe Mayné, chanteuse belge, survécut en embarquant dans le canot de sauvetage n°9. Elle poursuivit sa carrière de chanteuse après la catastrophe et évoqua souvent son expérience du Titanic.",
+      "en": "Berthe Mayné, a Belgian singer, survived by boarding lifeboat 9. She continued her singing career after the disaster and often spoke of her Titanic experience.",
+      "da": "Berthe Mayné, belgisk sangerinde, overlevede ved at gå om bord i redningsbåd nr. 9. Hun fortsatte sin sangkarriere efter katastrofen og talte ofte om sine oplevelser på Titanic.",
+      "de": "Berthe Mayné, eine belgische Sängerin, überlebte an Bord des Rettungsbootes 9. Sie setzte ihre Gesangskarriere nach der Katastrophe fort und sprach oft über ihre Erfahrungen auf der Titanic.",
+      "it": "Berthe Mayné, una cantante belga, sopravvisse salendo sulla scialuppa di salvataggio 9. Continuò la sua carriera di cantante dopo il disastro e spesso parlava della sua esperienza sul Titanic.",
+      "pt": "Berthe Mayné, cantora belga, sobreviveu ao naufrágio ao embarcar no bote salva-vidas número 9. Após o desastre, continuou sua carreira como cantora e frequentemente relatava sua experiência a bordo do Titanic."
+    }
+  }
+}

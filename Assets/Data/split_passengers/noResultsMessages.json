@@ -1,0 +1,12 @@
+{
+  "noResultsMessages": {
+    "text": {
+      "fr": "Aucun passager ne correspond à cette recherche",
+      "en": "No passengers match this search",
+      "da": "Ingen passagerer matcher din søgning",
+      "de": "Keine Passagiere entsprechen diese Suche",
+      "it": "Nessun passegero corrisponde alla tua ricerca",
+      "pt": "Nenhum passageiro corresponde à sua pesquisa"
+    }
+  }
+}

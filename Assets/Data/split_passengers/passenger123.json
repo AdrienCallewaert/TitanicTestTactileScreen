@@ -1,0 +1,44 @@
+{
+  "passenger123": {
+    "grade": "Passenger",
+    "age": 63,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "3rd",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/123-Oline-Lena-jacobsen.jpg",
+      "alt": "picture of Oline 'Lena' Jacobsen"
+    },
+    "name": {
+      "fr": "Oline 'Lena' Jacobsen",
+      "en": "Oline 'Lena' Jacobsen",
+      "da": "Oline 'Lena' Jacobsen",
+      "de": "Oline 'Lena' Jacobsen",
+      "it": "Oline 'Lena' Jacobsen",
+      "pt": "Oline 'Lena' Jacobsen"
+    },
+    "description": {
+      "fr": "Lena Jacobsen Solvang naquit le 20 septembre 1884 à Stavanger, dans le Rogaland, en Norvège. Elle était la fille de Jacob Solvang et de Gunhild Johnsdatter. Elle semble avoir eu quatre enfants. En 1875, Lena vivait à Feidjedal, en Norvège, avec ses parents et deux filles, et elle était alors inscrite comme célibataire. Elle épousa plus tard Rasmus Jacobsen, un ouvrier journalier. Son mari décéda entre 1900 et 1910, car en 1910 Lena vivait encore à Sørhaug, veuve, travaillant comme couturière et vivant avec sa fille Ragna. Lena embarqua sur le RMS Titanic à Southampton en tant que passagère de troisième classe. Son billet portait le numéro 65303 et coûta £7 15s 6d.",
+      "en": "Lena Jacobsen Solvang was born on 20 September 1884 in Stavanger, Rogaland, Norway. She was the daughter of Jacob Solvang and Gunhild Johnsdatter. She seems to have had four children. In 1875, Lena lived at Feidjedal, Norway, with her parents and two daughters, and she was listed as being unmarried. At some point she married Rasmus Jacobsen, a general labourer. Her husband passed away between 1900 and 1910, for in 1910, she still lived at Sørhaug, now a widow and her occupation noted as a seamstress, with her daughter Ragna. Lena boarded the RMS Titanic at Southampton as a third-class passenger. Her ticket number was 65303, costing *£7 15s 6d.",
+      "da": "Lena Jacobsen Solvang blev født den 20. september 1884 i Stavanger, Rogaland, Norge. Hun var datter af Jacob Solvang og Gunhild Johnsdatter. Hun ser ud til at have haft fire børn. I 1875 boede Lena i Feidjedal, Norge, sammen med sine forældre og to døtre, og hun var registreret som ugift. På et tidspunkt giftede hun sig med Rasmus Jacobsen, en daglejer. Hendes mand døde mellem 1900 og 1910, for i 1910 boede Lena stadig i Sørhaug som enke, med erhverv som syerske, sammen med sin datter Ragna. Lena gik ombord på RMS Titanic i Southampton som tredjeklassepassager. Hendes billetnummer var 65303 og kostede £7 15s 6d.",
+      "de": "Lena Jacobsen Solvang wurde am 20. September 1884 in Stavanger, Rogaland, Norwegen, geboren. Sie war die Tochter von Jacob Solvang und Gunhild Johnsdatter. Sie scheint vier Kinder gehabt zu haben. Im Jahr 1875 lebte Lena in Feidjedal, Norwegen, mit ihren Eltern und zwei Töchtern und wurde als unverheiratet geführt. Später heiratete sie Rasmus Jacobsen, einen Tagelöhner. Ihr Ehemann verstarb zwischen 1900 und 1910, denn im Jahr 1910 lebte Lena noch in Sørhaug, nun als Witwe, ihr Beruf wurde als Näherin angegeben, zusammen mit ihrer Tochter Ragna. Lena bestieg die RMS Titanic in Southampton als Passagierin der dritten Klasse. Ihr Ticket hatte die Nummer 65303 und kostete £7 15s 6d.",
+      "it": "Lena Jacobsen Solvang nacque il 20 settembre 1884 a Stavanger, Rogaland, Norvegia. Era figlia di Jacob Solvang e Gunhild Johnsdatter. Sembra che abbia avuto quattro figli. Nel 1875, Lena viveva a Feidjedal, Norvegia, con i suoi genitori e due figlie, ed era registrata come nubile. In seguito sposò Rasmus Jacobsen, un manovale. Suo marito morì tra il 1900 e il 1910, poiché nel 1910 Lena viveva ancora a Sørhaug, vedova, lavorando come sarta e vivendo con la figlia Ragna. Lena si imbarcò sul RMS Titanic a Southampton come passeggera di terza classe. Il suo biglietto aveva il numero 65303 e costava £7 15s 6d.",
+      "pt": "Lena Jacobsen Solvang nasceu em 20 de setembro de 1884 em Stavanger, Rogaland, Noruega. Era filha de Jacob Solvang e Gunhild Johnsdatter. Ao longo da vida, parece ter tido quatro filhos. Em 1875, Lena vivia em Feidjedal, Noruega, com os pais e duas filhas, sendo registrada como solteira. Em algum momento posterior, casou-se com Rasmus Jacobsen, trabalhador braçal. Seu marido faleceu entre 1900 e 1910, pois, no censo de 1910, Lena ainda residia em Sørhaug, já viúva, trabalhando como costureira e vivendo com a filha Ragna. Lena embarcou no RMS Titanic em Southampton como passageira da terceira classe. Seu bilhete era o nº 65303, que custou £7, 15s, 6d."
+    },
+    "postIceberg": {
+      "fr": "Lors du naufrage du Titanic, il est rapporté que Bernt Johannesen, un survivant qui la connaissait, l’a aidée à monter jusqu’au pont des embarcations et l’a conduite vers un canot de sauvetage situé du côté bâbord du navire, probablement le n°10 ou le n°12. Cependant, il la laissa là, pensant qu’elle embarquerait. Pour des raisons inconnues, elle resta sur le navire et disparut dans la catastrophe. On ignore également pourquoi elle figure sous le nom de ' Solvang ' dans la liste des passagers de la White Star Line.",
+      "en": "When Titanic sink . It is reported that Bernt Johannesen, a survivor who knew her, helped her to the boat deck and escorted her to a lifeboat on the port side of the ship, purportedly No. 10 or No. 12, but left her there, thinking she would enter the lifeboat. For reasons unknown she stayed on the ship and was lost. It is not known why she went by the name 'Solvang' in the White Star Line passenger list. ",
+      "da": "Da Titanic sank, rapporteres det, at Bernt Johannesen, en overlevende der kendte hende, hjalp hende op på bådedækket og fulgte hende til en redningsbåd på skibets bagbordsside, angiveligt nr. 10 eller nr. 12. Han forlod hende dér, i den tro at hun ville gå ombord. Af ukendte grunde blev hun dog på skibet og gik under med det. Det er heller ikke kendt, hvorfor hun figurerede under navnet 'Solvang' på White Star Lines passagerliste.",
+      "de": "Als die Titanic sank, soll Bernt Johannesen, ein Überlebender, der sie kannte, ihr auf das Bootsdeck geholfen und sie zu einem Rettungsboot an der Backbordseite des Schiffes begleitet haben, vermutlich Nr. 10 oder Nr. 12. Er ließ sie dort zurück, in der Annahme, dass sie einsteigen würde. Aus unbekannten Gründen blieb sie jedoch auf dem Schiff und kam ums Leben. Es ist ebenfalls unklar, warum sie in der Passagierliste der White Star Line unter dem Namen 'Solvang' geführt wurde.",
+      "it": "Quando il Titanic affondò, si racconta che Bernt Johannesen, un sopravvissuto che la conosceva, l’aiutò a raggiungere il ponte delle scialuppe e la accompagnò fino a una scialuppa sul lato di sinistra della nave, probabilmente la n. 10 o la n. 12. Tuttavia, la lasciò lì pensando che sarebbe salita a bordo. Per ragioni sconosciute rimase invece sulla nave e morì nel naufragio. Non è nemmeno noto perché comparisse con il nome 'Solvang' nella lista passeggeri della White Star Line.",
+      "pt": "Quando o Titanic afundou, relata-se que Bernt Johannesen, um sobrevivente que a conhecia, ajudou-a a subir ao convés dos botes e a acompanhou até um bote salva-vidas no lado de bombordo do navio, supostamente o nº 10 ou nº 12. No entanto, deixou-a lá, acreditando que ela embarcaria. Por razões desconhecidas, ela permaneceu a bordo e perdeu a vida no naufrágio. Também não se sabe por que motivo aparecia com o nome 'Solvang' na lista de passageiros da White Star Line."
+    }
+  }
+}

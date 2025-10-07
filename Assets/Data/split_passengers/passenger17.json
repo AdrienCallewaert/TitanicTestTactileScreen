@@ -1,0 +1,44 @@
+{
+  "passenger17": {
+    "grade": "Passenger",
+    "age": 23,
+    "role": {
+      "fr": "Soutier",
+      "en": "Coal trimmer",
+      "da": "Overlevende besætningsmedlem (Kultrimmer)",
+      "de": "Kohlentrimmer",
+      "it": "Trimmer del carbone",
+      "pt": "Carvoeiro"
+    },
+    "class": "Staff",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/17-Joseph-Dawson.jpg",
+      "alt": "picture of Joseph Dawson"
+    },
+    "name": {
+      "fr": "Joseph Dawson",
+      "en": "Joseph Dawson",
+      "da": "Joseph Dawson",
+      "de": "Joseph Dawson",
+      "it": "Joseph Dawson",
+      "pt": "Joseph Dawson"
+    },
+    "description": {
+      "fr": "Joseph Dawson était trieur de charbon sur le RMS Titanic, travaillant dans la salle des machines pour assurer le bon fonctionnement des moteurs du navire. Les tâches quotidiennes de Dawson consistaient en un travail physique exigeant, pelletant du charbon dans les chaudières et maintenant la puissance du navire. Employé par la White Star Line, il avait de l’expérience sur d’autres paquebots à vapeur, ce qui le rendait apte à gérer l’environnement éprouvant des machines. Dawson était connu pour son ardeur au travail et sa camaraderie avec les autres membres de l’équipage.",
+      "en": "Joseph Dawson was a coal trimmer on the RMS Titanic, working in the boiler room to ensure the ship's engines ran smoothly. Dawson's daily duties involved physically demanding labor, shoveling coal into the furnaces and maintaining the ship's power. Employed by the White Star Line, he had experience on other steamships, making him adept at managing the grueling work environment below deck. Dawson was known for his hard work and camaraderie with fellow crew members.",
+      "da": "Joseph Dawson var kullemper på RMS Titanic og arbejdede i kedelrummet for at sikre, at skibets motorer kørte problemfrit. Dawsons daglige opgaver involverede det fysisk krævende arbejde med at skovle kul ind i ovnene og opretholde skibets strømforsyning. Han var ansat af White Star Line og havde erfaring fra andre dampskibe, så han var i stand til at håndtere det barske arbejdsmiljø under dæk. Dawson var kendt for sit hårde arbejde og sit kammeratskab med de andre besætningsmedlemmer.",
+      "de": "Joseph Dawson war Kohlentrimmer auf der RMS Titanic und arbeitete im Kesselraum, um den reibungslosen Betrieb der Schiffsmaschinen zu gewährleisten. Zu Dawsons täglichen Aufgaben gehörte körperlich anstrengende Arbeit, das Schaufeln von Kohle in die Kessel und die Aufrechterhaltung des Dampfdrucks. Als Angestellter der White Star Line hatte er bereits Erfahrungen auf anderen Dampfschiffen gesammelt und war daher in der Lage, mit der zermürbenden Arbeitsumgebung unter Deck umzugehen. Dawson war für seine harte Arbeit und seinen kameradschaftlichen Umgang mit den anderen Besatzungsmitgliedern bekannt.",
+      "it": "Joseph Dawson era un trimmer del carbone sul RMS Titanic, lavorando nella sala macchine per garantire il buon funzionamento dei motori della nave. I compiti giornalieri di Dawson includevano un lavoro fisicamente impegnativo, spalando carbone nelle fornaci e mantenendo la potenza della nave. Impiegato dalla White Star Line, aveva esperienza su altre navi a vapore, il che lo rendeva abile nella gestione dell'ambiente di lavoro faticoso sotto coperta. Dawson era conosciuto per il suo duro lavoro e la sua camaraderie con i compagni di equipaggio.",
+      "pt": "Joseph Dawson era um trimmer de carvão no RMS Titanic, trabalhando na casa de máquinas para garantir o funcionamento suave dos motores do navio. As tarefas diárias de Dawson envolviam trabalho físico extenuante, como empurrar carvão para os fornos e manter a energia do navio. Empregado pela White Star Line, ele tinha experiência em outros navios a vapor, o que o tornava habilidoso para lidar com o ambiente de trabalho desgastante abaixo do convés. Dawson era conhecido por sua dedicação e camaradagem com os demais membros da tripulação."
+    },
+    "postIceberg": {
+      "fr": "Joseph Dawson, trieur de charbon, périt dans la catastrophe. Sa tombe à Halifax, en Nouvelle-Écosse, devint célèbre en raison de son association avec le personnage fictif du film ' Titanic '.",
+      "en": "Joseph Dawson, a coal trimmer, perished in the disaster. His grave in Halifax, Nova Scotia, became famous due to its association with the fictional character in the film 'Titanic.",
+      "da": "Joseph Dawson, kullemper, omkom i katastrofen. Hans grav i Halifax, Nova Scotia, blev berømt på grund af dens tilknytning til den fiktive karakter i filmen 'Titanic'",
+      "de": "Joseph Dawson, ein Kohlentrimmer, kam bei der Tragödie ums Leben. Sein Grab in Halifax, Nova Scotia, wurde durch die Verbindung mit der fiktiven Figur im Film „Titanic“ berühmt.",
+      "it": "Joseph Dawson, un trimmer del carbone, perì nella tragedia. La sua tomba a Halifax, Nuova Scozia, divenne famosa per la sua associazione con il personaggio fittizio nel film 'Titanic'",
+      "pt": "Joseph Dawson, trimmer de carvão, faleceu no desastre. Seu túmulo em Halifax, Nova Escócia, tornou-se famoso devido à associação com o personagem fictício do filme 'Titanic'."
+    }
+  }
+}

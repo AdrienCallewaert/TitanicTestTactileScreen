@@ -1,0 +1,44 @@
+{
+  "passenger12": {
+    "grade": "Passenger",
+    "age": 24,
+    "role": {
+      "fr": "Chauffeur mécanicien",
+      "en": "Fireman Stoker",
+      "da": "Overlevende besætningsmedlem (fyrbøder)",
+      "de": "Marinefeuerwehrmann",
+      "it": "vigile del fuoco della marina",
+      "pt": "Foguista"
+    },
+    "class": "Staff",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/12-Arthur-John-Priest.jpg",
+      "alt": "picture of Arthur John Priest"
+    },
+    "name": {
+      "fr": "Arthur John Priest",
+      "en": "Arthur John Priest",
+      "da": "Arthur John Priest",
+      "de": "Arthur John Priest",
+      "it": "Arthur John Priest",
+      "pt": "Arthur John Priest"
+    },
+    "description": {
+      "fr": "Né en 1887 à Southampton, Arthur John Priest travailla comme chauffeur sur divers navires, y compris le navire jumeau du Titanic, le RMS Olympic, où il vécut une expérience périlleuse lors de la collision de l’Olympic avec le HMS Hawke en 1911. Malgré la gravité de l’accident, Priest en sortit indemne. Sa carrière de chauffeur était exigeante et dangereuse, nécessitant une force physique et une endurance considérables pour gérer les chaudières du navire. Malgré les dangers, Priest poursuivit son travail en mer, s’engageant comme chauffeur sur le Titanic.",
+      "en": "Born in 1887 in Southampton, Arthur John Priest worked as a stoker on various ships, including Titanic's sister ship the RMS Olympic, where he experienced a brush with disaster when Olympic collided with HMS Hawke in 1911. Despite the severity of the collision, Priest survived unscathed. His career as a stoker was demanding and perilous, requiring immense physical strength and endurance to manage the ship's boilers. Despite the dangers, Priest continued his work at sea, singing on as a stoker on Titanic.",
+      "da": "Arthur John Priest blev født i 1887 i Southampton og arbejdede som fyrbøder på forskellige skibe, bl.a. Titanics søsterskib RMS Olympic, hvor han i 1911 fik et forvarsel om kommende ulykker, da Olympic kolliderede med HMS Hawke. Priest slap uskadt fra den voldsomme kollision. Hans arbejde som fyrbøder var opslidende og farefuldt, og det krævede enorm fysisk styrke og udholdenhed at holde skibets kedler i gang. På trods af de barske omstændigheder fortsatte Priest sit arbejde til søs og som fyrbøder på Titanic.",
+      "de": "Der 1887 in Southampton geborene Arthur John Priest arbeitete als Heizer auf verschiedenen Schiffen, darunter auch auf dem Schwesterschiff der Titanic, der RMS Olympic, wo er bei der Kollision der Olympic mit der HMS Hawke im Jahr 1911 ein katastrophales Erlebnis hatte. Trotz der Schwere des Zusammenstoßes überlebte Priest ohne Verletzungen. Seine Karriere als Heizer war anspruchsvoll und gefährlich und erforderte immense körperliche Kraft und Ausdauer, um die Schiffskessel zu bedienen. Trotz dieser Gefahren setzte Priest seine Arbeit auf See fort und heuerte als Heizer auf der Titanic an.",
+      "it": "Nato nel 1887 a Southampton, Arthur John Priest lavorava come fuochista su varie navi, tra cui la nave gemella del Titanic, il RMS Olympic, dove visse un'esperienza disastrosa quando l'Olympic si scontrò con l'HMS Hawke nel 1911. Nonostante la gravità della collisione, Priest sopravvisse senza ferite. La sua carriera come fuochista era impegnativa e pericolosa, richiedendo una forza fisica immensa e resistenza per gestire le caldaie della nave. Nonostante i pericoli, Priest continuò il suo lavoro in mare, firmando come fuochista sul Titanic.",
+      "pt": "Arthur John Priest nasceu em 1887 em Southampton e trabalhou como foguista (stoker) em vários navios, incluindo o RMS Olympic, navio-irmão do Titanic. Em 1911, Priest viveu uma experiência perigosa quando o Olympic colidiu com o HMS Hawke, mas sobreviveu ileso ao acidente. Sua carreira como foguista era exigente e arriscada, demandando grande força física e resistência para gerenciar as caldeiras do navio. Apesar dos perigos, Priest continuou a trabalhar no mar, atuando como foguista a bordo do Titanic."
+    },
+    "postIceberg": {
+      "fr": "Lorsque le Titanic heurta un iceberg, Priest, avec ses collègues chauffeurs, travailla sans relâche pour éviter l’explosion des chaudières et retarder le naufrage du navire, permettant ainsi à plus de passagers de s’échapper. À mesure que la situation empirait, il réussit à obtenir une place dans un canot de sauvetage. La survie de Priest fut remarquable compte tenu des conditions difficiles auxquelles l’équipage des machines était confronté. Son évasion s’inscrit dans une série de miracles : Priest survécut également à d’autres catastrophes maritimes, dont le naufrage du RMS Lusitania et du HMHS Britannic.",
+      "en": "When the Titanic struck an iceberg, Priest, along with his fellow stokers, worked tirelessly to keep the boilers from exploding and to delay the ship's sinking, allowing more passengers to escape. As the situation worsened, he managed to secure a spot on a lifeboat. Priest's survival was remarkable given the harsh conditions faced by the crew below deck. His escape was part of a string of miraculous survivals. Priest also survived other maritime disasters, including the sinking of the RMS Lusitania and HMHS Britannic.",
+      "da": "Da Titanic ramte isbjerget, arbejdede Priest sammen med de andre fyrbødere utrætteligt for at forhindre kedlerne i at eksplodere og for at forsinke skibets forlis, så flere passagerer kunne nå at komme i sikkerhed. Da situationen spidsede til, lykkedes det ham at få en plads i en redningsbåd. Priests overlevelse var bemærkelsesværdig i betragtning af de kaotiske forhold, som besætningen under dæk stod over for. Han undslap døden og blev en del af en gruppe, som på mirakuløs vis overlevede katastrofen. Priest overlevede også andre maritime katastrofer, herunder RMS Lusitanias og HMHS Britannics forlis.",
+      "de": "Als die Titanic einen Eisberg rammte, arbeitete Priest zusammen mit seinen Kollegen unermüdlich daran, die Explosion der Kessel zu verhindern und den Untergang des Schiffes zu verzögern, so dass mehr Passagiere entkommen konnten. Als sich die Situation verschlimmerte, gelang es ihm, einen Platz in einem Rettungsboot zu finden. Priests Überleben war angesichts der harten Bedingungen, denen die Besatzung unter Deck ausgesetzt war, bemerkenswert. Seine Flucht war Teil einer Reihe von wundersamen Überlebenden; Priest überlebte auch andere Schiffskatastrophen, darunter den Untergang der RMS Lusitania und der HMHS Britannic.",
+      "it": "Quando il Titanic colpì un iceberg, Priest, insieme ai suoi compagni stoker, lavorò instancabilmente per impedire l'esplosione delle caldaie e ritardare l'affondamento della nave, permettendo a più passeggeri di scappare. Con il peggiorare della situazione, riuscì a trovare un posto su una scialuppa. La sopravvivenza di Priest fu notevole date le dure condizioni affrontate dall'equipaggio sotto coperta. La sua fuga fu parte di una serie di sopravvivenze miracolose. Priest sopravvisse anche ad altri disastri marittimi, tra cui l'affondamento del RMS Lusitania e dell'HMHS Britannic.",
+      "pt": "Quando o Titanic colidiu com o iceberg, Priest, junto com seus colegas foguistas, trabalhou incansavelmente para evitar que as caldeiras explodissem e para retardar o afundamento do navio, permitindo que mais passageiros escapassem. À medida que a situação piorava, ele conseguiu garantir um lugar em um bote salva-vidas. A sobrevivência de Priest foi notável, considerando as condições adversas enfrentadas pela tripulação abaixo do convés. Sua fuga fez parte de uma série de sobrevivências milagrosas; Priest também sobreviveu a outros desastres marítimos, incluindo o afundamento do RMS Lusitania e do HMHS Britannic"
+    }
+  }
+}

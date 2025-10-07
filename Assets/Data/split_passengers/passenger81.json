@@ -1,0 +1,44 @@
+{
+  "passenger81": {
+    "grade": "staff",
+    "age": 33,
+    "role": {
+      "fr": "Hôtesse des bains turcs",
+      "en": "Turkish Bath Stewardess",
+      "da": "Tyrkisk bad-stewardesse",
+      "de": "Badestewardess (Türkisches Bad)",
+      "it": "Cameriera dei bagni turchi",
+      "pt": "Hospedeira dos banhos turcos"
+    },
+    "class": "Staff",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/81-Annie-Caton.png",
+      "alt": "picture of Annie Caton"
+    },
+    "name": {
+      "fr": "Annie Caton",
+      "en": "Annie Caton",
+      "da": "Annie Caton",
+      "de": "Annie Caton",
+      "it": "Annie Caton",
+      "pt": "Annie Caton"
+    },
+    "description": {
+      "fr": "Annie Caton naquit à Clerkenwell, Londres, en 1879. Au début de la cinquantaine, elle entra au service maritime de la White Star Line, occupant le poste spécialisé de Turkish Bath Stewardess (responsable des bains turcs) à bord du RMS Titanic - son premier voyage en mer. Lorsqu’elle s’engagea à Southampton, le 10 avril 1912, elle déclara résider au 50 Highbury Hill, Islington. Durant le tragique naufrage du Titanic, Annie conserva son calme et son professionnalisme. Elle fit partie des membres d’équipage ayant survécu, vraisemblablement secourue à bord du canot n°11. Après la catastrophe, Annie épousa William Richard Howland et vécut le reste de sa vie sous le nom d’Annie Howland. Elle s’éteignit en 1947, laissant derrière elle le souvenir de sa survie remarquable et de son service à bord du Titanic.",
+      "en": "Annie Caton was born in Clerkenwell, London, in 1879. By her early fifties, she joined maritime service for the White Star Line, taking on the specialized role of Turkish Bath Stewardess aboard the RMS Titanic-her first voyage by sea. When she signed on at Southampton on April 10, 1912, she listed her residence as 50 Highbury Hill, Islington. During the tragic sinking of the Titanic, Annie maintained her professional composure. She was among the crew members who survived, believed to have been rescued via Lifeboat 11. Following the disaster, Annie married William Richard Howland and lived the rest of her life under the name Annie Howland. She passed away in 1947, leaving behind the stories of her remarkable survival and service aboard the Titanic. ",
+      "da": "Annie Caton blev født i Clerkenwell, London, i 1879. I begyndelsen af halvtredserne gik hun ind i søfartstjenesten for White Star Line, hvor hun fik den specialiserede rolle som Turkish Bath Stewardess ombord på RMS Titanic-hendes første rejse til søs. Da hun underskrev sin kontrakt i Southampton den 10. april 1912, angav hun sin bopæl som 50 Highbury Hill, Islington. Under den tragiske forlis af Titanic bevarede Annie sin professionelle ro. Hun var blandt de besætningsmedlemmer, der overlevede, og menes at være blevet reddet via redningsbåd 11. Efter katastrofen giftede Annie sig med William Richard Howland og levede resten af sit liv under navnet Annie Howland. Hun døde i 1947 og efterlod historierne om sin bemærkelsesværdige overlevelse og tjeneste ombord på Titanic.",
+      "de": "Annie Caton wurde 1879 in Clerkenwell, London, geboren. In ihren frühen Fünfzigern trat sie in den Seedienst der White Star Line ein und übernahm die spezialisierte Rolle einer Turkish Bath Stewardess an Bord der RMS Titanic-ihre erste Seereise. Als sie am 10. April 1912 in Southampton anheuerte, gab sie ihren Wohnsitz mit 50 Highbury Hill, Islington, an. Während des tragischen Untergangs der Titanic bewahrte Annie ihre professionelle Haltung. Sie gehörte zu den Besatzungsmitgliedern, die überlebten, vermutlich durch die Rettung mit Boot Nr. 11. Nach der Katastrophe heiratete Annie William Richard Howland und lebte den Rest ihres Lebens unter dem Namen Annie Howland. Sie starb 1947 und hinterließ die Geschichten ihrer bemerkenswerten Überlebensleistung und ihres Dienstes an Bord der Titanic.",
+      "it": "Annie Caton nacque a Clerkenwell, Londra, nel 1879. All’inizio dei cinquant’anni entrò al servizio marittimo della White Star Line, assumendo il ruolo specializzato di Turkish Bath Stewardess a bordo della RMS Titanic-il suo primo viaggio per mare. Quando firmò a Southampton il 10 aprile 1912, dichiarò come residenza 50 Highbury Hill, Islington. Durante il tragico naufragio del Titanic, Annie mantenne la sua compostezza professionale. Fu tra i membri dell’equipaggio che sopravvissero, si ritiene grazie alla scialuppa n. 11. Dopo la catastrofe, Annie sposò William Richard Howland e visse il resto della sua vita con il nome di Annie Howland. Morì nel 1947, lasciando le testimonianze della sua straordinaria sopravvivenza e del suo servizio a bordo del Titanic.",
+      "pt": "Nascida em Clerkenwell, Londres, em 1879, Annie Caton ingressou já na casa dos cinquenta anos no serviço marítimo da White Star Line, ocupando a função especializada de camareira do Banho Turco a bordo do RMS Titanic-sua primeira viagem no mar. Ao assinar contrato em Southampton, em 10 de abril de 1912, declarou residência em 50 Highbury Hill, Islington. Durante o trágico naufrágio, Annie manteve a compostura profissional. É reconhecida como uma das membros da tripulação que sobreviveram, tendo sido resgatada, ao que se acredita, no bote nº 11. Após a tragédia, Annie casou-se com William Richard Howland e passou a ser conhecida como Annie Howland. Viveu o restante de sua vida discretamente até falecer em 1947, deixando como legado o testemunho de sua notável sobrevivência e serviço a bordo do Titanic."
+    },
+    "postIceberg": {
+      "fr": "Après la catastrophe, Annie retourna en Angleterre. Elle épousa William Richard Howland, prenant alors le nom d’Annie Howland. Le couple vécut dans une relative discrétion, et Annie ne chercha jamais à attirer l’attention sur son histoire de survie. Elle s’éteignit en 1947, laissant derrière elle une vie marquée à la fois par un service modeste et par une expérience maritime extraordinaire.",
+      "en": "Following the disaster, Annie returned to England. She married William Richard Howland, after which she was known as Annie Howland. The couple lived in relative obscurity, and Annie did not seek public attention for her survival story. She passed away in 1947, leaving behind a life marked by both quiet service and one extraordinary experience at sea.",
+      "da": "Efter katastrofen vendte Annie tilbage til England. Hun giftede sig med William Richard Howland, hvorefter hun blev kendt som Annie Howland. Parret levede i relativ uklarhed, og Annie søgte ikke offentlig opmærksomhed for sin overlevelseshistorie. Hun døde i 1947 og efterlod et liv præget af både stille tjeneste og én ekstraordinær oplevelse til søs.",
+      "de": "Nach der Katastrophe kehrte Annie nach England zurück. Sie heiratete William Richard Howland und war danach als Annie Howland bekannt. Das Paar lebte weitgehend im Verborgenen, und Annie suchte keine öffentliche Aufmerksamkeit für ihre Überlebensgeschichte. Sie starb 1947 und hinterließ ein Leben, das sowohl von stillem Dienst als auch von einem außergewöhnlichen Erlebnis auf See geprägt war.",
+      "it": "Dopo la tragedia, Annie tornò in Inghilterra. Sposò William Richard Howland, dopo di che fu conosciuta come Annie Howland. La coppia visse in relativa discrezione e Annie non cercò l’attenzione pubblica per la sua storia di sopravvivenza. Morì nel 1947, lasciando una vita segnata sia da un servizio silenzioso che da un’esperienza straordinaria in mare.",
+      "pt": "Depois do desastre, Annie voltou para a Inglaterra. Casou-se com William Richard Howland e passou a ser conhecida como Annie Howland. O casal viveu discretamente, e Annie nunca buscou atenção pública por sua história de sobrevivência. Ela faleceu em 1947, deixando para trás uma vida marcada tanto por um serviço tranquilo quanto por uma experiência extraordinária no mar."
+    }
+  }
+}

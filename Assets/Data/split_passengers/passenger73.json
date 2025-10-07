@@ -1,0 +1,44 @@
+{
+  "passenger73": {
+    "grade": "Passenger",
+    "age": 38,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "3rd",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/73-Ida-Augusta-Margareta-Andersson.jpg",
+      "alt": "picture of Ida Augusta Margareta Andersson"
+    },
+    "name": {
+      "fr": "Ida Augusta Margareta Andersson",
+      "en": "Ida Augusta Margareta Andersson",
+      "da": "Ida Augusta Margareta Andersson",
+      "de": "Ida Augusta Margareta Andersson",
+      "it": "Ida Augusta Margareta Andersson",
+      "pt": "Ida Augusta Margareta Andersson"
+    },
+    "description": {
+      "fr": "Ida Margareta Andersson est née le 24 novembre 1873 à Sventorp, dans le comté de Skaraborg, en Suède, fille d’Anders Johan et Anna Greta Carlsson. Elle a sept frères et sœurs: Johan Alfred, Anna Kristina Elisabet, August Linus, Hilda Maria, Karl Oskar, Hilma Susanna et Josef Timoteus. Ida émigre pour la première fois en Amérique le 26 mai 1893, mais retourne en Suède en juin 1894 et effectue peut-être un autre voyage plus tard. À la fin des années 1890, Ida travaille comme domestique à Skövde puis gouvernante au manoir de Lagmansbro. Sa sœur Hilda émigre aux États-Unis en 1887, épouse Axel Johnson en 1890 et décède en couches en 1909, laissant dix enfants. Ida embarque probablement sur le Titanic pour aider à s’occuper de ces enfants et peut-être épouser Axel. Elle monte à bord à Southampton en troisième classe.",
+      "en": "Ida Margareta Andersson was born on November 24, 1873, in Sventorp, Skaraborgs County, Sweden, to Anders Johan and Anna Greta Carlsson. She had seven siblings: Johan Alfred, Anna Kristina Elisabet, August Linus, Hilda Maria, Karl Oskar, Hilma Susanna, and Josef Timoteus. Ida first emigrated to America on May 26, 1893, but returned to Sweden by June 1894 and possibly made another trip to the USA later.In the late 1890s, Ida worked as a maid in Skövde and later as a housekeeper at Lagmansbro Manor. Her sister Hilda emigrated to the USA in 1887, married Axel Johnson in 1890, and died in childbirth in 1909, leaving behind ten children. Ida likely traveled on the Titanic to help care for these children and possibly to marry Axel. She boarded the Titanic at Southampton as a third-class passenger.",
+      "da": "Ida Margareta Andersson blev født den 24. november 1873 i Sventorp, Skaraborgs län, Sverige, som datter af Anders Johan og Anna Greta Carlsson. Hun havde syv søskende: Johan Alfred, Anna Kristina Elisabet, August Linus, Hilda Maria, Karl Oskar, Hilma Susanna og Josef Timoteus. Ida emigrerede første gang til Amerika den 26. maj 1893, men vendte tilbage til Sverige i juni 1894 og tog muligvis endnu en tur til USA senere. I slutningen af 1890'erne arbejdede Ida som tjenestepige i Skövde og senere som husholderske på Lagmansbro Gods. Hendes søster Hilda emigrerede til USA i 1887, blev gift med Axel Johnson i 1890 og døde i barselssengen i 1909, hvor hun efterlod sig ti børn. Ida rejste sandsynligvis med Titanic for at hjælpe med at tage sig af disse børn og muligvis for at gifte sig med Axel. Hun gik om bord på Titanic i Southampton som passager på tredje klasse.",
+      "de": "Ida Margareta Andersson wurde am 24. November 1873 in Sventorp, Kreis Skaraborgs, Schweden, als Tochter von Anders Johan und Anna Greta Carlsson geboren. Sie hatte sieben Geschwister: Johan Alfred, Anna Kristina Elisabet, August Linus, Hilda Maria, Karl Oskar, Hilma Susanna und Josef Timoteus. Ida wanderte erstmals am 26. Mai 1893 nach Amerika aus, kehrte aber im Juni 1894 nach Schweden zurück und reiste möglicherweise später noch einmal in die USA. In den späten 1890er Jahren arbeitete Ida als Dienstmädchen in Skövde und später als Haushälterin auf dem Gutshof Lagmansbro. Ihre Schwester Hilda wanderte 1887 in die USA aus, heiratete 1890 Axel Johnson und starb 1909 im Kindsbett, wobei sie zehn Kinder hinterließ. Ida reiste wahrscheinlich mit der Titanic, um bei der Betreuung dieser Kinder zu helfen und möglicherweise Axel zu heiraten. Sie bestieg die Titanic in Southampton als Passagier der Dritten Klasse.",
+      "it": "Ida Margareta Andersson nacque il 24 novembre 1873 a Sventorp, nella contea di Skaraborg, Svezia, da Anders Johan e Anna Greta Carlsson. Aveva sette fratelli: Johan Alfred, Anna Kristina Elisabet, August Linus, Hilda Maria, Karl Oskar, Hilma Susanna e Josef Timoteus. Ida emigrò per la prima volta in America il 26 maggio 1893, ma tornò in Svezia entro giugno 1894 e probabilmente fece un altro viaggio negli USA in seguito.Alla fine degli anni 1890, Ida lavorava come domestica a Skövde e successivamente come governante a Lagmansbro Manor. Sua sorella Hilda emigrò negli USA nel 1887, sposò Axel Johnson nel 1890 e morì di parto nel 1909, lasciando dieci figli. Ida probabilmente viaggiò sul Titanic per aiutare a prendersi cura di questi bambini e forse per sposare Axel. Si imbarcò sul Titanic a Southampton come passeggera di terza classe.",
+      "pt": "Ida Margreta Andersson nasceu em 24 de novembro de 1873, em Sventorp, no Condado de Skaraborg, Suécia, filha de Anders Johan e Anna Greta Carlsson. Ela tinha sete irmãos: Johan Alfred, Anna Kristina Elisabet, August Linus, Hilda Maria, Karl Oskar, Hilma Susanna e Josef Timoteus. Ida emigrou pela primeira vez para a América em 26 de maio de 1893, mas retornou à Suécia em junho de 1894, possivelmente realizando outra viagem aos Estados Unidos em data posterior. No final da década de 1890, Ida trabalhou como criada em Skövde e, mais tarde, como governanta na propriedade de Lagmansbro Manor. Sua irmã Hilda havia emigrado para os EUA em 1887, casado com Axel Johnson em 1890 e falecido em 1909, durante o parto, deixando dez filhos. É provável que Ida tenha viajado no Titanic com a intenção de ajudar a cuidar dessas crianças e, possivelmente, casar-se com Axel. Ela embarcou no Titanic em Southampton como passageira da terceira classe."
+    },
+    "postIceberg": {
+      "fr": "Ida Augusta Margareta Andersson périt dans le naufrage. Son corps ne fut jamais retrouvé en mer.",
+      "en": "Ida Augusta Margareta Andersson perished in the sinking. Her body was never recovered from the sea.",
+      "da": "Ida Augusta Margareta Andersson omkom ved forliset. Hendes lig blev aldrig fundet.",
+      "de": "Ida Augusta Margareta Andersson kam bei dem Schiffsunglück ums Leben. Ihre Leiche wurde nie aus dem Meer geborgen.",
+      "it": "Ida Augusta Margareta Andersson perì nel naufragio. Il suo corpo non fu mai recuperato dal mare.",
+      "pt": "Ida Augusta Margareta Andersson pereceu no naufrágio. Seu corpo nunca foi recuperado do mar."
+    }
+  }
+}

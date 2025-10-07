@@ -1,0 +1,44 @@
+{
+  "passenger51": {
+    "grade": "Passenger",
+    "age": 25,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "2nd",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/51-Alice-Frances-Louisa-Phillips.jpg",
+      "alt": "picture of Alice Frances Louisa Phillips"
+    },
+    "name": {
+      "fr": "Alice Frances Louisa Phillips",
+      "en": "Alice Frances Louisa Phillips",
+      "da": "Alice Frances Louisa Phillips",
+      "de": "Alice Frances Louisa Phillips",
+      "it": "Alice Frances Louisa Phillips",
+      "pt": "Alice Frances Louisa Phillips"
+    },
+    "description": {
+      "fr": "Alice Phillips, infirmière, voyageait seule vers les États-Unis à la recherche d’opportunités dans le secteur de la santé. Avant d’embarquer sur le Titanic, Alice travaillait en Angleterre, accumulant de l’expérience et économisant pour son voyage. Elle était connue pour son dévouement envers ses patients et son ambition de progresser dans sa carrière. Son voyage sur le Titanic s’inscrivait dans son projet de découvrir de nouvelles perspectives en Amérique, où la demande en personnel infirmier qualifié était forte. Elle espérait trouver un emploi en hôpital ou en cabinet privé, bâtir une carrière et contribuer à la communauté médicale.",
+      "en": "Alice Phillips, a nurse, was traveling alone to the United States in pursuit of employment opportunities in the healthcare sector. Before boarding the Titanic, Alice worked in England, gaining experience and saving money for her journey. She was known for her dedication to her patients and her ambition to advance her career. Alice's trip on the Titanic was part of her plan to explore new opportunities in America, where the demand for skilled nurses was high. She anticipated finding work in a hospital or private practice, hoping to build a successful career and contribute to the healthcare community.",
+      "da": "Alice Phillips var sygeplejerske og rejste alene til USA i jagten på et job i sundhedsvæsenet. Inden hun gik om bord på Titanic, arbejdede Alice i England, hvor hun samlede erfaring og sparede penge op til rejsen. Hun var kendt for sin fokus på patienterne og sine ambitioner om at gøre karriere. Alices rejse med Titanic var en del af hendes plan om at udforske nye muligheder i Amerika, hvor der var stor efterspørgsel efter dygtige sygeplejersker. Hun forventede at finde arbejde på et hospital eller i en privat praksis i håbet om at opbygge en succesfuld karriere og bidrage til sundhedsvæsenet.",
+      "de": "Alice Phillips, eine Krankenschwester, reiste allein in die Vereinigten Staaten, um dort nach Beschäftigungsmöglichkeiten im Gesundheitswesen zu suchen. Bevor sie an Bord der Titanic ging, arbeitete Alice in England, um Erfahrungen zu sammeln und Geld für ihre Reise zu sparen. Sie war bekannt für ihre Hingabe an ihre Patienten und ihren Ehrgeiz, ihre Karriere voranzutreiben. Alices Reise auf der Titanic war Teil ihres Plans, neue Möglichkeiten in Amerika zu erkunden, wo die Nachfrage nach qualifizierten Krankenschwestern groß war. Sie hoffte auf eine Anstellung in einem Krankenhaus oder in einer privaten Praxis, in der Hoffnung, eine erfolgreiche Karriere aufzubauen und einen Beitrag zum Gesundheitswesen zu leisten.",
+      "it": "Alice Phillips, un’infermiera, viaggiava da sola negli Stati Uniti in cerca di opportunità di lavoro nel settore sanitario. Prima di salire a bordo del Titanic, Alice lavorava in Inghilterra, acquisendo esperienza e risparmiando denaro per il suo viaggio. Era conosciuta per la sua dedizione ai pazienti e per la sua ambizione di far carriera. Il viaggio di Alice sul Titanic faceva parte del suo piano per esplorare nuove opportunità in America, dove la richiesta di infermieri qualificati era alta. Sperava di trovare lavoro in un ospedale o in uno studio privato, con l’obiettivo di costruire una carriera di successo e contribuire alla comunità sanitaria.",
+      "pt": "Alice Phillips, enfermeira, viajava sozinha para os Estados Unidos em busca de oportunidades de emprego no setor de saúde. Antes de embarcar no Titanic, Alice trabalhou na Inglaterra, adquirindo experiência e economizando dinheiro para a viagem. Era conhecida pela dedicação aos seus pacientes e pela ambição de progredir na carreira. A viagem no Titanic fazia parte do plano de Alice de explorar novas oportunidades na América, onde a demanda por enfermeiras qualificadas era alta. Ela esperava encontrar trabalho em hospitais ou consultórios particulares, com o objetivo de construir uma carreira de sucesso e contribuir para a comunidade de saúde."
+    },
+    "postIceberg": {
+      "fr": "Alice Frances Louisa Phillips, passagère de seconde classe, survécut au naufrage en embarquant dans le canot n°11. Elle continua à vivre aux États-Unis après la catastrophe. Son histoire s’inscrit dans celle de nombreux passagers de seconde classe ayant réussi à s’échapper du navire.",
+      "en": "Alice Frances Louisa Phillips, a second-class passenger, survived the sinking by boarding lifeboat 11. She continued to live in the United States after the disaster. Phillips' survival story is part of the larger narrative of second-class passengers who managed to escape the sinking ship.",
+      "da": "Alice Frances Louisa Phillips, passager på anden klasse, overlevede forliset ved at gå om bord i redningsbåd nr. 11. Hun slog sig ned i USA efter katastrofen. Historien om Alices overlevelse er en del af den større fortælling om de passagerer på anden klasse, som formåede at undslippe det synkende skib.",
+      "de": "Alice Frances Louisa Phillips, ein Passagier der Zweiten Klasse, überlebte den Untergang an Bord des Rettungsbootes 11. Sie lebte nach der Katastrophe weiter in den Vereinigten Staaten. Phillips' Überlebensgeschichte ist Teil der größeren Erzählung der Passagiere der zweiten Klasse, die dem Untergang des Schiffes entkommen konnten.",
+      "it": "Alice Frances Louisa Phillips, una passeggera di seconda classe, sopravvisse all'affondamento salendo sulla scialuppa 11. Continuò a vivere negli Stati Uniti dopo il disastro. La storia di sopravvivenza della Phillips fa parte della più ampia narrazione dei passeggeri di seconda classe che riuscirono a scampare all'affondamento della nave.",
+      "pt": "Alice Frances Louisa Phillips, passageira da Segunda Classe, sobreviveu ao naufrágio ao embarcar no bote salva-vidas número 11. Ela continuou vivendo nos Estados Unidos após o desastre. A história de sobrevivência de Phillips faz parte da narrativa mais ampla dos passageiros da Segunda Classe que conseguiram escapar do navio que afundava."
+    }
+  }
+}

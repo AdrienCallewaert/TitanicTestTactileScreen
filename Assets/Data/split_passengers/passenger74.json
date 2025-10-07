@@ -1,0 +1,44 @@
+{
+  "passenger74": {
+    "grade": "Passenger",
+    "age": 32,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": ""
+    },
+    "class": "3rd",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/74-NOPICS2.png",
+      "alt": "picture of Choong Foo"
+    },
+    "name": {
+      "fr": "Choong Foo",
+      "en": "Choong Foo",
+      "da": "Choong Foo",
+      "de": "Choong Foo",
+      "it": "Choong Foo",
+      "pt": "Choong Foo"
+    },
+    "description": {
+      "fr": "M. Choong Foo, originaire de Hong Kong, voyage à New York avec huit collègues du navire Annetta de la Donald Line. Chauffeur de chaudière, il part vraisemblablement aux États-Unis pour travailler sur un autre navire. Des recherches antérieures pensaient que Foo et ses collègues étaient des passagers clandestins, mais les huit ont embarqué à Southampton comme passagers payants de troisième classe. Lee Bing, Chang Chip, Choong Foo, Ling Hee, Ah Lam, Len Lam, Fang Lang et Lee Ling voyagent ensemble sous le même billet.",
+      "en": "Mr Choong Foo, from Hong Kong, was travelling to New York City with eight colleagues from the Donald Line's Annetta. He was a fireman who was presumably transferring to the States to find work on another ship. Previous research believed that Foo and his colleagues were stowaways on the Titanic, but all eight boarded the Titanic at Southampton as fare-paying third class passengers. Lee Bing, Chang Chip, Choong Foo, Ling Hee, Ah Lam, Len Lam, Fang Lang and Lee Ling travelled together on the same ticket.",
+      "da": "Choong Foo fra Hong Kong var på vej til New York City sammen med otte kolleger fra Donald Lines skib Annetta. Han var fyrbøder og formentlig på vej til USA for at finde arbejde på et andet skib. Tidligere mente man, at Foo og hans kolleger var blinde passagerer på Titanic, men alle otte gik om bord på Titanic i Southampton som betalende passagerer på tredje klasse. Lee Bing, Chang Chip, Choong Foo, Ling Hee, Ah Lam, Len Lam, Fang Lang og Lee Ling rejste alle på en og samme billet.",
+      "de": "Herr Choong Foo aus Hongkong war mit acht Kollegen von der Annetta der Donald Line auf dem Weg nach New York City. Er war ein Heizer, der vermutlich in die USA versetzt wurde, um auf einem anderen Schiff Arbeit zu finden. Frühere Forschungen gingen davon aus, dass Foo und seine Kollegen blinde Passagiere auf der Titanic waren, aber alle acht gingen in Southampton als zahlende Passagiere der Dritten Klasse an Bord der Titanic. Lee Bing, Chang Chip, Choong Foo, Ling Hee, Ah Lam, Len Lam, Fang Lang und Lee Ling reisten gemeinsam mit demselben Ticket.",
+      "it": "Il signor Choong Foo, di Hong Kong, stava viaggiando a New York con otto colleghi della Annetta della Donald Line. Era un fuochista che probabilmente si trasferiva negli Stati Uniti per trovare lavoro su un'altra nave. Ricerche precedenti credevano che Foo e i suoi colleghi fossero clandestini sul Titanic, ma tutti e otto si imbarcarono sul Titanic a Southampton come passeggeri paganti di terza classe. Lee Bing, Chang Chip, Choong Foo, Ling Hee, Ah Lam, Len Lam, Fang Lang e Lee Ling viaggiavano insieme sullo stesso biglietto.",
+      "pt": "O Sr. Choong Foo, de Hong Kong, viajava para Nova Iorque acompanhado de oito colegas do navio Annetta, da Donald Line. Ele trabalhava como foguista e presumia-se que estivesse sendo transferido para os Estados Unidos a fim de encontrar emprego em outro navio. Pesquisas anteriores sugeriam que Foo e seus colegas haviam embarcado clandestinamente no Titanic, mas, na realidade, todos os oito embarcaram em Southampton como passageiros pagantes da terceira classe. Lee Bing, Chang Chip, Choong Foo, Ling Hee, Ah Lam, Len Lam, Fang Lang e Lee Ling viajaram juntos sob uma única passagem."
+    },
+    "postIceberg": {
+      "fr": "Parmi les huit marins chinois à bord du Titanic, Choong Foo fut secouru par le Carpathia. Six des huit marins survécurent. Après leur arrivée à New York, les survivants chinois partirent pour Cuba le 20 avril à bord de l’Annetta de la Donald Line.",
+      "en": "One of eight Chinese sailors onboard Titanic, Choong Foo was rescused by Carpathia. Six of the eight sailors survived. After arriving in New York, the Chinese survivors left for Cuba on 20 April aboard the Donald Line's Annetta. ",
+      "da": "Choong Foo var en af otte kinesiske søfolk om bord på Titanic, og han blev reddet af Carpathia. Seks af de otte søfolk overlevede. Efter ankomsten til New York tog de overlevende kinesere til Cuba den 20. april om bord på Donald Lines skib Annetta. ",
+      "de": "Einer der acht chinesischen Seeleute an Bord der Titanic, Choong Foo, wurde von der Carpathia gerettet, weitere sechs der acht Matrosen überlebten. Nach ihrer Ankunft in New York fuhren die chinesischen Überlebenden am 20. April an Bord der Annetta der Donald Line nach Kuba.",
+      "it": "Uno degli otto marinai cinesi a bordo del Titanic, Choong Foo, fu salvato dal Carpathia. Sei degli otto marinai sopravvissero. Dopo l'arrivo a New York, i sopravvissuti cinesi partirono per Cuba il 20 aprile a bordo dell'Annetta della Donald Line.",
+      "pt": "Choong Foo foi um dos oito marinheiros chineses a bordo do Titanic e foi resgatado pelo Carpathia. Seis dos oito marinheiros sobreviveram. Após chegarem a Nova York, os sobreviventes chineses partiram para Cuba no dia 20 de abril a bordo do Annetta, da Donald Line."
+    }
+  }
+}

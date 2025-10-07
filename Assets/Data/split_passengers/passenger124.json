@@ -1,0 +1,44 @@
+{
+  "passenger124": {
+    "grade": "Passenger",
+    "age": 34,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "3rd",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/124-Joseph-Abraham-Hyman.jpg",
+      "alt": "picture of Joseph Abraham Hyman"
+    },
+    "name": {
+      "fr": "Joseph Abraham Hyman",
+      "en": "Joseph Abraham Hyman",
+      "da": "Joseph Abraham Hyman",
+      "de": "Joseph Abraham Hyman",
+      "it": "Joseph Abraham Hyman",
+      "pt": "Joseph Abraham Hyman"
+    },
+    "description": {
+      "fr": "Joseph Abraham Hyman est né à Kaunas, en Lituanie, le 15 février 1878. Issu d’une famille de Juifs polonais, il était le fils de Barnett Hyman (né vers 1854), épicier, et de Fannie Rosengrass, tous deux originaires de Varsovie. La famille Hyman arriva en Angleterre avant 1889 et s’installa au sein de la communauté juive florissante de Manchester, où Barnett travailla d’abord comme vendeur ambulant de bijoux avant d’ouvrir sa propre épicerie casher. En 1902, Joseph épousa Esther Levy. Le jeune couple s’installa à Glasgow et fonda une famille qui comptera finalement sept enfants. À la recherche de nouvelles opportunités, Joseph décida d’émigrer aux États-Unis et embarqua sur le Titanic à Southampton comme passager de troisième classe (billet n° 3470, coûtant 7 £, 17 shillings et 9 pence) le 10 avril 1912. Il voyageait seul à destination de Springfield, Massachusetts, où vivait son frère Harry.",
+      "en": "Joseph Abraham Hyman was born in Kaunas, Lithuania on 15 February 1878. Born into a family of Polish Jews, he was the son of Barnett Hyman (b. circa 1854), a grocer, and the former Fannie Rosengrass, both natives of Warsaw. The Hyman family arrived in England sometime prior to 1889, settling into Manchester's thriving Jewish community where Barnett initially worked as a travelling jewellery salesman before operating his own Kosher grocery. Hyman married Esther Levy in 1902. The young couple moved to Glasgow and began their family, eventually welcoming seven children. Seeking new employment opportunities, Hyman decided to migrate to the USA and boarded the Titanic in Southampton as a third-class passenger (ticket number 3470, costing £7, 17s, 9d) on 10 April 1912. He was travelling alone to Springfield, Massachusetts, where his brother Harry lived.",
+      "da": "Joseph Abraham Hyman blev født i Kaunas, Litauen, den 15. februar 1878. Han kom fra en familie af polske jøder og var søn af købmand Barnett Hyman (f. ca. 1854) og Fannie Rosengrass, begge fra Warszawa. Familien Hyman ankom til England før 1889 og slog sig ned i Manchesters blomstrende jødiske samfund, hvor Barnett først arbejdede som omrejsende juvelsælger, før han åbnede sin egen kosherbutik. I 1902 giftede Joseph sig med Esther Levy. Det unge par flyttede til Glasgow og fik syv børn. På jagt efter nye arbejdsmuligheder besluttede Joseph at emigrere til USA og gik ombord på Titanic i Southampton som tredjeklassespasager (billet nr. 3470, til en pris af £7, 17s, 9d) den 10. april 1912. Han rejste alene til Springfield, Massachusetts, hvor hans bror Harry boede.",
+      "de": "Joseph Abraham Hyman wurde am 15. Februar 1878 in Kaunas, Litauen, geboren. Er entstammte einer Familie polnischer Juden und war der Sohn von Barnett Hyman (geb. um 1854), einem Kaufmann, und Fannie Rosengrass, beide aus Warschau. Die Familie Hyman kam vor 1889 nach England und ließ sich in der florierenden jüdischen Gemeinde Manchesters nieder, wo Barnett zunächst als reisender Schmuckhändler arbeitete, bevor er ein eigenes koscheres Lebensmittelgeschäft führte. 1902 heiratete Joseph Esther Levy. Das junge Paar zog nach Glasgow und gründete eine Familie mit schließlich sieben Kindern. Auf der Suche nach neuen Arbeitsmöglichkeiten beschloss Joseph, in die USA auszuwandern, und bestieg am 10. April 1912 in Southampton als Passagier der dritten Klasse (Ticket Nr. 3470, Preis £7, 17s, 9d) die Titanic. Er reiste allein nach Springfield, Massachusetts, wo sein Bruder Harry lebte.",
+      "it": "Joseph Abraham Hyman nacque a Kaunas, in Lituania, il 15 febbraio 1878. Proveniva da una famiglia di ebrei polacchi ed era figlio di Barnett Hyman (n. circa 1854), un droghiere, e di Fannie Rosengrass, entrambi originari di Varsavia. La famiglia Hyman giunse in Inghilterra prima del 1889, stabilendosi nella fiorente comunità ebraica di Manchester, dove Barnett lavorò inizialmente come venditore ambulante di gioielli prima di aprire la propria drogheria kasher. Nel 1902 Joseph sposò Esther Levy. La giovane coppia si trasferì a Glasgow e mise al mondo sette figli. In cerca di nuove opportunità di lavoro, Joseph decise di emigrare negli Stati Uniti e si imbarcò sul Titanic a Southampton come passeggero di terza classe (biglietto n. 3470, costo £7, 17s, 9d) il 10 aprile 1912. Viaggiava da solo verso Springfield, Massachusetts, dove viveva suo fratello Harry.",
+      "pt": "Joseph Abraham Hyman nasceu em Kaunas, Lituânia, em 15 de fevereiro de 1878. Proveniente de uma família de judeus poloneses, era filho de Barnett Hyman (n. c. 1854), um comerciante de mantimentos, e de Fannie Rosengrass, ambos naturais de Varsóvia. A família Hyman chegou à Inglaterra antes de 1889, estabelecendo-se na próspera comunidade judaica de Manchester, onde Barnett trabalhou inicialmente como vendedor ambulante de joias antes de abrir sua própria mercearia kosher. Joseph casou-se em 1902 com Esther Levy. O jovem casal mudou-se para Glasgow, onde constituiu uma família que viria a contar com sete filhos. Em busca de novas oportunidades, Joseph decidiu emigrar para os Estados Unidos e embarcou no Titanic em Southampton como passageiro da terceira classe (bilhete nº 3470, ao custo de £7, 17s, 9d), em 10 de abril de 1912. Ele viajava sozinho, com destino a Springfield, Massachusetts, onde vivia seu irmão Harry."
+    },
+    "postIceberg": {
+      "fr": "Hyman fut accueilli par son frère et accorda plusieurs entretiens à la presse locale. Son épouse refusa de traverser l’Atlantique pour le rejoindre, et lui-même avait des réticences à effectuer une nouvelle traversée. Toutefois, le temps qu’il passa à New York, avec ses diverses ethnies, religions et les commerces qui y étaient associés, inspira Abraham à lancer sa propre entreprise une fois de retour en Angleterre. Il finit par surmonter sa peur de voyager en mer et retourna en Angleterre.",
+      "en": "Hyman was met by his brother and granted several interviews to local newspapers. His wife refused to cross the Atlantic to join him, and he also had reservations about crossing again. His time spent in New York, however, with its diverse ethnicities and religions and their associated stores, inspired Abraham to pursue his own enterprise back in England. He eventually overcame his fear of travelling on the ocean and returned to England.",
+      "da": "Hyman blev mødt af sin bror og gav flere interviews til lokale aviser. Hans hustru nægtede at krydse Atlanten for at slutte sig til ham, og han selv havde betænkeligheder ved at foretage endnu en overfart. Hans tid i New York, med dets mange forskellige etniciteter, religioner og tilhørende butikker, inspirerede dog Abraham til at starte sin egen virksomhed tilbage i England. Til sidst overvandt han sin frygt for at rejse over havet og vendte tilbage til England.",
+      "de": "Hyman wurde von seinem Bruder empfangen und gab mehrere Interviews für die lokale Presse. Seine Frau weigerte sich, den Atlantik zu überqueren, um zu ihm zu kommen, und auch er selbst hatte Vorbehalte gegenüber einer erneuten Überfahrt. Doch seine Zeit in New York, mit seiner Vielfalt an Ethnien, Religionen und den dazugehörigen Geschäften, inspirierte Abraham dazu, in England ein eigenes Geschäft aufzubauen. Schließlich überwand er seine Angst vor der Seereise und kehrte nach England zurück.",
+      "it": "Hyman fu accolto dal fratello e concesse diverse interviste ai giornali locali. Sua moglie rifiutò di attraversare l’Atlantico per raggiungerlo, e anche lui aveva delle riserve riguardo a un nuovo viaggio. Tuttavia, il tempo trascorso a New York, con le sue diverse etnie, religioni e i relativi negozi, ispirò Abraham a intraprendere un’attività propria al suo ritorno in Inghilterra. Alla fine superò la paura di viaggiare per mare e tornò in Inghilterra.",
+      "pt": "Hyman foi recebido pelo irmão e concedeu várias entrevistas a jornais locais. Sua esposa recusou-se a atravessar o Atlântico para juntar-se a ele, e ele próprio tinha receios de fazer uma nova travessia. O tempo que passou em Nova Iorque, porém, com as suas diversas etnias, religiões e respetivas lojas, inspirou Abraham a iniciar o seu próprio negócio de volta à Inglaterra. Eventualmente, superou o medo de viajar pelo oceano e retornou à Inglaterra."
+    }
+  }
+}

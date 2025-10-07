@@ -59,6 +59,26 @@
       "pt": "Lançamento"
     }
   },
+  "pagetitlebefore": {
+    "text": {
+      "en": "Passengers Before the Disaster",
+      "fr": "Passagers avant le désastre",
+      "de": "Passagiere vor der Katastrophe",
+      "da": "Passagerer før katastrofen",
+      "it": "Passeggeri prima del disastro",
+      "pt": "Passageiros antes do desastre"
+    }
+  },
+  "pagetitleafter": {
+    "text": {
+      "en": "Passengers After the Disaster",
+      "fr": "Passagers après le désastre",
+      "de": "Passagiere nach der Katastrophe",
+      "da": "Passagerer efter katastrofen",
+      "it": "Passeggeri dopo il disastro",
+      "pt": "Passageiros após o desastre"
+    }
+  },
 
   "titleharland": { "text": { "fr": "Harland & Wolff", "en": "Harland & Wolff", "da": "Harland & Wolff", "de": "Harland & Wolff", "it": "Harland & Wolff", "pt": "Harland & Wolff" } },
   "titleinsideconstruction": { "text": { "fr": "Construction intérieure", "en": "Construction Inside", "da": "Konstruktion indefra", "de": "Innenkonstruktion", "it": "Costruzione interna", "pt": "Construção interna" } },

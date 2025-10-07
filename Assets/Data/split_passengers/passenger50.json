@@ -1,0 +1,44 @@
+{
+  "passenger50": {
+    "grade": "Passenger",
+    "age": 38,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "2nd",
+    "survived": true,
+    "image": {
+      "src": "./Assets/images/Passengers/50-Emily-Ester-Louisa-Hart.jpg",
+      "alt": "picture of Emily Esther Louisa Hart"
+    },
+    "name": {
+      "fr": "Emily Ester Louisa Hart",
+      "en": "Emily Ester Louisa Hart",
+      "da": "Emily Ester Louisa Hart",
+      "de": "Emily Ester Louisa Hart",
+      "it": "Emily Ester Louisa Hart",
+      "pt": "Emily Ester Louisa Hart"
+    },
+    "description": {
+      "fr": "Emily Hart émigrait aux États-Unis avec ses trois enfants : Eva, Geoffrey et Arthur. Ils cherchaient un nouveau départ et de meilleures opportunités, quittant leur vie en Angleterre. Avant d’embarquer sur le Titanic, Emily avait préparé leur départ, réglant les affaires et disant adieu à la famille et aux amis. La famille Hart espérait retrouver des proches déjà installés en Amérique. La décision d’Emily d’émigrer était guidée par l’espoir d’offrir un avenir meilleur à ses enfants. Le voyage sur le Titanic représentait une étape clé dans leur projet de nouvelle vie.",
+      "en": "Emily Hart was emigrating to the United States with her three children: Eva, Geoffrey, and Arthur. They were seeking new beginnings and better opportunities, leaving behind their life in England. Before boarding the Titanic, Emily prepared for the move by arranging their affairs and saying goodbye to family and friends. The Hart family looked forward to reuniting with relatives already settled in America. Emily's decision to emigrate was driven by the hope of providing a better future for her children. The journey on the Titanic was a significant step in their plan to start a new life in the United States.",
+      "da": "Emily Hart emigrerede til USA med sine tre børn: Eva, Geoffrey og Arthur. De søgte en ny begyndelse med bedre muligheder og lagde deres liv i England bag sig. Inden hun gik om bord på Titanic, forberedte Emily sig på den nye tilværelse og sagde farvel til familie og venner. Familien Hart så frem til at blive genforenet med slægtninge, der allerede var bosat i Amerika. Emilys beslutning om at emigrere var drevet af håbet om at skabe en bedre fremtid for sine børn. Rejsen med Titanic var et vigtigt skridt i deres planer om at starte et nyt liv i USA.",
+      "de": "Emily Hart wanderte mit ihren drei Kindern in die Vereinigten Staaten aus: Eva, Geoffrey und Arthur. Sie wollten einen Neuanfang und bessere Möglichkeiten und ließen ihr Leben in England hinter sich. Bevor sie an Bord der Titanic ging, bereitete Emily den Umzug vor, indem sie ihre Angelegenheiten regelte und sich von Familie und Freunden verabschiedete. Die Familie Hart freute sich auf das Wiedersehen mit ihren bereits in Amerika ansässigen Verwandten. Emilys Entscheidung, auszuwandern, war von der Hoffnung getragen, ihren Kindern eine bessere Zukunft bieten zu können. Die Reise auf der Titanic war ein wichtiger Schritt in ihrem Plan, ein neues Leben in den Vereinigten Staaten zu beginnen.",
+      "it": "Emily Hart stava emigrando negli Stati Uniti con i suoi tre figli: Eva, Geoffrey e Arthur. Cercavano nuovi inizi e migliori opportunità, lasciandosi alle spalle la loro vita in Inghilterra. Prima di imbarcarsi sul Titanic, Emily si preparò per il trasferimento organizzando le loro cose e salutando amici e parenti. La famiglia Hart attendeva con ansia di riunirsi con i parenti già stabilitisi in America. La decisione di Emily di emigrare era motivata dalla speranza di offrire un futuro migliore ai suoi figli. Il viaggio sul Titanic rappresentava un passo significativo nel loro piano di iniziare una nuova vita negli Stati Uniti.",
+      "pt": "Emily Hart estava emigrando para os Estados Unidos com seus três filhos: Eva, Geoffrey e Arthur. Buscavam um novo começo e melhores oportunidades, deixando para trás sua vida na Inglaterra. Antes de embarcar no Titanic, Emily preparou seus assuntos e se despediu de familiares e amigos. A família Hart esperava reencontrar parentes já estabelecidos na América. A decisão de Emily de emigrar foi motivada pela esperança de proporcionar um futuro melhor para seus filhos. A viagem no Titanic representou um passo importante no plano de começar uma nova vida nos Estados Unidos."
+    },
+    "postIceberg": {
+      "fr": "Emily Esther Louisa Hart, qui voyageait avec ses trois enfants, survécut au naufrage. Ils furent secourus par le Carpathia. Après la catastrophe, la famille s’installa aux États-Unis, où Emily dut affronter les défis de la reconstruction après un tel traumatisme.",
+      "en": "Emily Esther Louisa Hart, traveling with her three children, survived the sinking. They were rescued by the Carpathia. After the disaster, Hart and her children settled in the United States, where she faced the challenges of rebuilding their lives after such a traumatic event.",
+      "da": "Emily Esther Louisa Hart, som rejste med sine tre børn, overlevede forliset. De blev reddet af Carpathia. Efter katastrofen bosatte Hart og hendes børn sig i USA, hvor hun skulle genopbygge deres liv efter denne traumatiske begivenhed.",
+      "de": "Emily Esther Louisa Hart, die mit ihren drei Kindern unterwegs war, überlebte den Untergang. Sie wurden von der Carpathia gerettet. Nach der Katastrophe ließen sich Hart und ihre Kinder in den Vereinigten Staaten nieder, wo sie sich den Herausforderungen des Wiederaufbaus ihres Lebens nach einem so traumatischen Ereignis stellen mussten.",
+      "it": "Emily Esther Louisa Hart, in viaggio con i suoi tre figli, sopravvisse all'affondamento. Furono salvati dalla Carpathia. Dopo il disastro, la Hart e i suoi figli si stabilirono negli Stati Uniti, dove affrontò le sfide di ricostruire la loro vita dopo un evento così traumatico.",
+      "pt": "Emily Esther Louisa Hart, viajando com seus três filhos, sobreviveu ao naufrágio. Eles foram resgatados pelo Carpathia. Após o desastre, Hart e seus filhos estabeleceram-se nos Estados Unidos, onde enfrentaram os desafios de reconstruir suas vidas após um evento tão traumático."
+    }
+  }
+}

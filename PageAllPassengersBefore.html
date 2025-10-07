@@ -2,70 +2,77 @@
 <html lang="fr">
   <head>
     <meta charset="UTF-8" />
-    <title>PassengersBefore</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no"
+    />
+    <title data-i18n="pageTitleBefore">Passengers Before the Disaster</title>
+
+    <!-- Styles -->
     <link rel="stylesheet" href="./css/AllPassengers.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap"
       rel="stylesheet"
     />
   </head>
+
   <body>
-    <div class="container">
-      <header>
-        <h1 id="pageTitleBefore"></h1>
-      </header>
+    <!-- === Coins décoratifs === -->
+    <div class="corner-icon top-left"></div>
+    <div class="corner-icon top-right"></div>
+    <div class="corner-icon bottom-left"></div>
+    <div class="corner-icon bottom-right"></div>
 
-      <main>
-        <div class="corner-icon top-left"></div>
-        <div class="corner-icon top-right"></div>
-        <div class="corner-icon bottom-left"></div>
-        <div class="corner-icon bottom-right"></div>
+    <!-- === En-tête === -->
+    <header class="page-header">
+      <h1 id="pageTitleBefore" data-i18n="pageTitleBefore">
+        Passengers Before the Disaster
+      </h1>
+    </header>
 
-        <div class="passagers">
-          <section id="passenger-grid" class="grid"></section>
+    <!-- === Zone défilante (grille) === -->
+    <main class="passagers">
+      <section id="passenger-grid" class="passenger-grid"></section>
+
+      <p id="no-results" class="no-results-message" style="display: none;">
+        No matching passenger.
+      </p>
+    </main>
+
+    <!-- === Barre fixe en bas (filtres + recherche + langue) === -->
+    <footer class="filter-language-bar">
+      <div class="filter-search-wrapper">
+        <div id="filter-buttons" class="filter-buttons"></div>
+
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-box"
+            class="search-box"
+            data-i18n-placeholder="searchBox"
+            placeholder="Search..."
+          />
         </div>
-        <p id="no-results" class="no-results-message" style="display: none"></p>
-        <div class="filter-search-wrapper">
-          <div class="filter-buttons" id="filter-buttons"></div>
-          <div class="search-container">
-            <input
-              type="text"
-              id="search-box"
-              class="search-box"
-              placeholder="Rechercher..."
-            />
-            <table class="search-results" id="results-table"></table>
-          </div>
+      </div>
 
-          <div class="custom-select-wrapper">
-            <div class="custom-select" id="custom-select">
-              <span class="selected-option">English</span>
-              <div class="select-arrow">&#9662;</div>
-            </div>
-            <ul class="select-options" id="select-options">
-              <li data-value="da">Dansk</li>
-              <li data-value="de">Deutsch</li>
-              <li data-value="en" class="selected">English</li>
-              <li data-value="fr">Français</li>
-              <li data-value="it">Italiano</li>
-              <li data-value="pt">Português</li> 
-            </ul>
-          </div>
+      <!-- Sélecteur de langue intégré au footer -->
+      <div class="custom-select-wrapper">
+        <div class="custom-select" id="custom-select">
+          <span class="selected-option">English</span>
+          <div class="select-arrow">&#9662;</div>
         </div>
-      </main>
-    </div>
+        <ul class="select-options" id="select-options">
+          <li data-value="da">Dansk</li>
+          <li data-value="de">Deutsch</li>
+          <li data-value="en" class="selected">English</li>
+          <li data-value="fr">Français</li>
+          <li data-value="it">Italiano</li>
+          <li data-value="pt">Português</li>
+        </ul>
+      </div>
+    </footer>
 
-    <!-- CLAVIER  -->
-
-    <!--
-        <div id="virtual-keyboard" class="keyboard hidden">
-        <button id="close-keyboard" class="close-keyboard">✕</button>
-        <div id="keyboard-keys" class="keyboard-keys"></div>
-        </div>
-    -->
-
-    <!-- CLAVIER  -->
-
-    <script src="./Components/AllPassengersControl.js"></script>
+    <!-- === Script principal === -->
+    <script src="./Components/AllPassengersControl.js" defer></script>
   </body>
 </html>

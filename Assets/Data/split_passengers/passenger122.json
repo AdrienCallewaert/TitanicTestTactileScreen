@@ -1,0 +1,44 @@
+{
+  "passenger122": {
+    "grade": "Passenger",
+    "age": 44,
+    "role": {
+      "fr": "Passager",
+      "en": "Passenger",
+      "da": "Passager",
+      "de": "Passagier",
+      "it": "Passeggero",
+      "pt": "Passageiro"
+    },
+    "class": "3rd",
+    "survived": false,
+    "image": {
+      "src": "./Assets/images/Passengers/122-Annie-Elizabeth-Sage.png",
+      "alt": "picture of Annie Elizabeth Sage"
+    },
+    "name": {
+      "fr": "Annie Elizabeth Sage",
+      "en": "Annie Elizabeth Sage",
+      "da": "Annie Elizabeth Sage",
+      "de": "Annie Elizabeth Sage",
+      "it": "Annie Elizabeth Sage",
+      "pt": "Annie Elizabeth Sage"
+    },
+    "description": {
+      "fr": "Annie Elizabeth Sage naquit à Peterborough, en Angleterre, en 1878, fille de John George Sage et d’Annie Elizabeth Cazaly. Elle faisait partie d’une grande fratrie de onze enfants. En 1890, elle épousa John George Sage. Ensemble, ils eurent neuf enfants. En avril 1911, son mari et leur fils aîné partirent à Winnipeg, au Manitoba, où ils travaillèrent comme cuisiniers pour la Central Pacific Railway. Après quelques mois, M. Sage et son fils avaient économisé assez d’argent pour lancer leur propre projet, et il acheta une exploitation fruitière à Jacksonville, en Floride, qu’il comptait consacrer à la culture des pacaniers. John retourna en Angleterre et, à l’origine, la famille devait voyager à bord du Philadelphia, mais la grève du charbon les obligea à prendre passage sur le Titanic à la place. Après avoir dit adieu à de nombreux proches et amis, la famille prit le train jusqu’à Southampton et embarqua sur le Titanic le 10 avril 1912 comme passagers de troisième classe (billet n°2343, coût : £69, 11s).",
+      "en": "Annie Elizabeth Sage was born in Peterborough, England, in 1878, the daughter of John George Sage and Annie Elizabeth Cazaly.  She was part of a large family of eleven children. In 1890 she was married to John George Sage. They would go on to be the parents of nine children. In April 1911 her husband and eldest son travelled to Winnipeg, Manitoba where they both worked as cooks with the Central Pacific Railway. After some months, Mr Sage and his son had saved sufficient money to embark out in a venture of their own and he purchased a fruit farm at Jacksonville, Florida, which he intended to cultivate for pecans. John return to England and It was originally intended that the family would travel aboard the Philadelphia but the coal strike forced them to take passage on Titanic instead. After bidding their farewells to many well-wishers the family travelled by train to Southampton and board Titanic on 10 April 1912 as third class passengers (ticket number 2343 which had cost £69, 11s)",
+      "da": "Annie Elizabeth Sage blev født i Peterborough, England, i 1878 som datter af John George Sage og Annie Elizabeth Cazaly. Hun var en del af en stor familie på elleve børn. I 1890 giftede hun sig med John George Sage. Sammen fik de ni børn. I april 1911 rejste hendes mand og ældste søn til Winnipeg, Manitoba, hvor de arbejdede som kokke for Central Pacific Railway. Efter nogle måneder havde hr. Sage og hans søn sparet nok penge til at starte deres eget projekt, og han købte en frugtplantage i Jacksonville, Florida, som han ville dyrke med pecannødder. John vendte tilbage til England, og oprindeligt skulle familien rejse med Philadelphia, men kulstrejken tvang dem til at tage Titanic i stedet. Efter at have taget afsked med mange venner og familiemedlemmer rejste familien med tog til Southampton og gik om bord på Titanic den 10. april 1912 som tredjeklasses passagerer (billet nr. 2343, pris: £69, 11s).",
+      "de": "Annie Elizabeth Sage wurde 1878 in Peterborough, England, als Tochter von John George Sage und Annie Elizabeth Cazaly geboren. Sie war Teil einer großen Familie mit elf Kindern. 1890 heiratete sie John George Sage. Zusammen wurden sie Eltern von neun Kindern. Im April 1911 reisten ihr Ehemann und ihr ältester Sohn nach Winnipeg, Manitoba, wo sie beide als Köche bei der Central Pacific Railway arbeiteten. Nach einigen Monaten hatten Herr Sage und sein Sohn genug Geld gespart, um ein eigenes Unternehmen zu starten, und er kaufte eine Obstfarm in Jacksonville, Florida, die er mit Pekannussbäumen bewirtschaften wollte. John kehrte nach England zurück, und ursprünglich war geplant, dass die Familie mit der Philadelphia reisen sollte, aber der Kohlenstreik zwang sie, stattdessen die Titanic zu nehmen. Nachdem sie sich von vielen Freunden und Verwandten verabschiedet hatten, reiste die Familie mit dem Zug nach Southampton und ging am 10. April 1912 als Drittklasspassagiere an Bord der Titanic (Ticketnummer 2343, Kosten: £69, 11s).",
+      "it": "Annie Elizabeth Sage nacque a Peterborough, Inghilterra, nel 1878, figlia di John George Sage e Annie Elizabeth Cazaly. Faceva parte di una numerosa famiglia di undici figli. Nel 1890 sposò John George Sage. Insieme ebbero nove figli. Nell’aprile del 1911 suo marito e il figlio maggiore si recarono a Winnipeg, Manitoba, dove lavorarono come cuochi presso la Central Pacific Railway. Dopo alcuni mesi, il signor Sage e suo figlio avevano risparmiato abbastanza denaro per avviare un’attività propria, e acquistò una fattoria di frutta a Jacksonville, Florida, che intendeva coltivare con alberi di pecan. John tornò in Inghilterra e, inizialmente, era previsto che la famiglia viaggiasse a bordo della Philadelphia, ma lo sciopero del carbone li costrinse a imbarcarsi invece sul Titanic. Dopo aver salutato numerosi amici e conoscenti, la famiglia prese il treno per Southampton ed entrò a bordo del Titanic il 10 aprile 1912 come passeggeri di terza classe (biglietto n. 2343, costo: £69, 11s).",
+      "pt": "Annie Elizabeth Sage nasceu em Peterborough, Inglaterra, em 1878, filha de John George Sage e Annie Elizabeth Cazaly. Ela fazia parte de uma família numerosa, com onze filhos. Em 1890, casou-se com John George Sage, com quem teve nove filhos. Em abril de 1911, seu marido e o filho mais velho viajaram para Winnipeg, Manitoba, onde trabalharam como cozinheiros na Central Pacific Railway. Após alguns meses, pai e filho economizaram dinheiro suficiente para iniciar um empreendimento próprio, e John comprou uma plantação de frutas em Jacksonville, Flórida, com a intenção de cultivar nogueiras-pecã. John retornou à Inglaterra e, inicialmente, estava previsto que a família viajasse para a América a bordo do Philadelphia, mas a greve de carvão obrigou-os a transferir a passagem para o Titanic. Após se despedirem de muitos amigos e parentes, a família seguiu de trem até Southampton e embarcou no Titanic em 10 de abril de 1912 como passageiros da terceira classe (bilhete nº 2343, ao custo de £69, 11s)."
+    },
+    "postIceberg": {
+      "fr": "Il est probable que la famille ait réussi à atteindre le pont peu avant le naufrage du Titanic, car il existe des témoignages selon lesquels Stella serait montée dans un canot de sauvetage mais l’aurait quitté lorsque les autres membres de sa famille n’avaient pas pu la rejoindre.",
+      "en": "t is likely that the family was able to reach the deck shortly before the Titanic went down as there are reports that Stella had got into a lifeboat but left it when other members of her family were unable to join her.",
+      "da": "Det er sandsynligt, at familien nåede dækket kort før Titanic sank, da der findes beretninger om, at Stella var kommet ombord i en redningsbåd, men forlod den igen, da de øvrige familiemedlemmer ikke kunne slutte sig til hende.",
+      "de": "Es ist wahrscheinlich, dass die Familie kurz vor dem Untergang der Titanic noch das Deck erreichte, da es Berichte gibt, dass Stella in ein Rettungsboot gestiegen war, dieses jedoch wieder verließ, als ihre übrigen Familienmitglieder nicht zu ihr gelangen konnten.",
+      "it": "È probabile che la famiglia sia riuscita a raggiungere il ponte poco prima che il Titanic affondasse, poiché ci sono testimonianze secondo cui Stella era salita su una scialuppa di salvataggio ma l’aveva lasciata quando gli altri membri della sua famiglia non poterono unirsi a lei.",
+      "pt": "É provável que a família tenha conseguido chegar ao convés pouco antes de o Titanic afundar, pois há relatos de que Stella chegou a entrar em um bote salva-vidas, mas o deixou quando os outros membros de sua família não puderam acompanhá-la."
+    }
+  }
+}
