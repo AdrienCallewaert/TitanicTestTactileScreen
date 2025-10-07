@@ -6,7 +6,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no"
     />
-    <title data-i18n="pageTitle">Choose a Gallery</title>
+    <title data-i18n="pagetitlegallery">Choose a Gallery</title>
 
     <!-- Styles -->
     <link rel="stylesheet" href="./css/Home.css" />
@@ -21,7 +21,9 @@
   <body>
     <!-- === En-tête === -->
     <header class="page-header">
-      <h1 id="pageTitleGallery" data-i18n="pageTitle">Choose a Gallery</h1>
+      <h1 id="pageTitleGallery" data-i18n="pagetitlegallery">
+        Choose a Gallery
+      </h1>
     </header>
 
     <!-- === Section principale : Choix des galeries === -->
@@ -32,7 +34,7 @@
             src="Assets/images/Gallery/construction.webp"
             alt="Construction of the Titanic"
           />
-          <p id="constructionTitle" data-i18n="pageTitleConstruction">
+          <p id="constructionTitle" data-i18n="pagetitleconstruction">
             Construction of the Titanic
           </p>
         </a>
@@ -44,7 +46,7 @@
             src="Assets/images/Gallery/lancement.webp"
             alt="Launching of the Titanic"
           />
-          <p id="launchingTitle" data-i18n="pageTitleLancement">
+          <p id="launchingTitle" data-i18n="pagetitlelancement">
             Launching of the Titanic
           </p>
         </a>
@@ -59,7 +61,7 @@
 
     <!-- === Sélecteur de langue === -->
     <div class="custom-select-wrapper">
-      <div class="custom-select" id="custom-select">
+      <div class="custom-select" id="custom-select" aria-label="Language selector">
         <span class="selected-option">English</span>
         <div class="select-arrow">&#9662;</div>
       </div>
