@@ -6,7 +6,8 @@
       "da": "Kahyt 1. klasse",
       "de": "Kabine 1. Klasse",
       "it": "Cabina 1ª classe",
-      "pt": "Cabine de 1ª classe"
+      "pt": "Cabine de 1ª classe",
+      "nl": "Hut 1e klas"
     }
   },
   "cabin2nd": {
@@ -16,7 +17,8 @@
       "da": "Kahyt 2. klasse",
       "de": "Kabine 2. Klasse",
       "it": "Cabina 2ª classe",
-      "pt": "Cabine de 2ª classe"
+      "pt": "Cabine de 2ª classe",
+      "nl": "Hut 2e klas"
     }
   },
   "cabin3rd": {
@@ -26,7 +28,8 @@
       "da": "Kahyt 3. klasse",
       "de": "Kabine 3. Klasse",
       "it": "Cabina 3ª classe",
-      "pt": "Cabine de 3ª classe"
+      "pt": "Cabine de 3ª classe",
+      "nl": "Hut 3e klas"
     }
   },
   "dinner1st": {
@@ -36,7 +39,8 @@
       "da": "Spisesal 1. klasse",
       "de": "Speisesaal 1. Klasse",
       "it": "Sala da pranzo 1ª classe",
-      "pt": "Sala de jantar 1ª classe"
+      "pt": "Sala de jantar 1ª classe",
+      "nl": "Eetzaal 1e klas"
     }
   },
   "dinner2nd": {
@@ -46,7 +50,8 @@
       "da": "Spisesal 2. klasse",
       "de": "Speisesaal 2. Klasse",
       "it": "Sala da pranzo 2ª classe",
-      "pt": "Sala de jantar 2ª classe"
+      "pt": "Sala de jantar 2ª classe",
+      "nl": "Eetzaal 2e klas"
     }
   },
   "dinner3rd": {
@@ -56,7 +61,8 @@
       "da": "Spisesal 3. klasse",
       "de": "Speisesaal 3. Klasse",
       "it": "Sala da pranzo 3ª classe",
-      "pt": "Sala de jantar 3ª classe"
+      "pt": "Sala de jantar 3ª classe",
+      "nl": "Eetzaal 3e klas"
     }
   },
   "porcelaine": {
@@ -66,7 +72,8 @@
       "da": "Porcelæn",
       "de": "Porzellan",
       "it": "Porcellane",
-      "pt": "Porcelana"
+      "pt": "Porcelana",
+      "nl": "Porselein"
     }
   },
   "restaurant": {
@@ -76,7 +83,8 @@
       "da": "Restaurant",
       "de": "Restaurant",
       "it": "Ristorante",
-      "pt": "Restaurante"
+      "pt": "Restaurante",
+      "nl": "Restaurant"
     }
   },
   "barber": {
@@ -86,7 +94,8 @@
       "da": "Barber",
       "de": "Barbier",
       "it": "Barbiere",
-      "pt": "Barbeiro"
+      "pt": "Barbeiro",
+      "nl": "Barbier"
     }
   },
   "elevator": {
@@ -96,7 +105,8 @@
       "da": "Lift",
       "de": "Aufzug",
       "it": "Ascensore",
-      "pt": "Elevador"
+      "pt": "Elevador",
+      "nl": "Lift"
     }
   },
   "gym": {
@@ -106,7 +116,8 @@
       "da": "Træningslokale",
       "de": "Fitnessraum",
       "it": "Palestra",
-      "pt": "Ginásio"
+      "pt": "Ginásio",
+      "nl": "Gymzaal"
     }
   },
   "squash": {
@@ -116,7 +127,8 @@
       "da": "Squash",
       "de": "Squash",
       "it": "Squash",
-      "pt": "Squash"
+      "pt": "Squash",
+      "nl": "Squash"
     }
   },
   "swimmingpool": {
@@ -126,7 +138,8 @@
       "da": "Svømmehal",
       "de": "Schwimmbecken",
       "it": "Piscina",
-      "pt": "Piscina"
+      "pt": "Piscina",
+      "nl": "Zwembad"
     }
   },
   "turkishbath": {
@@ -136,7 +149,8 @@
       "da": "Tyrkisk bad",
       "de": "Türkisches Bad",
       "it": "Bagno turco",
-      "pt": "Banho turco"
+      "pt": "Banho turco",
+      "nl": "Turks bad"
     }
   },
   "onthedeck": {
@@ -146,7 +160,8 @@
       "da": "På dækket",
       "de": "Auf dem Deck",
       "it": "Sul ponte",
-      "pt": "No convés"
+      "pt": "No convés",
+      "nl": "Op het dek"
     }
   },
   "cafeparisien": {
@@ -156,7 +171,8 @@
       "da": "PariserCafe",
       "de": "Pariser Café",
       "it": "Caffè Parisien",
-      "pt": "Café Parisien"
+      "pt": "Café Parisien",
+      "nl": "Café Parisien"
     }
   },
   "verandacafe": {
@@ -166,7 +182,8 @@
       "da": "Verandacafé",
       "de": "Veranda Café",
       "it": "Veranda Café",
-      "pt": "Café Veranda"
+      "pt": "Café Veranda",
+      "nl": "Veranda Café"
     }
   },
   "lounge1st": {
@@ -176,7 +193,8 @@
       "da": "Lounge 1. klasse",
       "de": "Lounge 1. Klasse",
       "it": "Lounge 1ª classe",
-      "pt": "Lounge 1ª classe"
+      "pt": "Lounge 1ª classe",
+      "nl": "Salon 1e klas"
     }
   },
   "lounge2nd": {
@@ -186,7 +204,8 @@
       "da": "Lounge 2. klasse",
       "de": "Lounge 2. Klasse",
       "it": "Lounge 2ª classe",
-      "pt": "Lounge 2ª classe"
+      "pt": "Lounge 2ª classe",
+      "nl": "Salon 2e klas"
     }
   },
   "reading": {
@@ -196,7 +215,8 @@
       "da": "Læse- og skriverum",
       "de": "Lesen und Schreiben",
       "it": "Sala lettura e scrittura",
-      "pt": "Sala de leitura e escrita"
+      "pt": "Sala de leitura e escrita",
+      "nl": "Lees- en schrijfzaal"
     }
   },
   "receptionroom": {
@@ -206,7 +226,8 @@
       "da": "Modtagelsesværelse",
       "de": "Empfangsraum",
       "it": "Sala ricevimento",
-      "pt": "Sala de recepção"
+      "pt": "Sala de recepção",
+      "nl": "Ontvangstzaal"
     }
   },
   "sittingroom": {
@@ -216,7 +237,8 @@
       "da": "Opholdsstue",
       "de": "Salon",
       "it": "Salotto",
-      "pt": "Sala de estar"
+      "pt": "Sala de estar",
+      "nl": "Zitkamer"
     }
   },
   "smokeroom1st": {
@@ -226,7 +248,8 @@
       "da": "Rygestue 1. klasse",
       "de": "Rauchzimmer 1. Klasse",
       "it": "Sala fumatori 1ª classe",
-      "pt": "Sala de fumadores 1ª classe"
+      "pt": "Sala de fumadores 1ª classe",
+      "nl": "Rooksalon 1e klas"
     }
   },
   "smokeroom2nd": {
@@ -236,7 +259,8 @@
       "da": "Rygestue 2. klasse",
       "de": "Rauchzimmer 2. Klasse",
       "it": "Sala fumatori 2ª classe",
-      "pt": "Sala de fumadores 2ª classe"
+      "pt": "Sala de fumadores 2ª classe",
+      "nl": "Rooksalon 2e klas"
     }
   },
   "smokeroom3rd": {
@@ -246,7 +270,8 @@
       "da": "Rygestue 3. klasse",
       "de": "Rauchzimmer 3. Klasse",
       "it": "Sala fumatori 3ª classe",
-      "pt": "Sala de fumadores 3ª classe"
+      "pt": "Sala de fumadores 3ª classe",
+      "nl": "Rooksalon 3e klas"
     }
   },
   "staircase": {
@@ -256,7 +281,8 @@
       "da": "Trappe",
       "de": "Treppe",
       "it": "Scala",
-      "pt": "Escada"
+      "pt": "Escada",
+      "nl": "Trap"
     }
   },
   "grandstaircase": {
@@ -266,7 +292,8 @@
       "da": "Stor trappe",
       "de": "Prunktreppe",
       "it": "Grande scala",
-      "pt": "Grande escadaria"
+      "pt": "Grande escadaria",
+      "nl": "Grote trap"
     }
   },
   "mailservice": {
@@ -276,7 +303,8 @@
       "da": "Postservice",
       "de": "Postdienst",
       "it": "Ufficio postale",
-      "pt": "Serviço postal"
+      "pt": "Serviço postal",
+      "nl": "Postdienst"
     }
   },
   "marconitelegram": {
@@ -286,7 +314,8 @@
       "da": "Marconi Telegram",
       "de": "Marconi Telegramm",
       "it": "Sala Marconi",
-      "pt": "Telegrama Marconi"
+      "pt": "Telegrama Marconi",
+      "nl": "Marconi-telegram"
     }
   },
   "kitchen": {
@@ -296,7 +325,8 @@
       "da": "Køkken",
       "de": "Küche",
       "it": "Cucina",
-      "pt": "Cozinha"
+      "pt": "Cozinha",
+      "nl": "Keuken"
     }
   },
   "departure": {
@@ -306,7 +336,8 @@
       "da": "Afrejse",
       "de": "Abfahrt",
       "it": "Partenza",
-      "pt": "Partida"
+      "pt": "Partida",
+      "nl": "Vertrek"
     }
   },
   "aftermath": {
@@ -316,7 +347,8 @@
       "da": "Eftervirkninger",
       "de": "Nachwirkungen",
       "it": "Conseguenze",
-      "pt": "Consequências"
+      "pt": "Consequências",
+      "nl": "Nasleep"
     }
   },
   "wreck": {
@@ -326,7 +358,8 @@
       "da": "Vrag",
       "de": "Wrack",
       "it": "Relitto",
-      "pt": "Naufrágio"
+      "pt": "Naufrágio",
+      "nl": "Wrak"
     }
   },
   "layout": {
@@ -336,7 +369,8 @@
       "da": "Planløsning",
       "de": "Grundriss",
       "it": "Disposizione",
-      "pt": "Disposição"
+      "pt": "Disposição",
+      "nl": "Indeling"
     }
   }
 }

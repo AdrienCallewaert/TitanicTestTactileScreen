@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Miriam Kantor",
       "de": "Miriam Kantor",
       "it": "Miriam Kantor",
-      "pt": "Miriam Kantor"
+      "pt": "Miriam Kantor",
+      "nl": "Miriam Kantor"
     },
     "description": {
       "fr": "Miriam Kantor naquit vers 1895 en Autriche-Hongrie (dans la région correspondant aujourd’hui à la Slovaquie), au sein d’une famille juive. Comme beaucoup d’émigrants juifs de sa génération, elle quitta l’Europe de l’Est à la recherche d’une vie meilleure en Amérique, où sa famille et des communautés immigrées déjà établies pouvaient lui offrir soutien et accueil. Sa destination était New York, où elle comptait rejoindre des proches et commencer une nouvelle vie. Elle voyageait au sein d’un petit groupe d’émigrants juifs originaires d’Autriche-Hongrie.",
@@ -30,7 +32,8 @@
       "da": "Miriam Kantor blev født omkring 1895 i Østrig-Ungarn (i det område, der i dag er Slovakiet), i en jødisk familie. Som mange jødiske emigranter i sin generation forlod hun Østeuropa for at søge et bedre liv i Amerika, hvor slægtninge og etablerede immigrantmiljøer kunne tilbyde støtte. Hendes destination var New York, hvor hun havde til hensigt at slutte sig til familien og begynde et nyt liv. Hun rejste sammen med en lille gruppe jødiske emigranter fra Østrig-Ungarn.",
       "de": "Miriam Kantor wurde um 1895 in Österreich-Ungarn (in der Region des heutigen Slowakei) in eine jüdische Familie geboren. Wie viele jüdische Auswanderer ihrer Generation verließ sie Osteuropa auf der Suche nach einem besseren Leben in Amerika, wo Verwandte und bereits etablierte Einwanderergemeinschaften Unterstützung boten. Ihr Ziel war New York, wo sie sich ihrer Familie anschließen und ein neues Leben beginnen wollte. Sie reiste in einer kleinen Gruppe jüdischer Auswanderer aus Österreich-Ungarn.",
       "it": "Miriam Kantor nacque intorno al 1895 in Austria-Ungheria (nella regione dell’attuale Slovacchia) in una famiglia ebrea. Come molti emigranti ebrei della sua generazione, lasciò l’Europa orientale in cerca di una vita migliore in America, dove parenti e comunità di immigrati già stabiliti potevano offrirle sostegno. La sua destinazione era New York, dove intendeva raggiungere la famiglia e iniziare una nuova vita. Viaggiava insieme a un piccolo gruppo di emigranti ebrei provenienti dall’Austria-Ungheria.",
-      "pt": "Miriam Kantor nasceu por volta de 1895 no Império Austro-Húngaro (na região da atual Eslováquia), em uma família judaica. Como muitos emigrantes judeus de sua geração, deixou a Europa Oriental em busca de uma vida melhor na América, onde parentes e comunidades de imigrantes já estabelecidas ofereciam apoio. Seu destino era a cidade de Nova Iorque, onde pretendia reunir-se com familiares e iniciar uma nova vida. Ela viajava como parte de um pequeno grupo de emigrantes judeus oriundos do Império Austro-Húngaro. "
+      "pt": "Miriam Kantor nasceu por volta de 1895 no Império Austro-Húngaro (na região da atual Eslováquia), em uma família judaica. Como muitos emigrantes judeus de sua geração, deixou a Europa Oriental em busca de uma vida melhor na América, onde parentes e comunidades de imigrantes já estabelecidas ofereciam apoio. Seu destino era a cidade de Nova Iorque, onde pretendia reunir-se com familiares e iniciar uma nova vida. Ela viajava como parte de um pequeno grupo de emigrantes judeus oriundos do Império Austro-Húngaro. ",
+      "nl": "Miriam Kantor was born around 1895 in Austria-Hungary (in the region of present-day Slovakia) into a Jewish family. Like many Jewish emigrants of her generation, she left Eastern Europe in search of a better life in America, where relatives and established immigrant communities offered support. Her destination was New York City, where she intended to join family and begin a new life. She traveled as part of a small group of Jewish emigrants from Austria-Hungary."
     },
     "postIceberg": {
       "fr": "Elle s’installa par la suite aux États-Unis, où elle vécut au sein de la communauté juive immigrée. Comme beaucoup de survivants, elle parla rarement en public de la catastrophe, choisissant de vivre discrètement et de se concentrer sur sa nouvelle vie. Miriam Kantor s’éteignit le 26 août 1950, à l’âge de 63 ans, au Rockland State Hospital, à Orangetown, dans l’État de New York.",
@@ -38,7 +41,8 @@
       "da": "Hun bosatte sig senere i USA, hvor hun levede inden for det jødiske immigrantmiljø. Som mange andre overlevende talte hun sjældent offentligt om katastrofen, men valgte at leve diskret og fokusere på sit nye liv. Miriam Kantor døde den 26. august 1950, 63 år gammel, på Rockland State Hospital i Orangetown, New York.",
       "de": "Später ließ sie sich in den Vereinigten Staaten nieder, wo sie innerhalb der jüdischen Einwanderergemeinschaft lebte. Wie viele Überlebende sprach sie nur selten öffentlich über die Katastrophe, sondern entschied sich, zurückgezogen zu leben und sich auf ihr neues Leben zu konzentrieren. Miriam Kantor verstarb am 26. August 1950 im Alter von 63 Jahren im Rockland State Hospital in Orangetown, New York.",
       "it": "In seguito si stabilì negli Stati Uniti, vivendo all’interno della comunità ebraica immigrata. Come molti altri sopravvissuti, parlò raramente in pubblico della catastrofe, scegliendo di vivere discretamente e di concentrarsi sulla sua nuova vita. Miriam Kantor morì il 26 agosto 1950, all’età di 63 anni, al Rockland State Hospital di Orangetown, New York.",
-      "pt": "Posteriormente, Miriam se estabeleceu nos Estados Unidos, vivendo dentro da comunidade judaica imigrante. Como muitos sobreviventes, raramente falava publicamente sobre o desastre, preferindo viver discretamente e concentrar-se em sua nova vida. Miriam Kantor faleceu em 26 de agosto de 1950, aos 63 anos, no Rockland State Hospital, em Orangetown, Nova Iorque."
+      "pt": "Posteriormente, Miriam se estabeleceu nos Estados Unidos, vivendo dentro da comunidade judaica imigrante. Como muitos sobreviventes, raramente falava publicamente sobre o desastre, preferindo viver discretamente e concentrar-se em sua nova vida. Miriam Kantor faleceu em 26 de agosto de 1950, aos 63 anos, no Rockland State Hospital, em Orangetown, Nova Iorque.",
+      "nl": "She later settled in the United States, living within the Jewish immigrant community. Like many survivors, she rarely spoke publicly about the disaster, choosing to live quietly and focus on her new life.  Miriam Kantor passed away on August 26th, 1950, at the age of 63 in Rockland State Hospital, Orangetown, New York. "
     }
   }
 }

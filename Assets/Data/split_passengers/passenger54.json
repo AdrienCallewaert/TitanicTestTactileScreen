@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Henriette Virginie Yvois",
       "de": "Henriette Virginie Yvois",
       "it": "Henriette Virginie Yvois",
-      "pt": "Henriette Virginie Yvois"
+      "pt": "Henriette Virginie Yvois",
+      "nl": "Henriette Virginie Yvois"
     },
     "description": {
       "fr": "Henriette Virginie Yvois, gouvernante française, partait aux États-Unis pour débuter un nouvel emploi. Avant d’embarquer sur le Titanic, elle travaillait en France, s’occupant de l’éducation et du bien-être d’enfants de familles aisées. Elle était reconnue pour sa maîtrise des langues et sa capacité à offrir un enseignement de qualité. Ce voyage représentait un nouveau chapitre dans sa carrière, avec la promesse de meilleures opportunités et d’une stabilité financière accrue.",
@@ -30,7 +32,8 @@
       "da": "Henriette Virginie Yvois, fransk guvernante, var på vej til Amerika for at starte et nyt job. Før hun gik om bord på Titanic, arbejdede Henriette i Frankrig, hvor hun underviste og passede børn hos velhavende familier. Hun var kendt for sine sprogkundskaber og sin undervisning af høj kvalitet. Rejsen med Titanic var starten på et nyt kapitel i hendes liv med udsigt til bedre jobmuligheder og større økonomisk stabilitet.",
       "de": "Henriette Virginie Yvois, eine französische Gouvernante, war auf dem Weg in die Vereinigten Staaten, um eine neue Stelle anzutreten. Bevor sie an Bord der Titanic ging, arbeitete Henriette in Frankreich, wo sie für die Erziehung und Betreuung von Kindern aus wohlhabenden Haushalten zuständig war. Sie war bekannt für ihre Sprachkenntnisse und ihre Fähigkeit, eine qualitativ hochwertige Erziehung zu gewährleisten. Die Reise auf der Titanic bedeutete ein neues Kapitel in ihrer Karriere, das ihr bessere Chancen und größere finanzielle Stabilität versprach.",
       "it": "Henriette Virginie Yvois, una governante francese, stava viaggiando negli Stati Uniti per iniziare un nuovo lavoro. Prima di imbarcarsi sul Titanic, Henriette lavorava in Francia, dove era responsabile dell'educazione e della cura dei bambini nelle famiglie benestanti. Era conosciuta per la sua competenza nelle lingue e la sua capacità di fornire un'educazione di alta qualità. Il viaggio sul Titanic rappresentava un nuovo capitolo nella sua carriera, con la promessa di migliori opportunità e maggiore stabilità finanziaria.",
-      "pt": "Henriette Virginie Yvois, governanta francesa, viajava para os Estados Unidos para iniciar uma nova posição profissional. Antes de embarcar no Titanic, Henriette trabalhava na França, sendo responsável pela educação e cuidado de crianças em famílias abastadas. Era reconhecida por sua proficiência em idiomas e sua capacidade de oferecer uma educação de alta qualidade. A viagem no Titanic representava um novo capítulo em sua carreira, com a promessa de melhores oportunidades e maior estabilidade financeira."
+      "pt": "Henriette Virginie Yvois, governanta francesa, viajava para os Estados Unidos para iniciar uma nova posição profissional. Antes de embarcar no Titanic, Henriette trabalhava na França, sendo responsável pela educação e cuidado de crianças em famílias abastadas. Era reconhecida por sua proficiência em idiomas e sua capacidade de oferecer uma educação de alta qualidade. A viagem no Titanic representava um novo capítulo em sua carreira, com a promessa de melhores oportunidades e maior estabilidade financeira.",
+      "nl": "Henriette Virginie Yvois, a French governess, was traveling to the United States to begin a new employment position. Before boarding the Titanic, Henriette worked in France, where she was responsible for the education and care of children in wealthy households. She was known for her proficiency in languages and her ability to provide high-quality education. The journey on the Titanic represented a new chapter in her career, with the promise of better opportunities and greater financial stability."
     },
     "postIceberg": {
       "fr": "Henriette Virginie Yvois, gouvernante française, partait commencer un nouvel emploi aux États-Unis. Elle ne survécut pas au naufrage et son corps ne fut jamais retrouvé. Son histoire reflète les espoirs et les rêves de nombreux immigrés disparus lors de la catastrophe.",
@@ -38,7 +41,8 @@
       "da": "Henriette Virginie Yvois, fransk guvernante, var på vej til USA, hvor der ventede et nyt job. Hun overlevede ikke forliset, og hendes lig blev aldrig fundet. Yvois' historie afspejler de håb og drømme, som mange af de immigranter, der omkom i katastrofen, havde.",
       "de": "Henriette Virginie Yvois, eine französische Gouvernante, war auf dem Weg zu einer neuen Stelle in den Vereinigten Staaten. Sie überlebte den Untergang nicht, und ihre Leiche wurde nie geborgen. Yvois' Geschichte spiegelt die Hoffnungen und Träume vieler Einwanderer wider, die bei der Tragödie ums Leben kamen.",
       "it": "Henriette Virginie Yvois, una governante francese, stava viaggiando per iniziare un nuovo lavoro negli Stati Uniti. Non sopravvisse all'affondamento, e il suo corpo non fu mai recuperato. La storia della Yvois riflette le speranze e i sogni di molti immigrati che perirono nella tragedia.",
-      "pt": "Henriette Virginie Yvois, governanta francesa, viajava para iniciar um novo emprego nos Estados Unidos. Ela não sobreviveu ao naufrágio, e seu corpo nunca foi recuperado. A história de Yvois reflete as esperanças e sonhos de muitos imigrantes que pereceram no desastre."
+      "pt": "Henriette Virginie Yvois, governanta francesa, viajava para iniciar um novo emprego nos Estados Unidos. Ela não sobreviveu ao naufrágio, e seu corpo nunca foi recuperado. A história de Yvois reflete as esperanças e sonhos de muitos imigrantes que pereceram no desastre.",
+      "nl": "Henriette Virginie Yvois, a French governess, was traveling to start a new job in the United States. She did not survive the sinking, and her body was never recovered. Yvois' story reflects the hopes and dreams of many immigrants who perished in the disaster."
     }
   }
 }

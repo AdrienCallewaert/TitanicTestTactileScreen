@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Hilda Mary Slayter",
       "de": "Hilda Mary Slayter",
       "it": "Hilda Mary Slayter",
-      "pt": "Hilda Mary Slayter"
+      "pt": "Hilda Mary Slayter",
+      "nl": "Hilda Mary Slayter"
     },
     "description": {
       "fr": "Hilda Mary Slayter naquit le 17 août 1882 à Halifax, en Nouvelle-Écosse, au Canada. Elle appartenait à une famille bien connue de la société haligonienne, fille de George Slayter et de Sarah M. Fellows. Éduquée et dotée de talents musicaux, elle devint chanteuse et mondaine, se produisant fréquemment lors d’événements sociaux. Sa destination était Halifax, Nouvelle-Écosse, où elle prévoyait de rentrer après un voyage en Europe. Elle fut l’une des rares Canadiennes à bord du Titanic, et la seule passagère originaire de Nouvelle-Écosse. Elle prit place dans le canot n°13 et survécut au naufrage. Dans des récits ultérieurs, elle se remémora la peur, la confusion et les cris de ceux restés dans les eaux glacées.",
@@ -30,7 +32,8 @@
       "da": "Hilda Mary Slayter blev født den 17. august 1882 i Halifax, Nova Scotia, Canada. Hun kom fra en velkendt familie i Halifaxs samfund, datter af George Slayter og Sarah M. Fellows. Veluddannet og musikalsk begavet blev hun sangerinde og selskabsdame og optrådte ofte ved sociale begivenheder. Hendes destination var Halifax, hvor hun planlagde at vende hjem efter en rejse i Europa. Hun var en af de få canadiske passagerer ombord på Titanic og den eneste passager fra Nova Scotia. Hun fik plads i redningsbåd nr. 13 og overlevede forliset. Senere fortalte hun om frygten, forvirringen og skrigene fra dem, der blev efterladt i det iskolde vand.",
       "de": "Hilda Mary Slayter wurde am 17. August 1882 in Halifax, Nova Scotia, Kanada, geboren. Sie entstammte einer angesehenen Familie der Gesellschaft von Halifax, Tochter von George Slayter und Sarah M. Fellows. Gut ausgebildet und musikalisch begabt wurde sie Sängerin und Gesellschaftsdame und trat häufig bei gesellschaftlichen Anlässen auf. Ihr Ziel war Halifax, wo sie nach einer Europareise nach Hause zurückkehren wollte. Sie war eine der wenigen Kanadierinnen an Bord der Titanic und die einzige Passagierin aus Nova Scotia. Sie nahm Platz im Rettungsboot Nr. 13 und überlebte das Unglück. In späteren Berichten erinnerte sie sich an die Angst, die Verwirrung und die Schreie derjenigen, die im eisigen Wasser zurückblieben.",
       "it": "Hilda Mary Slayter nacque il 17 agosto 1882 a Halifax, Nuova Scozia, in Canada. Proveniva da una famiglia ben nota nella società di Halifax, figlia di George Slayter e Sarah M. Fellows. Istruita e dotata di talento musicale, divenne cantante e mondana, esibendosi spesso in eventi sociali. La sua destinazione era Halifax, dove intendeva tornare dopo un viaggio in Europa. Fu una delle poche canadesi a bordo del Titanic e l’unica passeggera originaria della Nuova Scozia. Fu imbarcata sulla scialuppa n. 13 e sopravvisse al naufragio. In racconti successivi ricordò la paura, la confusione e le grida di coloro che rimasero nelle acque gelide.",
-      "pt": "Hilda Mary Slayter nasceu em 17 de agosto de 1882, em Halifax, Nova Escócia, Canadá. Ela pertencia a uma família de destaque na sociedade de Halifax, filha de George Slayter e Sarah M. Fellows. Educada e musicalmente talentosa, tornou-se cantora e figura social, apresentando-se com frequência em eventos e recepções. Seu destino era Halifax, Nova Escócia, para onde planejava retornar após uma temporada de viagens pela Europa. Foi uma das poucas canadenses a bordo do Titanic e a única passageira da Nova Escócia no navio. Foi colocada no Bote Salva-Vidas nº 13 e sobreviveu ao naufrágio. Em relatos posteriores, recordou o medo, a confusão e os gritos daqueles que ficaram para trás nas águas geladas."
+      "pt": "Hilda Mary Slayter nasceu em 17 de agosto de 1882, em Halifax, Nova Escócia, Canadá. Ela pertencia a uma família de destaque na sociedade de Halifax, filha de George Slayter e Sarah M. Fellows. Educada e musicalmente talentosa, tornou-se cantora e figura social, apresentando-se com frequência em eventos e recepções. Seu destino era Halifax, Nova Escócia, para onde planejava retornar após uma temporada de viagens pela Europa. Foi uma das poucas canadenses a bordo do Titanic e a única passageira da Nova Escócia no navio. Foi colocada no Bote Salva-Vidas nº 13 e sobreviveu ao naufrágio. Em relatos posteriores, recordou o medo, a confusão e os gritos daqueles que ficaram para trás nas águas geladas.",
+      "nl": "Hilda Mary Slayter was born on August 17, 1882, in Halifax, Nova Scotia, Canada. She was from a well-known family in Halifax society, daughter of George Slayter and Sarah M. Fellows. Educated and musically gifted, she became a singer and socialite, often performing at social functions. Her destination was Halifax, Nova Scotia, where she planned to return home after travels in Europe. She was one of only a handful of Canadians aboard Titanic, and the only Nova Scotian passenger on the ship. She was placed in Lifeboat No. 13 and survived the sinking. In later accounts, she recalled the fear, confusion, and the cries of those left behind in the freezing water.  "
     },
     "postIceberg": {
       "fr": "Elle poursuivit sa vie comme membre respectée de la société d’Halifax, rappelée pour ses talents musicaux et pour avoir été l’unique passagère originaire de Nouvelle-Écosse à bord du Titanic. Hilda Mary Slayter mourut en 1965, à l’âge de 82 ans.",
@@ -38,7 +41,8 @@
       "da": "Hun fortsatte sit liv som et respekteret medlem af Halifax-samfundet, husket for sine musikalske talenter og for at have været Titanics eneste passager fra Nova Scotia. Hilda Mary Slayter døde i 1965, 82 år gammel.",
       "de": "Sie führte ihr Leben als angesehenes Mitglied der Gesellschaft von Halifax fort, in Erinnerung für ihr musikalisches Talent und dafür, dass sie die einzige Passagierin aus Nova Scotia an Bord der Titanic war. Hilda Mary Slayter starb 1965 im Alter von 82 Jahren.",
       "it": "Proseguì la sua vita come membro rispettato della società di Halifax, ricordata per i suoi talenti musicali e per essere stata l’unica passeggera originaria della Nuova Scozia a bordo del Titanic. Hilda Mary Slayter morì nel 1965, all’età di 82 anni.",
-      "pt": "Seguiu sua vida como uma respeitada integrante da sociedade de Halifax, lembrada por seu talento musical e por sua experiência como a única passageira da Nova Escócia no Titanic. Hilda Mary Slayter faleceu em 1965, aos 82 anos."
+      "pt": "Seguiu sua vida como uma respeitada integrante da sociedade de Halifax, lembrada por seu talento musical e por sua experiência como a única passageira da Nova Escócia no Titanic. Hilda Mary Slayter faleceu em 1965, aos 82 anos.",
+      "nl": "She continued her life as a respected member of Halifax society, remembered for her musical talents and her experience as Titanic’s sole Nova Scotian passenger.  Hilda Mary Slayter died in 1965, at the age of 82."
     }
   }
 }

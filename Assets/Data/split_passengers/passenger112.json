@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Anna Abelson",
       "de": "Anna Abelson",
       "it": "Anna Abelson",
-      "pt": "Anna Abelson"
+      "pt": "Anna Abelson",
+      "nl": "Anna Abelson"
     },
     "description": {
       "fr": "Anna Nantes Jacobson (plus tard connue sous le nom d’Anna Abelson, puis Anna Bolton) naquit le 14 septembre 1883 à Odessa, dans l’Empire russe (aujourd’hui l’Ukraine). Issue d’une famille juive, elle quitta sa terre natale à une époque de persécutions et de grandes difficultés pour les communautés juives. Elle vécut ensuite à Paris, où elle travailla comme couturière. C’est là qu’Anna épousa Samuel Abelson, un joaillier né en Russie. Le couple décida d’émigrer aux États-Unis. Samuel emportait avec lui des bijoux et des objets de valeur pour commencer leur nouvelle vie. Lors de la catastrophe, Anna et Samuel furent séparés dans la confusion. Samuel ne survécut pas ; son corps ne fut jamais identifié.",
@@ -30,7 +32,8 @@
       "da": "Anna Nantes Jacobson (senere kendt som Anna Abelson og derefter Anna Bolton) blev født den 14. september 1883 i Odessa, i det Russiske Kejserrige (i dag Ukraine). Hun var af jødisk oprindelse og forlod sit hjemland i en tid med udbredt forfølgelse og store vanskeligheder for de jødiske samfund. Hun bosatte sig senere i Paris, hvor hun arbejdede som syerske. I Paris giftede Anna sig med Samuel Abelson, en russiskfødt juveler. Parret besluttede at emigrere til USA. Samuel medbragte smykker og værdigenstande for at starte deres nye liv. Under katastrofen blev Anna og Samuel adskilt i forvirringen. Samuel overlevede ikke, og hans krop blev aldrig identificeret.",
       "de": "Anna Nantes Jacobson (später bekannt als Anna Abelson, dann Anna Bolton) wurde am 14. September 1883 in Odessa im Russischen Reich (heute Ukraine) geboren. Jüdischer Herkunft, verließ sie ihre Heimat in einer Zeit weitverbreiteter Verfolgungen und großer Schwierigkeiten für jüdische Gemeinden. Sie lebte später in Paris, wo sie als Schneiderin arbeitete. Dort heiratete Anna Samuel Abelson, einen in Russland geborenen Juwelier. Das Paar beschloss, in die Vereinigten Staaten auszuwandern. Samuel führte Schmuck und Wertsachen mit sich, um ihr neues Leben zu beginnen. Während der Katastrophe wurden Anna und Samuel in der Verwirrung getrennt. Samuel überlebte nicht; seine Leiche wurde nie identifiziert.",
       "it": "Anna Nantes Jacobson (più tardi conosciuta come Anna Abelson e poi come Anna Bolton) nacque il 14 settembre 1883 a Odessa, nell’Impero Russo (oggi Ucraina). Di origine ebraica, lasciò la sua terra natale in un periodo di persecuzioni e grandi difficoltà per le comunità ebraiche. In seguito visse a Parigi, dove lavorò come sarta. Fu lì che Anna sposò Samuel Abelson, un gioielliere nato in Russia. La coppia decise di emigrare negli Stati Uniti. Samuel portava con sé gioielli e oggetti di valore per iniziare la loro nuova vita. Durante il disastro, Anna e Samuel furono separati nella confusione. Samuel non sopravvisse e il suo corpo non fu mai identificato.",
-      "pt": "Anna Nantes Jacobson (mais tarde conhecida como Anna Abelson e depois como Anna Bolton) nasceu em 14 de setembro de 1883, em Odessa, no Império Russo (atual Ucrânia). De origem judaica, deixou sua terra natal em um período de intensa perseguição e dificuldades para as comunidades judaicas. Acabou se estabelecendo em Paris, onde trabalhou como costureira. Foi em Paris que Anna se casou com Samuel Abelson, um joalheiro nascido na Rússia. O casal decidiu emigrar para os Estados Unidos, e Samuel levou consigo joias e objetos de valor para ajudar a iniciar a nova vida juntos. Durante o desastre, Anna e Samuel foram separados na confusão. Samuel não sobreviveu; seu corpo nunca foi identificado. "
+      "pt": "Anna Nantes Jacobson (mais tarde conhecida como Anna Abelson e depois como Anna Bolton) nasceu em 14 de setembro de 1883, em Odessa, no Império Russo (atual Ucrânia). De origem judaica, deixou sua terra natal em um período de intensa perseguição e dificuldades para as comunidades judaicas. Acabou se estabelecendo em Paris, onde trabalhou como costureira. Foi em Paris que Anna se casou com Samuel Abelson, um joalheiro nascido na Rússia. O casal decidiu emigrar para os Estados Unidos, e Samuel levou consigo joias e objetos de valor para ajudar a iniciar a nova vida juntos. Durante o desastre, Anna e Samuel foram separados na confusão. Samuel não sobreviveu; seu corpo nunca foi identificado. ",
+      "nl": "Anna Nantes Jacobson (later known as Anna Abelson, then Anna Bolton) was born on September 14, 1883, in Odessa, in the Russian Empire (today Ukraine). Of Jewish heritage, she left her homeland during a time of widespread persecution and hardship for Jewish communities. She eventually lived in Paris, where she worked as a dressmaker. In Paris, Anna married Samuel Abelson, a Russian-born jeweler. The couple decided to emigrate to the United States. Samuel carried with him jewelry and valuables to help start their new life together.  During the Disaster Anna and Samuel were separated in the confusion. Samuel did not survive; his body was never identified. "
     },
     "postIceberg": {
       "fr": "En 1920, elle se remaria avec Edward Douglas Bolton et s’installa aux États-Unis. Elle vécut à New York puis en Floride, où elle passa le reste de sa vie. Anna parla rarement en public de la catastrophe du Titanic, mais elle vécut encore six décennies après y avoir survécu. Elle s’éteignit le 18 janvier 1972, en Floride, à l’âge de 88 ans.",
@@ -38,7 +41,8 @@
       "da": "I 1920 giftede hun sig igen med Edward Douglas Bolton og bosatte sig i USA. Hun boede i New York og senere i Florida, hvor hun tilbragte resten af sit liv. Anna talte sjældent offentligt om Titanic-katastrofen, men levede i yderligere seks årtier efter at have overlevet den. Hun døde den 18. januar 1972 i Florida, 88 år gammel.",
       "de": "Im Jahr 1920 heiratete sie erneut, Edward Douglas Bolton, und ließ sich in den Vereinigten Staaten nieder. Sie lebte in New York und später in Florida, wo sie den Rest ihres Lebens verbrachte. Anna sprach selten öffentlich über die Titanic-Katastrophe, lebte jedoch noch sechs Jahrzehnte nach dem Unglück. Sie starb am 18. Januar 1972 in Florida im Alter von 88 Jahren.",
       "it": "Nel 1920 si risposò con Edward Douglas Bolton e si stabilì negli Stati Uniti. Visse a New York e poi in Florida, dove trascorse il resto della sua vita. Anna parlò raramente in pubblico del disastro del Titanic, ma visse ancora per sei decenni dopo essere sopravvissuta. Morì il 18 gennaio 1972, in Florida, all’età di 88 anni.",
-      "pt": "Em 1920, Anna casou-se novamente, desta vez com Edward Douglas Bolton, e se estabeleceu nos Estados Unidos. Viveu em Nova Iorque e, mais tarde, na Flórida, onde permaneceu até o fim de sua vida. Anna raramente falava publicamente sobre o desastre do Titanic, mas viveu por mais de seis décadas após sobreviver a ele. Faleceu em 18 de janeiro de 1972, na Flórida, aos 88 anos."
+      "pt": "Em 1920, Anna casou-se novamente, desta vez com Edward Douglas Bolton, e se estabeleceu nos Estados Unidos. Viveu em Nova Iorque e, mais tarde, na Flórida, onde permaneceu até o fim de sua vida. Anna raramente falava publicamente sobre o desastre do Titanic, mas viveu por mais de seis décadas após sobreviver a ele. Faleceu em 18 de janeiro de 1972, na Flórida, aos 88 anos.",
+      "nl": "In 1920, she remarried, to Edward Douglas Bolton, and settled in the United States. She lived in New York and later Florida, where she spent the rest of her life.  Anna rarely spoke publicly about the Titanic disaster but lived for six decades after surviving it.  She passed away on January 18, 1972, in Florida, aged 88."
     }
   }
 }

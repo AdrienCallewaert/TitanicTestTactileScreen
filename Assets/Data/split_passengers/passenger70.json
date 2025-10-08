@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "3rd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Catherine Katie McCarthy",
       "de": "Catherine Katie McCarthy",
       "it": "Catherine Katie McCarthy",
-      "pt": "Catherine Katie McCarthy"
+      "pt": "Catherine Katie McCarthy",
+      "nl": "Catherine Katie McCarthy"
     },
     "description": {
       "fr": "Catherine 'Katie' McCarthy, immigrée irlandaise de Tipperary, embarque sur le Titanic à Queenstown. Katie songe à partir en Amérique depuis des années mais sa peur des longs voyages l’a retenue. Début 1912, elle décide enfin de rejoindre sa sœur Mary à Guttenburg, New Jersey, où elle compte rester quelques mois avant de partir à Chicago, où vit son frère John.",
@@ -30,7 +32,8 @@
       "da": "Catherine 'Katie' McCarthy, en irsk immigrant fra Tipperary, gik om bord på Titanic i Queenstown. Katie havde overvejet at tage til USA i mange år, men afholdt sig fra det, fordi hun var bange for at rejse over lange afstande. Men i begyndelsen af 1912 besluttede hun sig endelig for at tage over til sin søster Mary i Guttenburg, New Jersey, hvor hun skulle bo i et par måneder, før hun ville tage videre vestpå til Chicago, hvor hendes bror John boede. ",
       "de": "Catherine 'Katie' McCarthy, eine irische Einwanderin aus Tipperary, ging in Queenstown an Bord der Titanic. Katie hatte schon seit vielen Jahren überlegt, nach Amerika zu gehen, wurde aber immer wieder davon abgehalten, weil sie Angst vor langen Reisen hatte. Anfang 1912 beschloss sie schließlich, sich ihrer Schwester Mary in Guttenburg, New Jersey, anzuschließen, wo sie einige Monate leben wollte, bevor sie nach Chicago ging, wo ihr Bruder John lebte. ",
       "it": "Catherine 'Katie' McCarthy, un'immigrata irlandese di Tipperary, salì a bordo del Titanic a Queenstown. Katie aveva considerato di andare in America per molti anni, ma era trattenuta dalla paura di viaggiare a lunghe distanze. Tuttavia, all'inizio del 1912 decise finalmente di unirsi a sua sorella Mary a Guttenburg, New Jersey, dove progettava di vivere per alcuni mesi prima di dirigersi a ovest, a Chicago, dove viveva suo fratello John.",
-      "pt": "Catherine 'Katie' McCarthy, uma imigrante irlandesa de Tipperary, embarcou no Titanic em Queenstown. Katie havia considerado ir para a América durante muitos anos, mas sempre fora impedida por seu medo de viagens longas. No entanto, no início de 1912, finalmente decidiu reunir-se à irmã Mary em Guttenburg, Nova Jérsia, onde planejava viver por alguns meses antes de seguir para o oeste, rumo a Chicago, onde morava seu irmão John."
+      "pt": "Catherine 'Katie' McCarthy, uma imigrante irlandesa de Tipperary, embarcou no Titanic em Queenstown. Katie havia considerado ir para a América durante muitos anos, mas sempre fora impedida por seu medo de viagens longas. No entanto, no início de 1912, finalmente decidiu reunir-se à irmã Mary em Guttenburg, Nova Jérsia, onde planejava viver por alguns meses antes de seguir para o oeste, rumo a Chicago, onde morava seu irmão John.",
+      "nl": "Catherine 'Katie' McCarthy, an Irish immigrant from Tipperary, boarded Titanic at Queenstown. Katie had considered going to America for many years but was held back because she had a fear of traveling long distances. However, in early 1912 she finally resolved to join her sister Mary in Guttenburg, New Jersey, where she planned to live for a few months before heading west to Chicago where her brother John lived. "
     },
     "postIceberg": {
       "fr": "Catherine 'Katie' McCarthy, immigrée irlandaise, embarqua sur le Titanic à Queenstown. Elle survécut au naufrage en montant dans le canot 15. Après la catastrophe, Katie s’installa dans le New Jersey où elle rejoignit sa sœur. Elle partit ensuite vivre à Chicago auprès de son frère.",
@@ -38,7 +41,8 @@
       "da": "Catherine 'Katie' McCarthy, irsk immigrant, gik om bord på Titanic i Queenstown. Hun overlevede forliset ved at gå om bord i redningsbåd nr. 15. Efter katastrofen slog Katie sig ned i New Jersey, hvor hun flyttede ind hos sin søster. Senere flyttede hun til Chicago for at være sammen med sin bror. ",
       "de": "Catherine „Katie“ McCarthy, eine irische Einwanderin, ging in Queenstown an Bord der Titanic. Sie überlebte den Untergang an Bord des Rettungsboots 15. Nach der Katastrophe ließ sich Katie in New Jersey nieder, wo sie zu ihrer Schwester zog. Später zog sie nach Chicago, um bei ihrem Bruder zu sein.",
       "it": "Catherine 'Katie' McCarthy, un'immigrata irlandese, salì sul Titanic a Queenstown. Sopravvisse al naufragio salendo sulla scialuppa 15. Dopo il disastro, Katie si stabilì nel New Jersey, dove si unì a sua sorella. In seguito si trasferì a Chicago per stare con suo fratello.",
-      "pt": "Catherine “Katie” McCarthy, imigrante irlandesa, embarcou no Titanic em Queenstown. Sobreviveu ao naufrágio ao embarcar no bote salva-vidas número 15. Após o desastre, Katie estabeleceu-se em Nova Jersey, onde se juntou à irmã. Posteriormente, mudou-se para Chicago para ficar com o irmão."
+      "pt": "Catherine “Katie” McCarthy, imigrante irlandesa, embarcou no Titanic em Queenstown. Sobreviveu ao naufrágio ao embarcar no bote salva-vidas número 15. Após o desastre, Katie estabeleceu-se em Nova Jersey, onde se juntou à irmã. Posteriormente, mudou-se para Chicago para ficar com o irmão.",
+      "nl": "Catherine 'Katie' McCarthy, an Irish immigrant, boarded the Titanic at Queenstown. She survived the sinking by boarding lifeboat 15. After the disaster, Katie settled in New Jersey, where she joined her sister. She later moved to Chicago to be with her brother. "
     }
   }
 }

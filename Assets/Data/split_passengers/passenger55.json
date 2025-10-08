@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "René Jacques Lévy",
       "de": "René Jacques Lévy",
       "it": "René Jacques Lévy",
-      "pt": "René Jacques Lévy"
+      "pt": "René Jacques Lévy",
+      "nl": "René Jacques Lévy"
     },
     "description": {
       "fr": "René Jacques Lévy, marchand de bijoux français, était en voyage d’affaires en Amérique, cherchant à développer son commerce et explorer de nouveaux marchés. Avant d’embarquer sur le Titanic, Lévy menait ses affaires en France, où il s’était forgé une réputation pour la qualité de ses bijoux et son sens des affaires. Il était réputé pour sa capacité à sélectionner des pierres précieuses de qualité et à créer des pièces raffinées. Son voyage aux États-Unis s’inscrivait dans une stratégie d’expansion et de conquête de nouveaux clients américains.",
@@ -30,7 +32,8 @@
       "da": "René Jacques Lévy, fransk smykkehandler, var på vej på til Amerika på forretningsrejse for at udvide sin forretning og udforske nye markeder. Før han gik om bord på Titanic, drev Lévy forretning i Frankrig, hvor han havde ry for at lave fine smykker og for at have en god forretningssans. Han var kendt for sin evne til at finde ædelstene af høj kvalitet og sine evner til at fremstille udsøgte smykker. Lévys rejse til USA var en del af hans strategi for at udvide sin forretning og komme i kontakt med amerikanske kunder. ",
       "de": "René Jacques Lévy, ein französischer Juwelier, befand sich auf einer Geschäftsreise nach Amerika, um sein Geschäft zu erweitern und neue Märkte zu erschließen. Bevor er an Bord der Titanic ging, war Lévy in Frankreich geschäftlich tätig, wo er sich einen guten Ruf für seine feinen Juwelen und seinen Geschäftssinn erwarb. Er war bekannt für seine Fähigkeit, hochwertige Edelsteine zu beschaffen und für sein Geschick, exquisite Stücke zu fertigen. Lévys Reise in die Vereinigten Staaten war Teil seiner Strategie, sein Geschäft auszubauen und Kontakte zu amerikanischen Kunden zu knüpfen. ",
       "it": "René Jacques Lévy, un commerciante di gioielli francese, era in viaggio d'affari in America per espandere il suo commercio e esplorare nuovi mercati. Prima di imbarcarsi sul Titanic, Lévy conduceva affari in Francia, dove si era guadagnato una reputazione per i suoi gioielli pregiati e la sua abilità negli affari. Era noto per la sua capacità di trovare gemme di alta qualità e la sua maestria nella creazione di pezzi squisiti. Il viaggio di Lévy negli Stati Uniti faceva parte della sua strategia per far crescere il suo business e connettersi con clienti americani.",
-      "pt": "René Jacques Lévy, comerciante francês de joias, estava em viagem de negócios para a América, com o objetivo de expandir seu comércio e explorar novos mercados. Antes de embarcar no Titanic, Lévy conduzia negócios na França, onde estabeleceu uma reputação pela qualidade de suas joias e habilidade empresarial. Era conhecido por sua capacidade de adquirir gemas de alta qualidade e pela destreza em criar peças requintadas. A viagem aos Estados Unidos fazia parte de sua estratégia para expandir os negócios e estabelecer conexões com clientes americanos."
+      "pt": "René Jacques Lévy, comerciante francês de joias, estava em viagem de negócios para a América, com o objetivo de expandir seu comércio e explorar novos mercados. Antes de embarcar no Titanic, Lévy conduzia negócios na França, onde estabeleceu uma reputação pela qualidade de suas joias e habilidade empresarial. Era conhecido por sua capacidade de adquirir gemas de alta qualidade e pela destreza em criar peças requintadas. A viagem aos Estados Unidos fazia parte de sua estratégia para expandir os negócios e estabelecer conexões com clientes americanos.",
+      "nl": "René Jacques Lévy, a French jewelry merchant, was on a business trip to America, aiming to expand his trade and explore new markets. Before boarding the Titanic, Lévy conducted business in France, where he established a reputation for his fine jewelry and business acumen. He was known for his ability to source high-quality gems and his skill in crafting exquisite pieces. Lévy's journey to the United States was part of his strategy to grow his business and connect with American clients. "
     },
     "postIceberg": {
       "fr": "René Jacques Lévy, marchand de bijoux français, voyageait pour affaires. Il ne survécut pas au naufrage et son corps ne fut jamais retrouvé. La fin tragique de Lévy met en lumière la perte de nombreux professionnels et entrepreneurs du Titanic, venus chercher de nouvelles opportunités.",
@@ -38,7 +41,8 @@
       "da": "René Jacques Lévy, fransk smykkehandler, var på forretningsrejse. Han overlevede ikke forliset, og hans lig blev aldrig fundet. Lévys tragiske endeligt afspejler tabet af liv blandt Titanics mange forretningsfolk og fagpersoner, som søgte nye muligheder.",
       "de": "René Jacques Lévy, ein französischer Juwelenhändler, war auf Geschäftsreise. Er überlebte den Untergang nicht und seine Leiche wurde nie geborgen. Lévys tragisches Ende wirft ein Schlaglicht auf den Verlust von Menschenleben unter den vielen Fachleuten und Geschäftsleuten auf der Titanic, die nach neuen Möglichkeiten suchten.",
       "it": "René Jacques Lévy, un mercante di gioielli francese, stava viaggiando per affari. Non sopravvisse all'affondamento, e il suo corpo non fu mai recuperato. La fine tragica di Lévy evidenzia la perdita di vita tra i numerosi professionisti e uomini d'affari del Titanic che cercavano nuove opportunità.",
-      "pt": "René Jacques Lévy, comerciante francês de joias, viajava a negócios. Ele não sobreviveu ao naufrágio, e seu corpo nunca foi recuperado. O trágico fim de Lévy destaca a perda de vidas entre os inúmeros profissionais e empresários do Titanic que buscavam novas oportunidades."
+      "pt": "René Jacques Lévy, comerciante francês de joias, viajava a negócios. Ele não sobreviveu ao naufrágio, e seu corpo nunca foi recuperado. O trágico fim de Lévy destaca a perda de vidas entre os inúmeros profissionais e empresários do Titanic que buscavam novas oportunidades.",
+      "nl": "René Jacques Lévy, a French jewelry merchant, was traveling on business. He did not survive the sinking, and his body was never recovered. Lévy's tragic end highlights the loss of life among the Titanic's many professionals and businesspeople who were seeking new opportunities."
     }
   }
 }

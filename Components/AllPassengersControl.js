@@ -39,7 +39,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     de: { all: "Alle", Staff: "Besatzung", "1st": "1.", "2nd": "2.", "3rd": "3." },
     da: { all: "Alle", Staff: "Besætning", "1st": "1.", "2nd": "2.", "3rd": "3." },
     it: { all: "Tutti", Staff: "Equipaggio", "1st": "1ª", "2nd": "2ª", "3rd": "3ª" },
-    pt: { all: "Todos", Staff: "Tripulação", "1st": "1ª", "2nd": "2ª", "3rd": "3ª" }
+    pt: { all: "Todos", Staff: "Tripulação", "1st": "1ª", "2nd": "2ª", "3rd": "3ª" },
+    nl: { all: "Alle", Staff: "Bemanning", "1st": "1e", "2nd": "2e", "3rd": "3e" }
   };
 
   // --- ⬇️ util: met à jour l’UI du sélecteur pour refléter `lang` courante ---

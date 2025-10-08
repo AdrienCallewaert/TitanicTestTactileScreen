@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "3rd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Julia Barry",
       "de": "Julia Barry",
       "it": "Julia Barry",
-      "pt": "Julia Barry"
+      "pt": "Julia Barry",
+      "nl": "Julia Barry"
     },
     "description": {
       "fr": "Cadette d'une famille de douze enfants, Julia Barry est originaire du comté de Kerry, en Irlande. Elle vit déjà aux États-Unis, à Springfield, Massachusetts, mais retourne au pays en 1910 pour s’occuper de sa mère malade. Julia prévoyait initialement de rentrer sur le Celtic, mais choisit le Titanic pour partir plus tôt. En chemin vers Queenstown pour embarquer, elle perd son parapluie, ce que plusieurs de ses proches prennent pour un mauvais présage.",
@@ -30,7 +32,8 @@
       "da": "Julia Barry var den yngste af 12 børn og stammede fra County Kerry i Irland. Hun havde allerede bosat sig i USA i Springfield, Massachussets, men vendte hjem i 1910 for at pleje sin syge mor. Julia havde oprindeligt planlagt at tage tilbage til USA med skibet Celtic, men skiftede til Titanic for at komme før afsted. Da hun var på vej til Queenstown for at gå om bord på Titanic, mistede hun sin paraply, hvilket flere i hendes selskab opfattede som et dårligt varsel.",
       "de": "Julia Barry war das jüngste von 12 Kindern und stammte aus der irischen Grafschaft Kerry. Sie hatte sich bereits in den USA in Springfield, Massachussets, niedergelassen, kehrte aber 1910 nach Hause zurück, um ihre kranke Mutter zu pflegen. Ursprünglich wollte Julia mit der Celtic in die USA zurückkehren, wechselte aber auf die Titanic, um früher reisen zu können. Als sie auf dem Weg nach Queenstown war, um an Bord der Titanic zu gehen, verlor sie ihren Regenschirm, was einige in ihrer Gruppe als schlechtes Omen betrachteten.",
       "it": "La più giovane di 12 figli, Julia Barry proveniva dalla contea di Kerry, in Irlanda. Aveva già stabilito la residenza negli Stati Uniti a Springfield, Massachusetts, ma tornò a casa nel 1910 per prendersi cura della madre malata. Julia inizialmente aveva programmato di tornare negli Stati Uniti sulla Celtic, ma si trasferì sul Titanic per viaggiare prima. Mentre si recava a Queenstown per imbarcarsi sul Titanic, perse il suo ombrello, che alcuni del suo gruppo presero come un cattivo presagio.",
-      "pt": "A caçula de 12 filhos, Julia Barry era natural do Condado de Kerry, na Irlanda. Já havia se estabelecido nos Estados Unidos, em Springfield, Massachusetts, mas retornara à sua terra natal em 1910 para cuidar da mãe enferma. Julia planejava voltar para a América a bordo do Celtic, mas transferiu sua passagem para o Titanic a fim de viajar mais cedo. Enquanto seguia para Queenstown para embarcar, acabou perdendo seu guarda-chuva - fato que vários de seus acompanhantes interpretaram como um mau presságio"
+      "pt": "A caçula de 12 filhos, Julia Barry era natural do Condado de Kerry, na Irlanda. Já havia se estabelecido nos Estados Unidos, em Springfield, Massachusetts, mas retornara à sua terra natal em 1910 para cuidar da mãe enferma. Julia planejava voltar para a América a bordo do Celtic, mas transferiu sua passagem para o Titanic a fim de viajar mais cedo. Enquanto seguia para Queenstown para embarcar, acabou perdendo seu guarda-chuva - fato que vários de seus acompanhantes interpretaram como um mau presságio",
+      "nl": "The youngest of 12 children, Julia Barry hailed from County Kerry in Ireland. She had already established residence in the U.S. in Springfield, Massachussets, but returned home in 1910 to care for her ailing mother. Julia originally planned to go back to the States on Celtic, but transferred to Titanic in order to travel sooner. As she was making her way to Queenstown to board Titanic, she lost her umbrella, which several in her party took as a bad omen."
     },
     "postIceberg": {
       "fr": "Julia Barry, immigrée irlandaise, retournait aux États-Unis après avoir rendu visite à sa mère malade en Irlande. Elle ne survécut pas au naufrage du Titanic. Son corps ne fut jamais retrouvé.",
@@ -38,7 +41,8 @@
       "da": "Julia Barry, irsk immigrant, var på vej tilbage til USA efter at have besøgt sin syge mor i Irland. Hun overlevede ikke Titanics forlis. Hendes lig blev aldrig fundet. ",
       "de": "Julia Barry, eine irische Einwanderin, kehrte in die Vereinigten Staaten zurück, nachdem sie ihre kranke Mutter in Irland besucht hatte. Sie überlebte den Untergang der Titanic nicht. Ihre Leiche wurde nie geborgen.",
       "it": "Julia Barry, un'immigrata irlandese, stava tornando negli Stati Uniti dopo aver visitato la sua madre malata in Irlanda. Non sopravvisse al naufragio del Titanic. Il suo corpo non fu mai recuperato.",
-      "pt": "Julia Barry, imigrante irlandesa, retornava aos Estados Unidos após visitar sua mãe enferma na Irlanda. Ela não sobreviveu ao naufrágio do Titanic. Seu corpo nunca foi recuperado."
+      "pt": "Julia Barry, imigrante irlandesa, retornava aos Estados Unidos após visitar sua mãe enferma na Irlanda. Ela não sobreviveu ao naufrágio do Titanic. Seu corpo nunca foi recuperado.",
+      "nl": "Julia Barry, an Irish immigrant, was returning to the United States after visiting her ailing mother in Ireland. She did not survive the Titanic sinking. Her body was never recovered. "
     }
   }
 }
