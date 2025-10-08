@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passagier"
     },
     "class": "3rd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Familien Sage",
       "de": "Familie Sage",
       "it": "Famiglia Sage",
-      "pt": "Família Sage"
+      "pt": "Família Sage",
+      "nl": "Sage family"
     },
     "description": {
       "fr": "La famille Sage, composée de John et Annie Sage et de leurs neuf enfants, quitte l’Angleterre pour commencer une nouvelle vie en Floride, où John a acheté un verger près de Jacksonville. John et son fils aîné George ont déjà passé du temps en Amérique, travaillant comme cuisiniers et économisant assez pour faire venir toute la famille. Ils devaient initialement voyager sur le paquebot Philadelphia, mais la grève du charbon les a fait transférer sur le Titanic.",
@@ -30,7 +32,8 @@
       "da": "Familien Sage, som bestod af John og Annie Sage og deres ni børn, forlod England for at starte et nyt liv i Florida, hvor John havde købt en frugtplantage i nærheden af Jacksonville. John og hans ældste søn George havde allerede tilbragt nogen tid i Amerika, hvor de havde arbejdet som kokke og sparet penge nok sammen til at bringe hele familien med til USA. De skulle oprindeligt have rejst med dampskibet Philadelphia, men kulstrejken betød, at de blev flyttet til Titanic. ",
       "de": "Die Familie Sage, bestehend aus John und Annie Sage und ihren neun Kindern, verließ England, um ein neues Leben in Florida zu beginnen, wo John eine Obstplantage in der Nähe von Jacksonville erworben hatte. John und sein ältester Sohn George hatten einige Zeit in Amerika als Köche gearbeitet und genug Geld gespart, um die gesamte Familie in die Staaten zu bringen. Ursprünglich sollten sie mit dem Linienschiff Philadelphia reisen, doch der Kohlestreik machte es erforderlich, dass sie auf die Titanic umsteigen mussten. ",
       "it": "La famiglia Sage, composta da John e Annie Sage e dai loro nove figli, lasciava l'Inghilterra per iniziare una nuova vita in Florida, dove John aveva acquistato un frutteto vicino a Jacksonville. John e il suo figlio maggiore George avevano trascorso del tempo in America lavorando come cuochi e risparmiando abbastanza denaro per portare tutta la famiglia negli Stati Uniti. Inizialmente avrebbero dovuto viaggiare sulla nave Philadelphia, ma lo sciopero del carbone rese necessario il loro trasferimento sul Titanic.",
-      "pt": "A família Sage, composta por John e Annie Sage e seus nove filhos, deixava a Inglaterra para começar uma nova vida na Flórida, onde John havia comprado um pomar de frutas próximo a Jacksonville. John e seu filho mais velho, George, já tinham passado algum tempo na América, trabalhando como cozinheiros e economizando dinheiro suficiente para levar toda a família para os Estados Unidos. Inicialmente, estavam programados para viajar no transatlântico Philadelphia, mas a greve de carvão obrigou sua transferência para o Titanic."
+      "pt": "A família Sage, composta por John e Annie Sage e seus nove filhos, deixava a Inglaterra para começar uma nova vida na Flórida, onde John havia comprado um pomar de frutas próximo a Jacksonville. John e seu filho mais velho, George, já tinham passado algum tempo na América, trabalhando como cozinheiros e economizando dinheiro suficiente para levar toda a família para os Estados Unidos. Inicialmente, estavam programados para viajar no transatlântico Philadelphia, mas a greve de carvão obrigou sua transferência para o Titanic.",
+      "nl": "Sage family reisde in de derde klasse van de Titanic. Deze persoon was 49,45, 20,19,18,16, 14,12, 10,8, 5 jaar oud. Deze persoon reisde als passagier. Deze persoon kwam om bij de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over Sage family kort samen."
     },
     "postIceberg": {
       "fr": "La famille Sage, dont John et Annie Sage et leurs neuf enfants, voyageait vers la Floride pour commencer une nouvelle vie. La nuit du naufrage, ils ne purent obtenir de places dans les canots et périrent dans la catastrophe. Aucun de leurs corps ne fut retrouvé.",
@@ -38,7 +41,8 @@
       "da": "Familien Sage, det vil sige John og Annie Sage og deres ni børn, var på vej til Florida for at starte et nyt liv. På aftenen for forliset kunne de ikke få plads i redningsbådene og omkom i katastrofen. Ingen af deres lig blev fundet. ",
       "de": "Die Familie Sage, bestehend aus John und Annie Sage und ihren neun Kindern, war auf dem Weg nach Florida, um ein neues Leben zu beginnen. In der Nacht des Schiffbruchs konnten sie keine Plätze in den Rettungsbooten finden und kamen bei der Katastrophe ums Leben. Keine ihrer Leichen wurde geborgen.",
       "it": "La famiglia Sage, composta da John e Annie Sage e dai loro nove figli, stava viaggiando verso la Florida per iniziare una nuova vita. La notte del naufragio non riuscirono a trovare posti nelle scialuppe di salvataggio e perirono nel disastro. Nessuno dei loro corpi fu recuperato.",
-      "pt": "A família Sage, composta por John e Annie Sage e seus nove filhos, viajava para a Flórida para iniciar uma nova vida. Na noite do naufrágio, não conseguiram lugar nos botes salva-vidas e pereceram no desastre. Nenhum dos corpos foi recuperado."
+      "pt": "A família Sage, composta por John e Annie Sage e seus nove filhos, viajava para a Flórida para iniciar uma nova vida. Na noite do naufrágio, não conseguiram lugar nos botes salva-vidas e pereceram no desastre. Nenhum dos corpos foi recuperado.",
+      "nl": "Sage family behoort tot de slachtoffers van de ramp met de Titanic in april 1912. Deze Nederlandstalige versie wordt later aangevuld met meer achtergrondinformatie."
     }
   }
 }

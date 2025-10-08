@@ -8,7 +8,8 @@
       "da": "Steward på tredje klasse",
       "de": "Steward der Dritten Klasse",
       "it": "Steward di terza classe",
-      "pt": "Criado da terceira classe"
+      "pt": "Criado da terceira classe",
+      "nl": "Steward derde klasse"
     },
     "class": "Staff",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Arthur Barratt",
       "de": "Arthur Barratt",
       "it": "Arthur Barratt",
-      "pt": "Arthur Barratt"
+      "pt": "Arthur Barratt",
+      "nl": "Arthur Barratt"
     },
     "description": {
       "fr": "Arthur Barrat était steward de troisième classe sur le Titanic, chargé d’assister les passagers et de maintenir leurs cabines. Les tâches de Barrat comprenaient le maintien de la propreté, le service des repas et la satisfaction des besoins des passagers de troisième classe. Il avait déjà travaillé sur d’autres navires, ce qui lui avait permis d’acquérir les compétences nécessaires pour ce poste. Barrat devait faire preuve de rigueur et d’amabilité afin de rendre le voyage agréable pour ceux des ponts inférieurs.",
@@ -30,7 +32,8 @@
       "da": "Arthur Barratt var steward på tredje klasse på Titanic, og hans opgave var at hjælpe passagererne og vedligeholde deres kahytter. Barrats skulle blandt andet stå for rengøring, servere måltider og tage sig af passagerernes behov på tredje klasse. Han havde erfaring med at arbejde på andre skibe, så han havde de færdigheder, der var påkrævet i hans rolle. Barrats job krævede flid og venlighed, fordi han skulle gøre rejsen behagelig for dem, der befandt sig på de nederste dæk. ",
       "de": "Arthur Barratt war ein Steward der Dritten Klasse auf der Titanic, der für die Betreuung der Passagiere und die Pflege ihrer Unterkünfte zuständig war. Zu Barrats Aufgaben gehörte es, für Sauberkeit zu sorgen, Mahlzeiten bereitzustellen und sich um die Bedürfnisse der Passagiere der Dritten Klasse zu kümmern. Er hatte zuvor auf anderen Schiffen gearbeitet und verfügte daher über die für seine Aufgaben erforderlichen Fähigkeiten. Barrats Arbeit erforderte Fleiß und Freundlichkeit, denn er trug dazu bei, die Reise für die Passagiere auf den unteren Decks angenehm zu gestalten.",
       "it": "Arthur Barratt era uno steward di terza classe sul Titanic, responsabile dell'assistenza ai passeggeri e del mantenimento delle loro sistemazioni. I compiti di Barrat includevano garantire la pulizia, fornire pasti e prendersi cura delle esigenze dei passeggeri in terza classe. Aveva precedentemente lavorato su altre navi, il che gli aveva fornito le competenze necessarie per il suo ruolo. Il lavoro di Barrat richiedeva diligenza e un atteggiamento amichevole, poiché aiutava a rendere confortevole il viaggio per quelli nei ponti inferiori.",
-      "pt": "Arthur Barrat era comissário de terceira classe no Titanic, responsável por auxiliar os passageiros e manter suas acomodações. Suas funções incluíam garantir a limpeza, servir as refeições e atender às necessidades dos passageiros da terceira classe. Com experiência prévia em outros navios, Barrat possuía as habilidades necessárias para o cargo. Seu trabalho exigia diligência e uma atitude amigável, contribuindo para tornar a viagem mais confortável para os que estavam nos conveses inferiores."
+      "pt": "Arthur Barrat era comissário de terceira classe no Titanic, responsável por auxiliar os passageiros e manter suas acomodações. Suas funções incluíam garantir a limpeza, servir as refeições e atender às necessidades dos passageiros da terceira classe. Com experiência prévia em outros navios, Barrat possuía as habilidades necessárias para o cargo. Seu trabalho exigia diligência e uma atitude amigável, contribuindo para tornar a viagem mais confortável para os que estavam nos conveses inferiores.",
+      "nl": "Arthur Barratt maakte deel uit van de bemanning van de Titanic. Deze persoon was 15 jaar oud. Deze persoon werkte aan boord als steward van de derde klasse. Deze persoon kwam om bij de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over Arthur Barratt kort samen."
     },
     "postIceberg": {
       "fr": "Arthur Barrat était steward de troisième classe sur le Titanic. Pendant le naufrage, il aida les passagers et contribua à maintenir l’ordre. Malheureusement, il ne survécut pas à la catastrophe et son corps ne fut jamais retrouvé.",
@@ -38,7 +41,8 @@
       "da": "Arthur Barratt var steward på tredje klasse på Titanic. Under katastrofen hjalp han passagererne og bidrog til at bevare roen. Desværre overlevede han ikke forliset, og hans lig blev aldrig fundet.",
       "de": "Arthur Barratt war Steward in der Dritten Klasse auf der Titanic. Während des Untergangs unterstützte er die Passagiere und half, die Ordnung aufrechtzuerhalten. Leider überlebte er die Tragödie nicht und seine Leiche wurde nie geborgen.",
       "it": "Arthur Barratt era uno steward di terza classe sul Titanic. Durante il naufragio, assistette i passeggeri e contribuì a mantenere l'ordine. Sfortunatamente, non sopravvisse al disastro e il suo corpo non fu mai recuperato.",
-      "pt": "Arthur Barrat era comissário de terceira classe no Titanic. Durante o naufrágio, ele auxiliou os passageiros e ajudou a manter a ordem. Infelizmente, não sobreviveu ao desastre, e seu corpo nunca foi recuperado."
+      "pt": "Arthur Barrat era comissário de terceira classe no Titanic. Durante o naufrágio, ele auxiliou os passageiros e ajudou a manter a ordem. Infelizmente, não sobreviveu ao desastre, e seu corpo nunca foi recuperado.",
+      "nl": "Arthur Barratt behoort tot de slachtoffers van de ramp met de Titanic in april 1912. Deze Nederlandstalige versie wordt later aangevuld met meer achtergrondinformatie."
     }
   }
 }

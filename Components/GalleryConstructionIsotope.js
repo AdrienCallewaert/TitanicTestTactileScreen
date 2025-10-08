@@ -125,8 +125,14 @@ document.addEventListener("DOMContentLoaded", async () => {
       // Applique les traductions générales (titres, etc.)
       document.querySelectorAll("[data-i18n]").forEach((el) => {
         const key = el.dataset.i18n;
-        const text = data[key]?.text?.[lang];
-        if (text) el.textContent = text;
+        const normalizedKey =
+          key in data
+            ? key
+            : key?.toLowerCase?.();
+        const text = data[normalizedKey]?.text?.[lang];
+        if (text) {
+          el.textContent = text;
+        }
       });
 
       // Traduit les boutons de filtre (corrigé et tolérant)

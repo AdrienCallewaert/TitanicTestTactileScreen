@@ -42,24 +42,56 @@ document.addEventListener("DOMContentLoaded", async () => {
     photoEl.alt = p.image?.alt || "";
     roleEl.textContent = p.role?.[lang] || p.role?.en || "";
 
+    const biographyLabels = {
+      fr: "Biographie :",
+      en: "Biography:",
+      da: "Biografi:",
+      de: "Biografie:",
+      it: "Biografia:",
+      pt: "Biografia:",
+      nl: "Biografie:"
+    };
     descEl.innerHTML =
-      `<strong>${lang === "fr" ? "Biographie :" : "Biography:"}</strong> ` +
+      `<strong>${biographyLabels[lang] || biographyLabels.en}</strong> ` +
       (p.description?.[lang] || p.description?.en || "");
 
     if (postEl && p.postIceberg) {
+      const aftermathLabels = {
+        fr: "Après le naufrage :",
+        en: "After the shipwreck:",
+        da: "Efter forliset:",
+        de: "Nach dem Untergang:",
+        it: "Dopo il naufragio:",
+        pt: "Após o naufrágio:",
+        nl: "Na de scheepsramp:"
+      };
       postEl.innerHTML =
-        `<strong>${lang === "fr" ? "Après le naufrage :" : "After the shipwreck:"}</strong> ` +
+        `<strong>${aftermathLabels[lang] || aftermathLabels.en}</strong> ` +
         (p.postIceberg?.[lang] || p.postIceberg?.en || "");
     }
 
     const survived = p.survived ? "true" : "false";
     const statusMap = {
       fr: { true: "Survivant", false: "Décédé" },
-      en: { true: "Survived", false: "Deceased" }
+      en: { true: "Survived", false: "Deceased" },
+      da: { true: "Overlevede", false: "Omkom" },
+      de: { true: "Überlebt", false: "Verstorben" },
+      it: { true: "Sopravvissuto", false: "Deceduto" },
+      pt: { true: "Sobreviveu", false: "Faleceu" },
+      nl: { true: "Overleefd", false: "Overleden" }
     };
     const text = statusMap[lang]?.[survived] || statusMap.en[survived];
-    const age =
-      p.age ? ` (${p.age} ${lang === "fr" ? "ans" : "years old"})` : "";
+    const ageUnits = {
+      fr: "ans",
+      en: "years old",
+      da: "år gammel",
+      de: "Jahre alt",
+      it: "anni",
+      pt: "anos",
+      nl: "jaar"
+    };
+    const ageLabel = ageUnits[lang] || ageUnits.en;
+    const age = p.age ? ` (${p.age} ${ageLabel})` : "";
     statusEl.textContent = text + age;
   }
 

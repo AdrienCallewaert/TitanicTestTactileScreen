@@ -8,7 +8,8 @@
       "da": "Overlevende besætningsmedlem (udkigsmand)",
       "de": "Lookout(Ausguck)",
       "it": "Lookout",
-      "pt": "Vigia"
+      "pt": "Vigia",
+      "nl": "Uitkijk"
     },
     "class": "Staff",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Frederick Fleet",
       "de": "Frederick Fleet",
       "it": "Frederick Fleet",
-      "pt": "Frederick Fleet"
+      "pt": "Frederick Fleet",
+      "nl": "Frederick Fleet"
     },
     "description": {
       "fr": "Frederick Fleet est né le 15 octobre 1887 à Liverpool, en Angleterre. Élevé dans un environnement difficile, Fleet passa une grande partie de son enfance dans des orphelinats et des familles d’accueil. Il commença sa carrière maritime à l’adolescence, acquérant de l’expérience sur divers navires avant de rejoindre la White Star Line. Au début des années 1900, Fleet était devenu un marin compétent, reconnu pour sa vue perçante, une compétence essentielle pour un veilleur. En 1912, il fut affecté au RMS Titanic, le tout nouveau et plus grand paquebot de la White Star Line. En tant que membre de l’équipage, Fleet était responsable de la veille et de la sécurité du navire lors de son voyage inaugural.",
@@ -30,7 +32,8 @@
       "da": "Frederick Fleet blev født den 15. oktober 1887 i Liverpool, England. Fleet voksede op i et hårdt miljø og tilbragte en stor del af sit tidlige liv på børnehjem og i plejefamilier. Han begyndte sin karriere til søs som teenager og fik erfaring på forskellige skibe, før han kom til White Star Line. I begyndelsen af 1900-tallet var Fleet blevet en dygtig sømand og var kendt for sit skarpe syn, en vigtig evne for en udkigsmand. I 1912 blev han udstationeret på RMS Titanic, White Star Lines nyeste og største passagerskib. Som medlem af skibets besætning var Fleet ansvarlig for at holde udkig i udkigsposten og sørge for, at skibet kom sikkert igennem sin jomfrurejse. ",
       "de": "Frederick Fleet wurde am 15. Oktober 1887 in Liverpool, England, geboren. Er wuchs in einem schwierigen Umfeld auf und verbrachte einen Großteil seines frühen Lebens in Waisenhäusern und bei Pflegeeltern. Er begann seine Karriere in der Seefahrt als Teenager und sammelte Erfahrungen auf verschiedenen Schiffen, bevor er bei der White Star Line anheuerte. In den frühen 1900er Jahren war Fleet ein erfahrener Seemann und bekannt für sein gutes Sehvermögen, eine wichtige Fähigkeit für einen “Lookot (“Ausguck”). Im Jahr 1912 wurde er auf der RMS Titanic eingesetzt, dem neuesten und größten Passagierschiff der White Star Line. Als Mitglied der Schiffsbesatzung war Fleet dafür verantwortlich, Wache zu halten und die Sicherheit des Schiffes während seiner Jungfernfahrt zu gewährleisten. ",
       "it": "Frederick Fleet è nato il 15 ottobre 1887 a Liverpool, Inghilterra. Cresciuto in un ambiente difficile, Fleet trascorse gran parte della sua infanzia in orfanotrofi e famiglie affidatarie. Ha iniziato la sua carriera marittima da adolescente, acquisendo esperienza su varie navi prima di unirsi alla White Star Line. All'inizio del 1900, Fleet era diventato un marinaio competente, noto per la sua acuta vista, una capacità vitale per un osservatore. Nel 1912, fu assegnato al RMS Titanic, il più grande e nuovo transatlantico della White Star Line. Come membro dell'equipaggio della nave, Fleet era responsabile di tenere d'occhio e garantire la sicurezza della nave durante il suo viaggio inaugurale.",
-      "pt": "Frederick Fleet nasceu em 15 de outubro de 1887, em Liverpool, Inglaterra. Criado em um ambiente difícil, passou grande parte da infância em orfanatos e sob cuidados de famílias adotivas. Iniciou sua carreira marítima ainda adolescente, adquirindo experiência em diversos navios antes de ingressar na White Star Line. No início dos anos 1900, Fleet já era um marinheiro experiente, conhecido por sua excelente visão, uma habilidade essencial para um vigia. Em 1912, foi designado para o RMS Titanic, o mais novo e maior transatlântico da White Star Line. Como membro da tripulação, Fleet tinha a responsabilidade de manter a vigilância e garantir a segurança do navio durante sua viagem inaugural."
+      "pt": "Frederick Fleet nasceu em 15 de outubro de 1887, em Liverpool, Inglaterra. Criado em um ambiente difícil, passou grande parte da infância em orfanatos e sob cuidados de famílias adotivas. Iniciou sua carreira marítima ainda adolescente, adquirindo experiência em diversos navios antes de ingressar na White Star Line. No início dos anos 1900, Fleet já era um marinheiro experiente, conhecido por sua excelente visão, uma habilidade essencial para um vigia. Em 1912, foi designado para o RMS Titanic, o mais novo e maior transatlântico da White Star Line. Como membro da tripulação, Fleet tinha a responsabilidade de manter a vigilância e garantir a segurança do navio durante sua viagem inaugural.",
+      "nl": "Frederick Fleet maakte deel uit van de bemanning van de Titanic. Deze persoon was 24 jaar oud. Deze persoon werkte aan boord als uitkijk. Deze persoon overleefde de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over Frederick Fleet kort samen."
     },
     "postIceberg": {
       "fr": "Le veilleur Frederick Fleet survécut en montant à bord du canot n°6. Après la catastrophe, il continua à travailler en mer et vendit plus tard des journaux devant les quais de Southampton. Tragiquement, Fleet mit fin à ses jours, peut-être en partie à cause du traumatisme de cette nuit tragique dans l’Atlantique Nord.",
@@ -38,7 +41,8 @@
       "da": "Udkigsmand Frederick Fleet overlevede ved at gå om bord i redningsbåd nr. 6. Efter katastrofen fortsatte han med at arbejde til søs og solgte senere aviser på havnen i Southampton. Tragisk nok tog Fleet sit eget liv, måske delvis på grund af traumet fra den tragiske nat i Nordatlanten. ",
       "de": "“Lookout” (“Ausguck”) Frederick Fleet überlebte an Bord des Rettungsbootes 6. Nach der Katastrophe arbeitete er weiter auf See und verkaufte später Zeitungen vor den Docks von Southampton. Tragischerweise nahm sich Fleet später das Leben, was vielleicht zum Teil auf das Trauma dieser tragischen Nacht im Nordatlantik zurückzuführen ist.",
       "it": "Il vedetta Frederick Fleet sopravvisse salendo sulla scialuppa 6. Dopo il disastro, continuò a lavorare in mare e successivamente vendette giornali fuori dai moli di Southampton. Tragicamente, Fleet si tolse la vita, forse in parte a causa del trauma di quella tragica notte nell'Atlantico settentrionale.",
-      "pt": "O vigia Frederick Fleet sobreviveu ao embarcar no bote salva-vidas 6. Após o desastre, continuou a trabalhar no mar e mais tarde vendeu jornais nas docas de Southampton. Tragicamente, Fleet tirou a própria vida, possivelmente em parte devido ao trauma daquela noite trágica no Atlântico Norte."
+      "pt": "O vigia Frederick Fleet sobreviveu ao embarcar no bote salva-vidas 6. Após o desastre, continuou a trabalhar no mar e mais tarde vendeu jornais nas docas de Southampton. Tragicamente, Fleet tirou a própria vida, possivelmente em parte devido ao trauma daquela noite trágica no Atlântico Norte.",
+      "nl": "Na de schipbreuk bleef Frederick Fleet bekend als overlevende van de Titanic. Verdere details over het latere leven worden nog aangevuld in deze Nederlandstalige versie."
     }
   }
 }

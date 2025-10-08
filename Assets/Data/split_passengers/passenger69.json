@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passagier"
     },
     "class": "3rd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Familien Andersson",
       "de": "Die Familie Andersson",
       "it": "La famiglia Andersson",
-      "pt": "A família Andersson"
+      "pt": "A família Andersson",
+      "nl": "The Andersson Family"
     },
     "description": {
       "fr": "Alfrida Konstantia Brogren Andersson et ses cinq enfants émigrent aux États-Unis pour rejoindre son mari Ernst Andersson, déjà installé là-bas. Avant d’embarquer sur le Titanic, Mme Andersson et ses enfants - Sigrid, Ingeborg, Ebba, Ellis et Gosta - préparent leur départ en réglant leurs affaires en Suède et en disant adieu à leurs proches. Ils attendent avec impatience de retrouver Ernst et de commencer une nouvelle vie ensemble en Amérique. Leur voyage est marqué par l’anticipation et l’espoir d’un avenir meilleur. La traversée sur le Titanic représente une étape cruciale de leur relocalisation, porteuse de l’espoir d’une vie plus sûre et plus heureuse dans leur nouveau foyer.",
@@ -30,7 +32,8 @@
       "da": "Alfrida Konstantia Brogren Andersson og hendes fem børn emigrerede til USA for at slutte sig til sin mand Ernst Andersson, som allerede havde slået sig ned der. Før de gik om bord på Titanic, forberedte fru Andersson og hendes børn - Sigrid, Ingeborg, Ebba, Ellis og Gösta - sig på rejsen, de afviklede tilværelsen i Sverige og fik sagt farvel til deres kære. Familien glædede sig til at blive genforenet med Ernst og starte et nyt liv sammen i Amerika. Familiens rejse var præget af forventninger og håbet om en lysere fremtid. Rejsen med Titanic var et vigtigt første skridt mod en bedre tilværelse og et mere stabilt liv i deres nye hjem.",
       "de": "Alfrida Konstantia Brogren Andersson und ihre fünf Kinder wollten in die Vereinigten Staaten auswandern, um ihrem Ehemann Ernst Andersson zu folgen, der sich bereits dort niedergelassen hatte. Bevor sie an Bord der Titanic gingen, bereiteten sich Frau Andersson und ihre Kinder - Sigrid, Ingeborg, Ebba, Ellis und Gosta - auf die Reise vor, indem sie ihre Geschäfte in Schweden abschlossen und sich von ihren Angehörigen verabschiedeten. Sie freuten sich auf das Wiedersehen mit Ernst und den Beginn eines neuen gemeinsamen Lebens in Amerika. Die Reise der Familie war geprägt von Vorfreude und dem Versprechen auf eine bessere Zukunft. Die Reise mit der Titanic war ein wichtiger Schritt auf ihrem Weg nach Amerika, der ihnen die Hoffnung auf ein besseres und sichereres Leben in ihrer neuen Heimat gab.",
       "it": "Alfrida Konstantia Brogren Andersson e i suoi cinque figli stavano emigrando negli Stati Uniti per unirsi al marito Ernst Andersson, che si era già stabilito lì. Prima di imbarcarsi sul Titanic, la signora Andersson e i suoi figli - Sigrid, Ingeborg, Ebba, Ellis e Gosta - si prepararono per il viaggio chiudendo le loro questioni in Svezia e salutando i loro cari. Attendevano con ansia di riunirsi con Ernst e iniziare una nuova vita insieme in America. Il viaggio della famiglia era segnato dall'anticipazione e dalla promessa di un futuro migliore. Il viaggio sul Titanic rappresentava un passo significativo nel loro trasferimento, offrendo la speranza di una vita più luminosa e sicura nella loro nuova casa.",
-      "pt": "Alfrida Konstantia Brogren Andersson e seus cinco filhos emigravam para os Estados Unidos para reunir-se ao marido, Ernst Andersson, que já havia se estabelecido lá. Antes de embarcar no Titanic, a Sra. Andersson e as crianças - Sigrid, Ingeborg, Ebba, Ellis e Gosta - prepararam-se para a longa viagem encerrando seus assuntos na Suécia e despedindo-se dos entes queridos. A família aguardava com expectativa o reencontro com Ernst e o início de uma nova vida juntos na América. A jornada era marcada pela esperança e pela promessa de um futuro melhor. A travessia no Titanic representava um passo decisivo em sua mudança, carregando consigo o sonho de um lar mais seguro e próspero no novo país."
+      "pt": "Alfrida Konstantia Brogren Andersson e seus cinco filhos emigravam para os Estados Unidos para reunir-se ao marido, Ernst Andersson, que já havia se estabelecido lá. Antes de embarcar no Titanic, a Sra. Andersson e as crianças - Sigrid, Ingeborg, Ebba, Ellis e Gosta - prepararam-se para a longa viagem encerrando seus assuntos na Suécia e despedindo-se dos entes queridos. A família aguardava com expectativa o reencontro com Ernst e o início de uma nova vida juntos na América. A jornada era marcada pela esperança e pela promessa de um futuro melhor. A travessia no Titanic representava um passo decisivo em sua mudança, carregando consigo o sonho de um lar mais seguro e próspero no novo país.",
+      "nl": "The Andersson Family reisde in de derde klasse van de Titanic. Deze persoon was 40,11,9,6,4,2 jaar oud. Deze persoon reisde als passagier. Deze persoon kwam om bij de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over The Andersson Family kort samen."
     },
     "postIceberg": {
       "fr": "La famille Andersson, composée de Mme Alfrida Andersson et de ses cinq enfants, émigrait aux États-Unis pour rejoindre son mari. La nuit du naufrage, ils furent tous piégés dans les ponts inférieurs et ne survécurent pas. Aucun de leurs corps ne fut retrouvé.",
@@ -38,7 +41,8 @@
       "da": "Alfrida Andersson og hendes fem børn ville emigrere til USA for at blive genforenet med sin mand og børnenes far. Den nat, hvor skibet sank, var de alle fanget på de nederste dæk og overlevede ikke. Ingen af deres lig blev fundet.",
       "de": "Die Familie Andersson, bestehend aus Frau Alfrida Andersson und ihren fünf Kindern, war auf dem Weg in die Vereinigten Staaten, um zu ihrem Mann zu ziehen. In der Nacht des Schiffsunglücks sollen sie alle in den unteren Decks eingeschlossen worden sein und überlebten nicht. Keine ihrer Leichen wurde geborgen.",
       "it": "La famiglia Andersson, composta dalla signora Alfrida Andersson e dai suoi cinque figli, stava emigrando negli Stati Uniti per unirsi al marito. La notte del naufragio rimasero tutti intrappolati nei ponti inferiori e non sopravvissero. Nessuno dei loro corpi fu recuperato.",
-      "pt": "A família Andersson, composta pela Sra. Alfrida Andersson e seus cinco filhos, estava emigrando para os Estados Unidos para se reunir com o marido. Na noite do naufrágio, ficaram todos presos nos conveses inferiores e não sobreviveram. Nenhum dos corpos foi recuperado."
+      "pt": "A família Andersson, composta pela Sra. Alfrida Andersson e seus cinco filhos, estava emigrando para os Estados Unidos para se reunir com o marido. Na noite do naufrágio, ficaram todos presos nos conveses inferiores e não sobreviveram. Nenhum dos corpos foi recuperado.",
+      "nl": "The Andersson Family behoort tot de slachtoffers van de ramp met de Titanic in april 1912. Deze Nederlandstalige versie wordt later aangevuld met meer achtergrondinformatie."
     }
   }
 }

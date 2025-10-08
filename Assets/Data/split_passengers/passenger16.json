@@ -8,7 +8,8 @@
       "da": "Omkommet besætningsmedlem (purser)",
       "de": "Zahlmeister",
       "it": "Cassiere",
-      "pt": "Comissário de bordo"
+      "pt": "Comissário de bordo",
+      "nl": "Passagierscommissaris"
     },
     "class": "Staff",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Hugh Walter McElroy",
       "de": "Hugh Walter McElroy",
       "it": "Hugh Walter McElroy",
-      "pt": "Hugh Walter McElroy"
+      "pt": "Hugh Walter McElroy",
+      "nl": "Hugh Walter McElroy"
     },
     "description": {
       "fr": "Hugh Walter McElroy était le chef commissaire du Titanic, responsable de la gestion du bien-être des passagers et des transactions financières à bord. McElroy était un membre expérimenté et respecté de l’équipage, ayant servi sur divers navires de la White Star Line. Ses responsabilités comprenaient la gestion des billets, la supervision du personnel et la satisfaction des passagers. Connu pour son professionnalisme et son sens du détail, McElroy jouait un rôle crucial dans le bon fonctionnement du navire. Son poste exigeait un solide leadership et d’excellentes compétences organisationnelles, faisant de lui un acteur clé du bon déroulement de la vie à bord.",
@@ -30,7 +32,8 @@
       "da": "Hugh Walter McElroy var chefpurser på Titanic med ansvar for at overvåge passagerernes trivsel og styre de økonomiske transaktioner om bord. McElroy var erfaren og et respekteret besætningsmedlem, der havde gjort tjeneste på forskellige White Star Line-skibe. Hans opgaver omfattede håndtering af billetter, personaleledelse, og han skulle sikre, at passagererne var tilfredse. McElroy var kendt for sin professionalisme og sans for detaljer og spillede en afgørende rolle i opretholdelsen af skibets drift. Hans stilling krævede lederskab og fremragende organisatoriske evner, hvilket gjorde ham til en nøglefigur i den problemfri drift af Titanic.",
       "de": "Hugh Walter McElroy war der leitende Zahlmeister auf der Titanic, der für das Wohlergehen der Passagiere und die Abwicklung der finanziellen Transaktionen an Bord verantwortlich war. McElroy war ein erfahrenes und angesehenes Mitglied der Besatzung, das bereits auf mehreren Schiffen der White Star Line gedient hatte. Zu seinen Aufgaben gehörte die Bearbeitung von Tickets, die Verwaltung des Personals und die Sicherstellung der Zufriedenheit der Passagiere. McElroy war für seine Professionalität und seine Liebe zum Detail bekannt und spielte eine entscheidende Rolle bei der Aufrechterhaltung des Schiffsbetriebs. Seine Position erforderte starke Führungsqualitäten und ausgezeichnete organisatorische Fähigkeiten, was ihn zu einer Schlüsselfigur für den reibungslosen Betrieb der Titanic machte.",
       "it": "Hugh Walter McElroy era il capo commissario sul Titanic, responsabile della supervisione del benessere dei passeggeri e della gestione delle transazioni finanziarie a bordo. McElroy era un membro esperto e rispettato dell'equipaggio, avendo servito su varie navi della White Star Line. I suoi compiti includevano la gestione dei biglietti, la gestione del personale e la garanzia della soddisfazione dei passeggeri. Conosciuto per la sua professionalità e attenzione ai dettagli, McElroy giocava un ruolo cruciale nel mantenere le operazioni della nave. La sua posizione richiedeva una forte leadership e eccellenti capacità organizzative, rendendolo una figura chiave nel funzionamento senza intoppi del Titanic.",
-      "pt": "Hugh Walter McElroy foi o Purser-Chefe do Titanic, responsável por supervisionar o bem-estar dos passageiros e gerenciar as transações financeiras a bordo. McElroy era um membro experiente e respeitado da tripulação, tendo servido em vários navios da White Star Line. Suas funções incluíam o manuseio de passagens, a gestão da equipe e a garantia da satisfação dos passageiros. Conhecido por seu profissionalismo e atenção aos detalhes, McElroy desempenhou um papel crucial na manutenção das operações do navio. Sua posição exigia forte liderança e excelentes habilidades organizacionais, tornando-o uma figura-chave para o bom funcionamento do Titanic."
+      "pt": "Hugh Walter McElroy foi o Purser-Chefe do Titanic, responsável por supervisionar o bem-estar dos passageiros e gerenciar as transações financeiras a bordo. McElroy era um membro experiente e respeitado da tripulação, tendo servido em vários navios da White Star Line. Suas funções incluíam o manuseio de passagens, a gestão da equipe e a garantia da satisfação dos passageiros. Conhecido por seu profissionalismo e atenção aos detalhes, McElroy desempenhou um papel crucial na manutenção das operações do navio. Sua posição exigia forte liderança e excelentes habilidades organizacionais, tornando-o uma figura-chave para o bom funcionamento do Titanic.",
+      "nl": "Hugh Walter McElroy maakte deel uit van de bemanning van de Titanic. Deze persoon was 37 jaar oud. Deze persoon werkte aan boord als passagierscommissaris. Deze persoon kwam om bij de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over Hugh Walter McElroy kort samen."
     },
     "postIceberg": {
       "fr": "Le chef commissaire Hugh McElroy mourut lors du naufrage. Il était responsable de la supervision de l’évacuation et de la sécurité des passagers.",
@@ -38,7 +41,8 @@
       "da": "Chefpurser Hugh McElroy omkom ved forliset. Han var ansvarlig for evakueringen og passagerernes sikkerhed.",
       "de": "Der leitende Zahlmeister Hugh McElroy kam bei dem Untergang ums Leben. Er war für die Überwachung der Evakuierung und die Sicherheit der Passagiere verantwortlich.",
       "it": "Il capo commissario Hugh McElroy morì nell'affondamento. Era responsabile della supervisione dell'evacuazione e della sicurezza dei passeggeri.",
-      "pt": "O chefe de comissários Hugh McElroy faleceu no naufrágio. Ele era responsável por supervisionar a evacuação e garantir a segurança dos passageiros."
+      "pt": "O chefe de comissários Hugh McElroy faleceu no naufrágio. Ele era responsável por supervisionar a evacuação e garantir a segurança dos passageiros.",
+      "nl": "Hugh Walter McElroy behoort tot de slachtoffers van de ramp met de Titanic in april 1912. Deze Nederlandstalige versie wordt later aangevuld met meer achtergrondinformatie."
     }
   }
 }

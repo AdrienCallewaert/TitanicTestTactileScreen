@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passagier"
     },
     "class": "3rd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "As'ad Tannūs",
       "de": "As'ad Tannūs",
       "it": "As'ad Tannūs",
-      "pt": "As'ad Tannūs"
+      "pt": "As'ad Tannūs",
+      "nl": "As'ad Tannūs"
     },
     "description": {
       "fr": "As'ad Tannūs, immigrant syrien, voyage vers les États-Unis à la recherche de meilleures perspectives économiques. Avant d’embarquer sur le Titanic, il vit en Syrie, où les opportunités sont limitées et les difficultés économiques nombreuses. Il décide d’émigrer en Amérique, espérant trouver du travail et améliorer sa vie. Tannūs économise pour son voyage et organise son départ.",
@@ -30,7 +32,8 @@
       "da": "As'ad Tannūs, syrisk immigrant, rejste til USA på jagt efter bedre økonomiske muligheder. Før han gik om bord på Titanic, boede Tannūs i Syrien, hvor han havde begrænsede fremtidsudsigter og var økonomisk trængt. Han besluttede sig for at emigrere til USA i håb om at finde arbejde og få et bedre liv. Tannūs sparede penge op til sin rejse og forberedte sig på at forlade sit hjemland. ",
       "de": "As'ad Tannūs, ein syrischer Einwanderer, reiste auf der Suche nach besseren wirtschaftlichen Möglichkeiten in die Vereinigten Staaten. Bevor er an Bord der Titanic ging, lebte Tannūs in Syrien, wo er mit schlechten Aussichten und wirtschaftlicher Not konfrontiert war. Er beschloss, nach Amerika auszuwandern, in der Hoffnung, dort Arbeit zu finden und seine Lebensqualität zu verbessern. Tannūs sparte Geld für seine Reise und traf Vorbereitungen, um sein Heimatland zu verlassen.",
       "it": "As'ad Tannūs, un immigrato siriano, stava viaggiando negli Stati Uniti in cerca di migliori opportunità economiche. Prima di imbarcarsi sul Titanic, Tannūs viveva in Siria, dove affrontava prospettive limitate e difficoltà economiche. Decise di emigrare in America, sperando di trovare lavoro e migliorare la sua qualità di vita. Tannūs risparmiò denaro per il suo viaggio e fece i preparativi per lasciare la sua terra natale.",
-      "pt": "As'ad Tannūs, um imigrante sírio, viajava para os Estados Unidos em busca de melhores oportunidades econômicas. Antes de embarcar no Titanic, Tannūs vivia na Síria, onde enfrentava perspectivas limitadas e dificuldades financeiras. Decidiu emigrar para a América na esperança de encontrar trabalho e melhorar sua qualidade de vida. Para isso, economizou dinheiro para a viagem e fez os preparativos necessários para deixar sua terra natal."
+      "pt": "As'ad Tannūs, um imigrante sírio, viajava para os Estados Unidos em busca de melhores oportunidades econômicas. Antes de embarcar no Titanic, Tannūs vivia na Síria, onde enfrentava perspectivas limitadas e dificuldades financeiras. Decidiu emigrar para a América na esperança de encontrar trabalho e melhorar sua qualidade de vida. Para isso, economizou dinheiro para a viagem e fez os preparativos necessários para deixar sua terra natal.",
+      "nl": "As'ad Tannūs reisde in de derde klasse van de Titanic. Deze persoon was 22 jaar oud. Deze persoon reisde als passagier. Deze persoon overleefde de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over As'ad Tannūs kort samen."
     },
     "postIceberg": {
       "fr": "As'ad Tannūs, immigrant syrien, voyageait en troisième classe à la recherche de meilleures opportunités économiques aux États-Unis. La nuit du naufrage, il réussit à trouver une place dans un canot et fut secouru par le Carpathia. Après la catastrophe, Tannūs s’installa aux États-Unis et travailla dur pour se construire une nouvelle vie.",
@@ -38,7 +41,8 @@
       "da": "As'ad Tannūs, syrisk immigrant, rejste på tredje klasse og søgte bedre økonomiske muligheder i USA.  På aftenen for forliset lykkedes det ham at få en plads i en redningsbåd, og han blev reddet af Carpathia. Efter katastrofen slog Tannūs sig ned i USA og arbejdede hårdt for at opbygge et nyt liv. ",
       "de": "As'ad Tannūs, ein syrischer Einwanderer, reiste in der Dritten Klasse auf der Suche nach besseren wirtschaftlichen Möglichkeiten in den Vereinigten Staaten. In der Nacht des Schiffbruchs gelang es ihm, einen Platz in einem Rettungsboot zu bekommen, und er wurde von der Carpathia gerettet. Nach der Katastrophe ließ sich Tannūs in den Vereinigten Staaten nieder und arbeitete hart, um sich ein neues Leben aufzubauen.",
       "it": "As'ad Tannūs, un immigrato siriano, stava viaggiando in terza classe in cerca di migliori opportunità economiche negli Stati Uniti. La notte del naufragio riuscì a ottenere un posto in una scialuppa di salvataggio e fu salvato dal Carpathia. Dopo il disastro, Tannūs si stabilì negli Stati Uniti e lavorò duramente per costruire una nuova vita.",
-      "pt": "Se desejar, posso ajudar a formatar esse texto para painéis, folhetos ou outros materiais educativos. Quer que eu faça isso?"
+      "pt": "Se desejar, posso ajudar a formatar esse texto para painéis, folhetos ou outros materiais educativos. Quer que eu faça isso?",
+      "nl": "Na de schipbreuk bleef As'ad Tannūs bekend als overlevende van de Titanic. Verdere details over het latere leven worden nog aangevuld in deze Nederlandstalige versie."
     }
   }
 }

@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passagier"
     },
     "class": "1st",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "William Sloper",
       "de": "William Sloper",
       "it": "William Sloper",
-      "pt": "William Sloper"
+      "pt": "William Sloper",
+      "nl": "William Sloper"
     },
     "description": {
       "fr": "William Sloper était un agent de change américain qui rentrait de vacances en Europe à bord du Titanic. Financier prospère de New Britain, Connecticut, il avait passé du temps à Paris avant d’embarquer, profitant de la vie culturelle et mondaine. Réputé pour son expertise financière et son réseau social, Sloper était une figure respectée dans sa communauté. Sur le Titanic, il voyageait en première classe, reflet de son statut aisé. Ce voyage devait être un retour détendu vers les États-Unis, où il reprendrait son activité dans la finance.",
@@ -30,7 +32,8 @@
       "da": "William Sloper var en amerikansk børsmægler, der var på vej tilbage fra ferie i Europa. Han var en succesfuld finansmand fra New Britain, Connecticut. Før han gik om bord på Titanic, tilbragte han tid i Paris, hvor han nød de kulturelle tilbud og den sociale scene. Sloper var kendt for sin finansielle ekspertise og sine sociale forbindelser, hvilket gjorde ham til en velanset person i lokalsamfundet. På Titanic rejste han på første klasse, hvilket afspejlede hans status. Hans rejse var tænkt som en afslappende hjemrejse til USA, hvor han ville genoptage sit arbejde i den finansielle sektor.",
       "de": "William Sloper war ein amerikanischer Börsenmakler, der von einer Europareise an Bord der Titanic zurückkehrte. Er war ein erfolgreicher Financier aus New Britain, Connecticut. Vor dem Boarding verbrachte er einige Zeit in Paris, wo er das kulturelle Angebot und das gesellschaftliche Leben genoss. Sloper war für sein finanzielles Fachwissen und seine sozialen Kontakte bekannt, die ihn zu einer angesehenen Persönlichkeit in seiner Gemeinde machten. Auf der Titanic reiste er in der Ersten Klasse, was seinem wohlhabenden Status entsprach. Seine Reise sollte eine erholsame Rückkehr in die Vereinigten Staaten sein, wo er seine Arbeit im Finanzsektor wieder aufnehmen würde.",
       "it": "William Sloper era un agente di borsa americano che tornava da una vacanza europea a bordo del Titanic. Era un finanziere di successo di New Britain, Connecticut. Prima di imbarcarsi, trascorse del tempo a Parigi, dove apprezzò le offerte culturali e la vita sociale. Sloper era noto per la sua esperienza finanziaria e le sue connessioni sociali, che lo rendevano una figura ben rispettata nella sua comunità. Sul Titanic viaggiava in prima classe, riflettendo il suo status agiato. Il suo viaggio doveva essere un ritorno rilassante negli Stati Uniti, dove avrebbe ripreso il suo lavoro nel settore finanziario.",
-      "pt": "William Sloper foi um corretor de ações americano que retornava de férias na Europa a bordo do Titanic. Natural de New Britain, Connecticut, Sloper era um financista bem-sucedido. Antes de embarcar, passou um tempo em Paris, aproveitando as ofertas culturais e a vida social da cidade. Conhecido por sua expertise financeira e conexões sociais, Sloper era uma figura respeitada em sua comunidade. No Titanic, viajava na primeira classe, condizente com seu status de afluência. Sua viagem tinha a intenção de ser um retorno relaxante aos Estados Unidos, onde retomaria suas atividades no setor financeiro."
+      "pt": "William Sloper foi um corretor de ações americano que retornava de férias na Europa a bordo do Titanic. Natural de New Britain, Connecticut, Sloper era um financista bem-sucedido. Antes de embarcar, passou um tempo em Paris, aproveitando as ofertas culturais e a vida social da cidade. Conhecido por sua expertise financeira e conexões sociais, Sloper era uma figura respeitada em sua comunidade. No Titanic, viajava na primeira classe, condizente com seu status de afluência. Sua viagem tinha a intenção de ser um retorno relaxante aos Estados Unidos, onde retomaria suas atividades no setor financeiro.",
+      "nl": "William Sloper reisde in de eerste klasse van de Titanic. Deze persoon was 28 jaar oud. Deze persoon reisde als passagier. Deze persoon overleefde de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over William Sloper kort samen."
     },
     "postIceberg": {
       "fr": "William Sloper, agent de change américain, survécut en embarquant dans le canot de sauvetage n°7. Il fut la cible de rumeurs selon lesquelles il se serait déguisé en femme pour s’échapper, ce qu’il nia vigoureusement. Il servit ensuite pendant la Première Guerre mondiale et poursuivit sa carrière dans la finance.",
@@ -38,7 +41,8 @@
       "da": "William Sloper, amerikansk børsmægler, overlevede ved at gå om bord i redningsbåd nr. 7. Han blev udsat for rygter om, at han havde klædt sig ud som kvinde for at komme med i en redningsbåd, hvilket han benægtede på det kraftigste. Senere deltog han i Første Verdenskrig og fortsatte derefter sin karriere i finansverdenen.",
       "de": "William Sloper, ein amerikanischer Börsenmakler, überlebte an Bord des Rettungsbootes 7. Er wurde mit Gerüchten konfrontiert, er habe sich als Frau verkleidet, um zu entkommen, was er vehement bestritt. Er diente später im Ersten Weltkrieg und setzte seine Karriere im Finanzsektor fort.",
       "it": "William Sloper, un agente di borsa americano, sopravvisse salendo sulla scialuppa di salvataggio 7. Affrontò voci di essersi travestito da donna per fuggire, che negò con veemenza. Successivamente prestò servizio nella Prima Guerra Mondiale e continuò la sua carriera nel settore finanziario.",
-      "pt": "William Sloper, corretor de ações americano, sobreviveu ao desastre ao embarcar no bote salva-vidas nº 7. Enfrentou rumores de que teria se vestido de mulher para escapar, os quais negou veementemente. Posteriormente, serviu na Primeira Guerra Mundial e continuou sua carreira no setor financeiro."
+      "pt": "William Sloper, corretor de ações americano, sobreviveu ao desastre ao embarcar no bote salva-vidas nº 7. Enfrentou rumores de que teria se vestido de mulher para escapar, os quais negou veementemente. Posteriormente, serviu na Primeira Guerra Mundial e continuou sua carreira no setor financeiro.",
+      "nl": "Na de schipbreuk bleef William Sloper bekend als overlevende van de Titanic. Verdere details over het latere leven worden nog aangevuld in deze Nederlandstalige versie."
     }
   }
 }

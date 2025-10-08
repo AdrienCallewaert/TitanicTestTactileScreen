@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passagier"
     },
     "class": "2nd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "William H. Harbeck",
       "de": "William H. Harbeck",
       "it": "William H. Harbeck",
-      "pt": "William H. Harbeck"
+      "pt": "William H. Harbeck",
+      "nl": "William H. Harbeck"
     },
     "description": {
       "fr": "William H. Harbeck (souvent désigné comme William H. Harbeck ou W. H. Harbeck) naquit en 1880 aux États-Unis (la plupart des sources indiquent l’Ohio comme lieu de naissance). Il devint un pionnier du cinéma au début du XXᵉ siècle, particulièrement connu pour ses films de scènes de rue dans diverses villes du monde. Les films de Harbeck comptent parmi les premiers témoignages cinématographiques de la vie urbaine - offrant des aperçus précieux de la vie quotidienne, de l’architecture et de la société au tournant du siècle. Sa destination était New York, où il comptait poursuivre son travail dans le domaine du cinéma. Il voyageait en compagnie d’Henriette Virginie Yvois, une jeune mannequin et actrice française. Leur relation fit l’objet de certaines spéculations. Parmi ses effets personnels retrouvés figurait un sac appartenant à Henriette Yvois, établissant un lien entre les deux passagers dans les archives historiques.",
@@ -30,7 +32,8 @@
       "da": "William H. Harbeck (ofte omtalt som William H. Harbeck eller W. H. Harbeck) blev født i 1880 i USA (de fleste kilder angiver Ohio som fødested). Han blev en pioner inden for film i begyndelsen af det 20. århundrede, især kendt for sine optagelser af gadebilleder i forskellige byer rundt om i verden. Harbecks film regnes blandt de tidligste filmiske vidnesbyrd om bylivet og giver værdifulde glimt af dagligdagen, arkitekturen og samfundet ved århundredskiftet. Hans destination var New York, hvor han havde til hensigt at fortsætte sit arbejde med film. Han rejste i selskab med Henriette Virginie Yvois, en ung fransk model og skuespillerinde. Deres forhold var genstand for en vis spekulation. Blandt hans ejendele fandtes en pung tilhørende Henriette Yvois, hvilket historisk knytter de to passagerer sammen.",
       "de": "William H. Harbeck (oft auch William H. Harbeck oder W. H. Harbeck genannt) wurde 1880 in den Vereinigten Staaten geboren (die meisten Quellen nennen Ohio als Geburtsort). Er wurde zu einem Pionier des Films im frühen 20. Jahrhundert, insbesondere bekannt für seine Straßenaufnahmen in verschiedenen Städten der Welt. Harbecks Filme zählen zu den frühesten filmischen Dokumenten des städtischen Lebens und bieten wertvolle Einblicke in den Alltag, die Architektur und die Gesellschaft um die Jahrhundertwende. Sein Ziel war New York, wo er seine Arbeit im Film fortsetzen wollte. Er reiste in Begleitung von Henriette Virginie Yvois, einem jungen französischen Model und Schauspielerin. Ihre Beziehung war Gegenstand von Spekulationen. Unter seinen Habseligkeiten befand sich eine Handtasche von Henriette Yvois, die die Verbindung der beiden Passagiere im historischen Archiv bestätigt.",
       "it": "William H. Harbeck (spesso indicato come William H. Harbeck o W. H. Harbeck) nacque nel 1880 negli Stati Uniti (la maggior parte delle fonti indica l’Ohio come luogo di nascita). Fu un pioniere del cinema all’inizio del XX secolo, conosciuto in particolare per i suoi filmati di scene di strada in diverse città del mondo. I film di Harbeck sono considerati tra le prime testimonianze cinematografiche della vita urbana, offrendo preziosi scorci della vita quotidiana, dell’architettura e della società a cavallo del secolo. La sua destinazione era New York, dove intendeva proseguire il suo lavoro nel cinema. Viaggiava in compagnia di Henriette Virginie Yvois, una giovane modella e attrice francese. La loro relazione fu oggetto di alcune speculazioni. Tra i suoi effetti personali fu trovato un borsellino appartenente a Henriette Yvois, che lega storicamente i due passeggeri.",
-      "pt": "William H. Harbeck nasceu em 1880, nos Estados Unidos (a maioria das fontes indica Ohio como local de nascimento). Tornou-se um dos pioneiros do cinema de filmagem, especialmente conhecido por registrar cenas de rua em várias cidades do mundo. Seus filmes estão entre os primeiros registros cinematográficos da vida urbana, mostrando o dia a dia, a arquitetura e a sociedade do início do século XX. Seu destino era Nova Iorque, onde pretendia continuar o trabalho no cinema. Viajava na companhia de Henriette Virginie Yvois, jovem modelo e atriz francesa, com quem tinha uma relação que foi alvo de especulação. Entre seus pertences, após o desastre, foi encontrado um objeto de Henriette, confirmando o vínculo entre os dois."
+      "pt": "William H. Harbeck nasceu em 1880, nos Estados Unidos (a maioria das fontes indica Ohio como local de nascimento). Tornou-se um dos pioneiros do cinema de filmagem, especialmente conhecido por registrar cenas de rua em várias cidades do mundo. Seus filmes estão entre os primeiros registros cinematográficos da vida urbana, mostrando o dia a dia, a arquitetura e a sociedade do início do século XX. Seu destino era Nova Iorque, onde pretendia continuar o trabalho no cinema. Viajava na companhia de Henriette Virginie Yvois, jovem modelo e atriz francesa, com quem tinha uma relação que foi alvo de especulação. Entre seus pertences, após o desastre, foi encontrado um objeto de Henriette, confirmando o vínculo entre os dois.",
+      "nl": "William H. Harbeck reisde in de tweede klasse van de Titanic. Deze persoon was 45 jaar oud. Deze persoon reisde als passagier. Deze persoon kwam om bij de ramp op de Titanic. Deze Nederlandstalige beschrijving vat de belangrijkste feiten over William H. Harbeck kort samen."
     },
     "postIceberg": {
       "fr": "William Harbeck est aujourd’hui rappelé comme un pionnier du cinéma documentaire, ayant filmé dans des villes à travers l’Europe et l’Amérique du Nord. Ses premiers films urbains sont encore étudiés de nos jours comme des documents culturels et historiques.",
@@ -38,7 +41,8 @@
       "da": "William Harbeck huskes i dag som en pioner inden for dokumentarfilm, idet han optog i byer over hele Europa og Nordamerika. Hans tidlige byfilm studeres stadig i dag som kulturelle og historiske kilder.",
       "de": "William Harbeck wird heute als Pionier des Dokumentarfilms erinnert. Er filmte in Städten in ganz Europa und Nordamerika. Seine frühen Stadtaufnahmen werden noch heute als kulturelle und historische Dokumente untersucht.",
       "it": "William Harbeck è ricordato oggi come un pioniere del cinema documentaristico, avendo girato film in città in tutta Europa e Nord America. I suoi primi film urbani sono ancora studiati come documenti culturali e storici.",
-      "pt": "Harbeck é lembrado como um pioneiro do cinema documental, tendo filmado em cidades pela Europa e América do Norte. Suas primeiras filmagens urbanas ainda são estudadas hoje como documentos culturais e históricos."
+      "pt": "Harbeck é lembrado como um pioneiro do cinema documental, tendo filmado em cidades pela Europa e América do Norte. Suas primeiras filmagens urbanas ainda são estudadas hoje como documentos culturais e históricos.",
+      "nl": "William H. Harbeck behoort tot de slachtoffers van de ramp met de Titanic in april 1912. Deze Nederlandstalige versie wordt later aangevuld met meer achtergrondinformatie."
     }
   }
 }

@@ -6,7 +6,8 @@
       "da": "Anker",
       "de": "Anker",
       "it": "Ancora",
-      "pt": "Âncora"
+      "pt": "Âncora",
+      "nl": "Anker"
     }
   },
   "electricMotor": {
@@ -16,7 +17,8 @@
       "da": "Elektrisk motor",
       "de": "Elektromotor",
       "it": "Motore elettrico",
-      "pt": "Motor elétrico"
+      "pt": "Motor elétrico",
+      "nl": "Elektrische motor"
     }
   },
   "finish": {
@@ -26,7 +28,8 @@
       "da": "Afslutning",
       "de": "Finish",
       "it": "Finitura",
-      "pt": "Acabamento"
+      "pt": "Acabamento",
+      "nl": "Afwerking"
     }
   },
   "funnel": {
@@ -36,7 +39,8 @@
       "da": "Skorsten",
       "de": "Schornstein",
       "it": "Camino",
-      "pt": "Chaminé"
+      "pt": "Chaminé",
+      "nl": "Schoorsteen"
     }
   },
   "harland": {
@@ -46,7 +50,8 @@
       "da": "Harland & Wolff",
       "de": "Harland & Wolff",
       "it": "Harland & Wolff",
-      "pt": "Harland & Wolff"
+      "pt": "Harland & Wolff",
+      "nl": "Harland & Wolff"
     }
   },
   "hull": {
@@ -56,7 +61,8 @@
       "da": "Skrog",
       "de": "Schiffsrumpf",
       "it": "Scafo",
-      "pt": "Casco"
+      "pt": "Casco",
+      "nl": "Romp"
     }
   },
   "insideConstruction": {
@@ -66,7 +72,8 @@
       "da": "Konstruktion indefra",
       "de": "Innenkonstruktion",
       "it": "Costruzione interna",
-      "pt": "Construção interna"
+      "pt": "Construção interna",
+      "nl": "Bouw binnenin"
     }
   },
   "layout": {
@@ -76,7 +83,8 @@
       "da": "Planløsning",
       "de": "Grundriss",
       "it": "Piantina",
-      "pt": "Planta"
+      "pt": "Planta",
+      "nl": "Indeling"
     }
   },
   "lifeboat": {
@@ -86,7 +94,8 @@
       "da": "Redningsbåd",
       "de": "Rettungsboot",
       "it": "Scialuppa di salvataggio",
-      "pt": "Bote salva-vidas"
+      "pt": "Bote salva-vidas",
+      "nl": "Reddingsboot"
     }
   },
   "other": {
@@ -96,7 +105,8 @@
       "da": "Andet",
       "de": "Andere",
       "it": "Altro",
-      "pt": "Outros"
+      "pt": "Outros",
+      "nl": "Overige"
     }
   },
   "outsideConstruction": {
@@ -106,7 +116,8 @@
       "da": "Konstruktion udefra",
       "de": "Außenkonstruktion",
       "it": "Costruzione esterna",
-      "pt": "Construção externa"
+      "pt": "Construção externa",
+      "nl": "Bouw buiten"
     }
   },
   "propellers": {
@@ -116,7 +127,8 @@
       "da": "Propeller",
       "de": "Schiffsschrauben",
       "it": "Eliche",
-      "pt": "Hélices"
+      "pt": "Hélices",
+      "nl": "Schroeven"
     }
   },
   "steamMotor": {
@@ -126,7 +138,8 @@
       "da": "Damp-motor",
       "de": "Dampfmotor",
       "it": "Motore a vapore",
-      "pt": "Motor a vapor"
+      "pt": "Motor a vapor",
+      "nl": "Stoommachine"
     }
   },
   "stern": {
@@ -136,7 +149,8 @@
       "da": "Agter",
       "de": "Heck",
       "it": "Poppa",
-      "pt": "Popa"
+      "pt": "Popa",
+      "nl": "Achtersteven"
     }
   },
   "stockingPlaces": {
@@ -146,7 +160,8 @@
       "da": "Opbevaringssteder",
       "de": "Bevorratungsplätze",
       "it": "Aree di stoccaggio",
-      "pt": "Áreas de armazenamento"
+      "pt": "Áreas de armazenamento",
+      "nl": "Opslagplaatsen"
     }
   },
   "ventilation": {
@@ -156,7 +171,8 @@
       "da": "Udluftning",
       "de": "Belüftung",
       "it": "Ventilazione",
-      "pt": "Ventilação"
+      "pt": "Ventilação",
+      "nl": "Ventilatie"
     }
   },
   "windows": {
@@ -166,7 +182,8 @@
       "da": "Vinduer",
       "de": "Fenster",
       "it": "Finestre",
-      "pt": "Janelas"
+      "pt": "Janelas",
+      "nl": "Ramen"
     }
   }
 }
