@@ -13,6 +13,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     ? "PagePassengersSheetsBefore.html"
     : "PagePassengersSheetsAfter.html";
 
+  const PASSENGER_CACHE_KEY = "allPassengersCache";
+  const PASSENGER_CACHE_VERSION = "1";
+  const PASSENGER_CACHE_TTL = 1000 * 60 * 60 * 12; // 12 heures
+  const FETCH_BATCH_SIZE = 24;
+
   // --- ⬇️ FIX: langue initiale fiable (localStorage -> <html lang> -> navigator) ---
   function detectInitialLang() {
     const saved = localStorage.getItem("lang");
@@ -52,6 +57,50 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   }
 
+  function getCacheStorageKey() {
+    return `${PASSENGER_CACHE_KEY}:${PASSENGER_CACHE_VERSION}`;
+  }
+
+  function loadCachedPassengers() {
+    try {
+      const raw = localStorage.getItem(getCacheStorageKey());
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (!parsed || !Array.isArray(parsed.data) || !Array.isArray(parsed.ids)) {
+        return null;
+      }
+      if (Date.now() - (parsed.timestamp || 0) > PASSENGER_CACHE_TTL) {
+        return null;
+      }
+      if (parsed.ids.length !== passengerList.length) {
+        return null;
+      }
+      for (let i = 0; i < parsed.ids.length; i += 1) {
+        if (parsed.ids[i] !== passengerList[i]) {
+          return null;
+        }
+      }
+      return parsed.data;
+    } catch (error) {
+      console.warn("⚠️ Cache passagers illisible", error);
+      return null;
+    }
+  }
+
+  function savePassengersToCache(data) {
+    try {
+      const payload = {
+        version: PASSENGER_CACHE_VERSION,
+        timestamp: Date.now(),
+        ids: [...passengerList],
+        data
+      };
+      localStorage.setItem(getCacheStorageKey(), JSON.stringify(payload));
+    } catch (error) {
+      console.warn("⚠️ Impossible d'enregistrer le cache passagers", error);
+    }
+  }
+
   // ---------- Charge l'index ----------
   async function loadIndex() {
     try {
@@ -64,17 +113,33 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // ---------- Charge tous les passagers ----------
   async function loadAllPassengers() {
-    passengerData = [];
-    for (const id of passengerList) {
-      try {
-        const res = await fetch(`Assets/Data/split_passengers/${id}.json`, { cache: "no-store" });
-        const json = await res.json();
-        const p = json[id] || json;
-        passengerData.push({ id, ...p });
-      } catch {
-        console.warn(`⚠️ Erreur pour ${id}`);
-      }
+    const cached = loadCachedPassengers();
+    if (cached) {
+      passengerData = cached;
+      return;
     }
+
+    passengerData = [];
+
+    for (let start = 0; start < passengerList.length; start += FETCH_BATCH_SIZE) {
+      const slice = passengerList.slice(start, start + FETCH_BATCH_SIZE);
+      const chunk = await Promise.all(
+        slice.map(async (id) => {
+          try {
+            const res = await fetch(`Assets/Data/split_passengers/${id}.json`, { cache: "no-store" });
+            const json = await res.json();
+            const p = json[id] || json;
+            return { id, ...p };
+          } catch (error) {
+            console.warn(`⚠️ Erreur pour ${id}`, error);
+            return null;
+          }
+        })
+      );
+      passengerData.push(...chunk.filter(Boolean));
+    }
+
+    savePassengersToCache(passengerData);
   }
 
   // ---------- Charge les traductions (titres + placeholder + msg vide) ----------
@@ -99,27 +164,49 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   }
 
+  function getTranslationText(key) {
+    if (!key) return null;
+    const normalized = typeof key === "string" ? key : String(key);
+    const entry = i18n[normalized] || i18n[normalized.toLowerCase()];
+    return entry?.text?.[lang] || null;
+  }
+
   // ---------- Applique la langue sur le titre, placeholder, etc. ----------
   function applyLanguage() {
+    document.documentElement.lang = lang;
+
     // Titre principal
     const titleKey = isBeforePage ? "pageTitleBefore" : "pageTitleAfter";
-    const titleObj = i18n[titleKey] || i18n[titleKey.toLowerCase()];
-    if (titleObj?.text?.[lang]) {
-      const txt = titleObj.text[lang];
-      document.title = txt; // onglet
-      const h1El = document.querySelector(`[data-i18n="${titleKey}"]`);
-      if (h1El) h1El.textContent = txt; // H1
+    const titleText = getTranslationText(titleKey);
+    if (titleText) {
+      document.title = titleText;
+      document
+        .querySelectorAll(`[data-i18n="${titleKey}"]`)
+        .forEach((el) => {
+          if (el.tagName === "TITLE") {
+            el.textContent = titleText;
+          } else {
+            el.textContent = titleText;
+          }
+        });
     }
 
     // Placeholder de recherche
-    const sbObj = i18n.searchBox || i18n.searchbox;
-    if (sbObj?.text?.[lang]) searchInput.placeholder = sbObj.text[lang];
+    const searchPlaceholder = getTranslationText("searchBox");
+    if (searchPlaceholder) {
+      searchInput.placeholder = searchPlaceholder;
+      document
+        .querySelectorAll('[data-i18n-placeholder="searchBox"]')
+        .forEach((el) => {
+          el.placeholder = searchPlaceholder;
+        });
+    }
 
     // Message "aucun résultat"
-    const nrObj = i18n.noResultsMessages || i18n.noresultsmessages;
-    if (nrObj?.text?.[lang]) {
+    const noResultsText = getTranslationText("noResultsMessages");
+    if (noResultsText) {
       noResults.dataset.localized = "1";
-      noResults.textContent = nrObj.text[lang];
+      noResults.textContent = noResultsText;
     } else {
       delete noResults.dataset.localized;
     }

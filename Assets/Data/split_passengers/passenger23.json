@@ -13,7 +13,7 @@
     "class": "1st",
     "survived": true,
     "image": {
-      "src": "./assets/images/Passengers/23-J-Bruce-Ismay.jpg",
+      "src": "./Assets/images/Passengers/23-J-Bruce-Ismay.jpg",
       "alt": "picture of J. Bruce Ismay"
     },
     "name": {
