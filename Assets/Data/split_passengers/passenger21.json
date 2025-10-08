@@ -8,7 +8,8 @@
       "da": "Restaurantchef for 'Ritz'-restauranten",
       "de": "Manager des 'Ritz'-Restaurants",
       "it": "Manager del ristorante 'Ritz'",
-      "pt": "Gerente do restaurante ‘Ritz’"
+      "pt": "Gerente do restaurante ‘Ritz’",
+      "nl": "Manager of the 'Ritz' restaurant"
     },
     "class": "Staff",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Luigi Gatti",
       "de": "Luigi Gatti",
       "it": "Luigi Gatti",
-      "pt": "Luigi Gatti"
+      "pt": "Luigi Gatti",
+      "nl": "Luigi Gatti"
     },
     "description": {
       "fr": "Luigi Gatti, né Gaspare Antonio Pietro Gatti le 3 janvier 1875 à Montalto Pavese, en Italie, était un homme d’affaires et restaurateur italien. Avant de rejoindre le RMS Titanic, Gatti avait déjà une carrière établie dans l’hôtellerie à Londres. Il dirigeait plusieurs établissements réputés, dont les restaurants Ritz ' Gatti’s Adelphi ' et ' Gatti’s Strand '. Sur le Titanic, Gatti était le directeur du restaurant À la Carte, également connu sous le nom de Ritz Restaurant, situé sur le pont B. Ce restaurant était réservé exclusivement aux passagers de première classe, offrant une expérience gastronomique luxueuse dans un décor de style Louis XVI. Le restaurant comprenait un salon de réception pour les apéritifs avant le dîner et un Café Parisien attenant. Les responsabilités de Gatti incluaient la gestion des opérations du restaurant et le maintien de normes de service élevées. Sa présence sur le Titanic faisait partie de la volonté de la White Star Line d’offrir une expérience culinaire sans égale à ses passagers les plus fortunés.",
@@ -30,7 +32,8 @@
       "da": "John Starr March var salonsteward om bord på RMS Titanic. March havde tidligere arbejdet på andre af White Star Lines skibe og fået værdifuld erfaring inden for service og gæstfrihed. Han var kendt for sin pålidelighed og behagelige gemyt og var et værdsat besætningsmedlem. Hans rolle på Titanic betød lange arbejdsdage og krævede stor opmærksomhed på detaljer, hvilket bidrog til den luksuriøse oplevelse for skibets velhavende passagerer.",
       "de": "John Starr March war ein Salonsteward an Bord der RMS Titanic. March hatte zuvor auf anderen Schiffen der White Star Line gearbeitet und dabei wertvolle Erfahrungen im Gastgewerbe gesammelt. Er war für seine Zuverlässigkeit und sein freundliches Auftreten bekannt und ein hochgeschätztes Mitglied der Besatzung. Seine Aufgabe auf der Titanic bestand darin, lange Arbeitszeiten zu absolvieren und mit viel Liebe zum Detail zum luxuriösen Erlebnis der wohlhabenden Reisenden auf dem Schiff beizutragen.",
       "it": "John Starr March era uno steward del salone a bordo del RMS Titanic. March aveva precedentemente lavorato su altre navi della White Star Line, acquisendo una preziosa esperienza nell'ospitalità. Conosciuto per la sua affidabilità e il suo comportamento piacevole, era un membro dell'equipaggio molto apprezzato. Il suo ruolo sul Titanic prevedeva lunghe ore e una meticolosa attenzione ai dettagli, contribuendo all'esperienza lussuosa dei facoltosi viaggiatori della nave.",
-      "pt": "Luigi Gatti, nascido Gaspare Antonio Pietro Gatti em 3 de janeiro de 1875, em Montalto Pavese, Itália, foi um empresário e restaurateur italiano. Antes de embarcar no RMS Titanic, Gatti já possuía uma carreira consolidada na indústria da hospitalidade em Londres. Ele gerenciava diversos estabelecimentos notáveis, incluindo os restaurantes Ritz ‘Gatti’s Adelphi’ e ‘Gatti’s Strand’. No Titanic, Gatti era o gerente do Restaurante À la Carte, também conhecido como Restaurante Ritz, localizado no Convés B. Esse restaurante atendia exclusivamente passageiros da primeira classe, oferecendo uma experiência gastronômica luxuosa com decoração em estilo francês Luís XVI. O restaurante contava com uma sala de recepção para bebidas pré-jantar e um anexo chamado Café Parisien. As responsabilidades de Gatti incluíam supervisionar as operações do restaurante e garantir altos padrões de serviço. Sua presença no Titanic fazia parte do esforço da White Star Line em proporcionar uma experiência gastronômica incomparável para seus passageiros mais abastados."
+      "pt": "Luigi Gatti, nascido Gaspare Antonio Pietro Gatti em 3 de janeiro de 1875, em Montalto Pavese, Itália, foi um empresário e restaurateur italiano. Antes de embarcar no RMS Titanic, Gatti já possuía uma carreira consolidada na indústria da hospitalidade em Londres. Ele gerenciava diversos estabelecimentos notáveis, incluindo os restaurantes Ritz ‘Gatti’s Adelphi’ e ‘Gatti’s Strand’. No Titanic, Gatti era o gerente do Restaurante À la Carte, também conhecido como Restaurante Ritz, localizado no Convés B. Esse restaurante atendia exclusivamente passageiros da primeira classe, oferecendo uma experiência gastronômica luxuosa com decoração em estilo francês Luís XVI. O restaurante contava com uma sala de recepção para bebidas pré-jantar e um anexo chamado Café Parisien. As responsabilidades de Gatti incluíam supervisionar as operações do restaurante e garantir altos padrões de serviço. Sua presença no Titanic fazia parte do esforço da White Star Line em proporcionar uma experiência gastronômica incomparável para seus passageiros mais abastados.",
+      "nl": "Luigi Gatti, born Gaspare Antonio Pietro Gatti on January 3, 1875, in Montalto Pavese, Italy, was an Italian businessman and restaurateur. Before joining the RMS Titanic, Gatti had an established career in the hospitality industry in London. He managed several notable establishments, including the Ritz restaurants 'Gatti's Adelphi' and 'Gatti's Strand'​.On the Titanic, Gatti was the manager of the À la Carte Restaurant, also known as the Ritz Restaurant, located on B Deck. This restaurant catered exclusively to first-class passengers, providing a luxurious dining experience with a French Louis XVI style decor. The restaurant featured a reception room for pre-dinner drinks and an adjoining Café Parisien​Gatti's responsibilities included overseeing the restaurant's operations and ensuring high service standards. His presence on the Titanic was part of the White Star Line's effort to provide an unparalleled dining experience for their most affluent passengers."
     },
     "postIceberg": {
       "fr": "Pendant le naufrage, Luigi Gatti fut vu pour la dernière fois en train d’aider des passagers à monter dans les canots de sauvetage. Gatti ne survécut pas à la catastrophe et son corps ne fut jamais retrouvé.",
@@ -38,7 +41,8 @@
       "da": "Under forliset blev Luigi Gatti sidst set hjælpe passagerer ned i redningsbådene. Gatti overlevede ikke katastrofen, og hans lig blev aldrig fundet.",
       "de": "Während des Untergangs wurde Luigi Gatti zuletzt gesehen, wie er den Passagieren in die Rettungsboote half. Gatti überlebte die Katastrophe nicht, und seine Leiche wurde nie geborgen.",
       "it": "Durante l'affondamento, Luigi Gatti fu visto per l'ultima volta mentre aiutava i passeggeri a salire sulle scialuppe di salvataggio. Gatti non sopravvisse al disastro e il suo corpo non fu mai recuperato.",
-      "pt": "Durante o naufrágio, Luigi Gatti foi visto pela última vez ajudando passageiros a embarcar nos botes salva-vidas. Ele não sobreviveu à tragédia e seu corpo nunca foi encontrado."
+      "pt": "Durante o naufrágio, Luigi Gatti foi visto pela última vez ajudando passageiros a embarcar nos botes salva-vidas. Ele não sobreviveu à tragédia e seu corpo nunca foi encontrado.",
+      "nl": "During the sinking, Luigi Gatti was last seen assisting passengers into lifeboats. Gatti did not survive the disaster, and his body was never recovered​."
     }
   }
 }

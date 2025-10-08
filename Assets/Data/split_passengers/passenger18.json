@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "3rd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Eugene Daly",
       "de": "Eugene Daly",
       "it": "Eugene Daly",
-      "pt": "Eugene Daly"
+      "pt": "Eugene Daly",
+      "nl": "Eugene Daly"
     },
     "description": {
       "fr": "Eugene Daly était un passager de troisième classe sur le Titanic, un immigrant irlandais cherchant une nouvelle vie en Amérique. Daly embarqua à Queenstown (aujourd’hui Cobh), en Irlande. Il voyageait avec d’autres émigrants, partageant des cabines exiguës dans les quartiers de troisième classe.",
@@ -30,7 +32,8 @@
       "da": "Eugene Daly var passager på tredje klasse på Titanic, en irsk immigrant, der søgte et nyt liv i Amerika.  Daly gik om bord på skibet i Queenstown (nu Cobh) i Irland. Han rejste med andre emigranter, som boede tæt sammen på tredje klasse. ",
       "de": "Eugene Daly war ein Passagier der Dritten Klasse auf der Titanic, ein irischer Einwanderer, der ein neues Leben in Amerika suchte. Daly war in Queenstown (heute Cobh), Irland, an Bord des Schiffes gegangen. Er reiste mit anderen Auswanderern zusammen und teilte sich ein enges Quartier in der Dritten Klasse.",
       "it": "Eugene Daly era un passeggero di terza classe sul Titanic, un immigrato irlandese in cerca di una nuova vita in America. Daly era salito a bordo della nave a Queenstown (ora Cobh), Irlanda. Viaggiava con altri emigranti, condividendo alloggi angusti in terza classe.",
-      "pt": "Eugene Daly era um passageiro da terceira classe no Titanic, um imigrante irlandês em busca de uma nova vida na América. Ele embarcou no navio em Queenstown (atual Cobh), na Irlanda. Viajou acompanhado de outros emigrantes, dividindo os estreitos alojamentos destinados aos passageiros da terceira classe."
+      "pt": "Eugene Daly era um passageiro da terceira classe no Titanic, um imigrante irlandês em busca de uma nova vida na América. Ele embarcou no navio em Queenstown (atual Cobh), na Irlanda. Viajou acompanhado de outros emigrantes, dividindo os estreitos alojamentos destinados aos passageiros da terceira classe.",
+      "nl": "Eugene Daly was a third-class passenger on the Titanic, an Irish immigrant seeking a new life in America.  Daly's boarded the ship in Queenstown (now Cobh), Ireland. He traveled with fellow emigrants, sharing close quarters in third-class accommodations."
     },
     "postIceberg": {
       "fr": "Pendant le naufrage, Daly se trouvait dans sa cabine de troisième classe lorsqu’il ressentit l’impact. Il parvint à s’échapper et se retrouva sur un canot pliable retourné. Il survécut à la catastrophe et fut secouru par le Carpathia. Après le Titanic, Daly émigra aux États-Unis et s’installa à New York. Il raconta souvent ses expériences de cette nuit fatidique, partageant son histoire avec sa famille et des historiens. La survie de Daly témoigne de sa résilience et de sa détermination à chercher une vie meilleure en Amérique.",
@@ -38,7 +41,8 @@
       "da": "Daly befandt sig i sin kahyt på tredje klasse, da kollisionen med isbjerget skete. Det lykkedes ham at komme ud af kahytten og op på dækket, og i vandet klamrede han sig til en kæntret redningsbåd. Han overlevede katastrofen og blev reddet af Carpathia. Efter Titanic emigrerede Daly til Amerika og slog sig ned i New York. Han fortalte ofte om sine oplevelser den skæbnesvangre nat og delte sin historie med familie og historikere. Dalys overlevelse var et vidnesbyrd om hans vedholdenhed og viljestyrke i forhold til at søge et bedre liv i Amerika.",
       "de": "Während des Untergangs befand sich Daly in seiner Kabine der Dritten Klasse, als er den Aufprall spürte. Ihm gelang die Flucht und er fand sich in einem umgestürzten Rettungsboot wieder. Er überlebte die Katastrophe und wurde von der Carpathia gerettet. Nach der Titanic wanderte Daly in die Vereinigten Staaten aus und ließ sich in New York nieder. Er erzählte oft von seinen Erlebnissen in dieser schicksalhaften Nacht und teilte seine Geschichte mit seiner Familie und Historikern. Dass Daly überlebte, zeugte von seinem Durchhaltevermögen und seiner Entschlossenheit, in Amerika ein besseres Leben zu suchen.",
       "it": "Durante l'affondamento, Daly era nella sua cabina di terza classe quando sentì l'impatto. Riuscì a scappare e si trovò su una scialuppa pieghevole capovolta. Sopravvisse al disastro e fu salvato dalla Carpathia. Dopo il Titanic, Daly emigrò negli Stati Uniti e si stabilì a New York. Spesso raccontava le sue esperienze di quella fatidica notte, condividendo la sua storia con la famiglia e gli storici. La sopravvivenza di Daly fu una testimonianza della sua resilienza e determinazione a cercare una vita migliore in America.",
-      "pt": "Durante o naufrágio, Daly estava em sua cabine de terceira classe quando sentiu o impacto. Ele conseguiu escapar e encontrou-se em um bote salva-vidas dobrável virado. Sobreviveu ao desastre e foi resgatado pelo Carpathia. Após o Titanic, Daly emigrou para os Estados Unidos e estabeleceu-se em Nova York. Frequentemente, relatava suas experiências daquela noite fatídica, compartilhando sua história com familiares e historiadores. A sobrevivência de Daly foi um testemunho de sua resiliência e determinação em buscar uma vida melhor na América."
+      "pt": "Durante o naufrágio, Daly estava em sua cabine de terceira classe quando sentiu o impacto. Ele conseguiu escapar e encontrou-se em um bote salva-vidas dobrável virado. Sobreviveu ao desastre e foi resgatado pelo Carpathia. Após o Titanic, Daly emigrou para os Estados Unidos e estabeleceu-se em Nova York. Frequentemente, relatava suas experiências daquela noite fatídica, compartilhando sua história com familiares e historiadores. A sobrevivência de Daly foi um testemunho de sua resiliência e determinação em buscar uma vida melhor na América.",
+      "nl": "During the sinking, Daly was in his third-class cabin when he felt the impact. He managed to escape and found himself on an overturned collapsible lifeboat. He survived the disaster and was rescued by the Carpathia. After the Titanic, Daly emigrated to the United States and settled in New York. He often recounted his experiences of that fateful night, sharing his story with family and historians. Daly's survival was a testament to his resilience and determination to seek a better life in America​."
     }
   }
 }

@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "3rd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Mohamed Badt",
       "de": "Mohamed Badt",
       "it": "Mohamed Badt",
-      "pt": "Mohamed Badt"
+      "pt": "Mohamed Badt",
+      "nl": "Mohamed Badt"
     },
     "description": {
       "fr": "Mohamed Badt, 40 ans, est un agriculteur originaire de Syrie (aujourd’hui Liban). Il embarque à Cherbourg comme passager de troisième classe sur le Titanic.",
@@ -30,7 +32,8 @@
       "da": "Mohamed Badt, 40 år, var en landmand fra Syrien (nu Libanon). Han gik om bord på Titanic i Cherbourg som passager på tredje klasse.",
       "de": "Mohamed Badt, 40, war ein Landwirt aus Syrien (heute Libanon). Er ging als Passagier der Dritten Klasse in Cherbourg an Bord der Titanic.",
       "it": "Mohamed Badt, 40 anni, era un contadino della Siria (ora Libano). Si imbarcò sul Titanic come passeggero di terza classe a Cherbourg.",
-      "pt": "Mohamed Badt, de 40 anos, era um agricultor da Síria (atual Líbano). Seu destino eram os Estados Unidos, quase certamente Nova Iorque, que na época abrigava um próspero bairro de imigrantes do Oriente Médio conhecido como “Little Syria.” A partir dali, muitos imigrantes se estabeleciam em pequenos negócios, no comércio ambulante e em diferentes ofícios, sustentando suas famílias tanto na América quanto em suas terras natais por meio do envio de remessas."
+      "pt": "Mohamed Badt, de 40 anos, era um agricultor da Síria (atual Líbano). Seu destino eram os Estados Unidos, quase certamente Nova Iorque, que na época abrigava um próspero bairro de imigrantes do Oriente Médio conhecido como “Little Syria.” A partir dali, muitos imigrantes se estabeleciam em pequenos negócios, no comércio ambulante e em diferentes ofícios, sustentando suas famílias tanto na América quanto em suas terras natais por meio do envio de remessas.",
+      "nl": "Mohamed Badt, 40, was a farmer from Syria (now Lebanon). He  boarded Titanic as a third class passenger at Cherbourg."
     },
     "postIceberg": {
       "fr": "Mohamed Badt, agriculteur syrien, embarqua sur le Titanic en troisième classe. Il ne survécut pas au naufrage et son corps ne fut jamais retrouvé.",
@@ -38,7 +41,8 @@
       "da": "Mohamed Badt, syrisk landmand, gik om bord på Titanic som passager på tredje klasse. Han overlevede ikke forliset, og hans lig blev aldrig fundet.",
       "de": "Mohamed Badt, ein syrischer Bauer, ging als Passagier der Dritten Klasse an Bord der Titanic. Er überlebte den Schiffbruch nicht und seine Leiche wurde nie geborgen.",
       "it": "Mohamed Badt, un contadino siriano, salì sul Titanic come passeggero di terza classe. Non sopravvisse al naufragio e il suo corpo non fu mai recuperato.",
-      "pt": "Mohamed Badt, agricultor sírio, embarcou no Titanic como passageiro da Terceira Classe. Ele não sobreviveu ao naufrágio, e seu corpo nunca foi recuperado."
+      "pt": "Mohamed Badt, agricultor sírio, embarcou no Titanic como passageiro da Terceira Classe. Ele não sobreviveu ao naufrágio, e seu corpo nunca foi recuperado.",
+      "nl": "Mohamed Badt, a Syrian farmer, boarded the Titanic as a third-class passenger. He did not survive the sinking, and his body was never recovered."
     }
   }
 }

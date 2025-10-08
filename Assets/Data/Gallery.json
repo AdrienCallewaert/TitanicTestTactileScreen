@@ -6,7 +6,8 @@
       "da": "Titanics søsætning",
       "de": "Stapellauf der Titanic",
       "it": "Varo del Titanic",
-      "pt": "Lançamento do Titanic"
+      "pt": "Lançamento do Titanic",
+      "nl": "Te waterlating van de Titanic"
     }
   },
   "pagetitlegallery": {
@@ -16,7 +17,8 @@
       "da": "Vælg et Galleri",
       "de": "Wählen Sie eine Galerie",
       "it": "Scegli una Galleria",
-      "pt": "Escolha uma Galeria"
+      "pt": "Escolha uma Galeria",
+      "nl": "Kies een galerij"
     }
   },
   "pagetitleconstruction": {
@@ -26,7 +28,8 @@
       "da": "Byggeriet af Titanic",
       "de": "Bau der Titanic",
       "it": "Costruzione del Titanic",
-      "pt": "Construção do Titanic"
+      "pt": "Construção do Titanic",
+      "nl": "Bouw van de Titanic"
     }
   },
   "pagetitlelancement": {
@@ -36,7 +39,8 @@
       "da": "Titanics søsætning",
       "de": "Stapellauf der Titanic",
       "it": "Varo del Titanic",
-      "pt": "Lançamento do Titanic"
+      "pt": "Lançamento do Titanic",
+      "nl": "Te waterlating van de Titanic"
     }
   },
   "constructiontitle": {
@@ -46,7 +50,8 @@
       "da": "Konstruktion",
       "de": "Bau",
       "it": "Costruzione",
-      "pt": "Construção"
+      "pt": "Construção",
+      "nl": "Bouw"
     }
   },
   "launchingtitle": {
@@ -56,7 +61,8 @@
       "da": "Søsætning",
       "de": "Stapellauf",
       "it": "Lancio",
-      "pt": "Lançamento"
+      "pt": "Lançamento",
+      "nl": "Te waterlating"
     }
   },
   "pagetitlebefore": {
@@ -66,7 +72,8 @@
       "de": "Passagiere vor der Katastrophe",
       "da": "Passagerer før katastrofen",
       "it": "Passeggeri prima del disastro",
-      "pt": "Passageiros antes do desastre"
+      "pt": "Passageiros antes do desastre",
+      "nl": "Passagiers vóór de ramp"
     }
   },
   "pagetitleafter": {
@@ -76,62 +83,580 @@
       "de": "Passagiere nach der Katastrophe",
       "da": "Passagerer efter katastrofen",
       "it": "Passeggeri dopo il disastro",
-      "pt": "Passageiros após o desastre"
+      "pt": "Passageiros após o desastre",
+      "nl": "Passagiers na de ramp"
     }
   },
-
-  "titleharland": { "text": { "fr": "Harland & Wolff", "en": "Harland & Wolff", "da": "Harland & Wolff", "de": "Harland & Wolff", "it": "Harland & Wolff", "pt": "Harland & Wolff" } },
-  "titleinsideconstruction": { "text": { "fr": "Construction intérieure", "en": "Construction Inside", "da": "Konstruktion indefra", "de": "Innenkonstruktion", "it": "Costruzione interna", "pt": "Construção interna" } },
-  "titleoutsideconstruction": { "text": { "fr": "Construction extérieure", "en": "Construction Outside", "da": "Konstruktion udefra", "de": "Außenkonstruktion", "it": "Costruzione esterna", "pt": "Construção externa" } },
-  "titlehull": { "text": { "fr": "Coque", "en": "Hull", "da": "Skrog", "de": "Schiffsrumpf", "it": "Scafo", "pt": "Casco" } },
-  "titlefunnel": { "text": { "fr": "Cheminée", "en": "Funnel", "da": "Skorsten", "de": "Schornstein", "it": "Camino", "pt": "Chaminé" } },
-  "titlestern": { "text": { "fr": "Poupe", "en": "Stern", "da": "Agter", "de": "Heck", "it": "Poppa", "pt": "Popa" } },
-  "titlepropellers": { "text": { "fr": "Propulseurs", "en": "Propellers", "da": "Propeller", "de": "Schiffschrauben", "it": "Eliche", "pt": "Hélices" } },
-  "titleelectricmotor": { "text": { "fr": "Moteur électrique", "en": "Electric Motor", "da": "Elektrisk motor", "de": "Elektromotor", "it": "Motore elettrico", "pt": "Motor elétrico" } },
-  "titlesteammotor": { "text": { "fr": "Moteur à vapeur", "en": "Steam Motor", "da": "Damp-motor", "de": "Dampfmotor", "it": "Motore a vapore", "pt": "Motor a vapor" } },
-  "titleventilation": { "text": { "fr": "Ventilation", "en": "Ventilation", "da": "Udluftning", "de": "Belüftung", "it": "Ventilazione", "pt": "Ventilação" } },
-  "titlewindows": { "text": { "fr": "Fenêtres & Hublots", "en": "Windows & Porthole", "da": "Vinduer & Koøjer", "de": "Fenster & Bullaugen", "it": "Finestre e oblò", "pt": "Janelas e vigias" } },
-  "titleanchor": { "text": { "fr": "Ancre", "en": "Anchor", "da": "Anker", "de": "Anker", "it": "Ancora", "pt": "Âncora" } },
-  "titlelifeboat": { "text": { "fr": "Bateau de sauvetage", "en": "Lifeboat", "da": "Redningsbåd", "de": "Rettungsboot", "it": "Scialuppa di salvataggio", "pt": "Bote salva-vidas" } },
-  "titlefinish": { "text": { "fr": "Finitions", "en": "Finish", "da": "Afslutning", "de": "Finish", "it": "Finitura", "pt": "Acabamento" } },
-  "titlelayout": { "text": { "fr": "Disposition", "en": "Layout", "da": "Planløsning", "de": "Grundriss", "it": "Disposizione", "pt": "Disposição" } },
-  "titlestockingplaces": { "text": { "fr": "Lieux de stockage", "en": "Stocking Places", "da": "Opbevaringssteder", "de": "Bevorratungsplätze", "it": "Luoghi di stoccaggio", "pt": "Locais de armazenamento" } },
-  "titleother": { "text": { "fr": "Autre", "en": "Other", "da": "Andet", "de": "Andere", "it": "Altro", "pt": "Outro" } },
-
-  "titlecabin1st": { "text": { "fr": "Cabine 1ère classe", "en": "Cabin 1st", "da": "Kahyt 1.Klasse", "de": "Kabine 1 Klasse", "it": "Cabina 1 Classe", "pt": "Cabine de 1ª classe" } },
-  "titlecabin2nd": { "text": { "fr": "Cabine 2ème classe", "en": "Cabin 2nd", "da": "Kahyt 2.Klasse", "de": "Kabine 2 Klasse", "it": "Cabina di seconda Classe", "pt": "Cabine de 2ª classe" } },
-  "titlecabin3rd": { "text": { "fr": "Cabine 3ème classe", "en": "Cabin 3rd", "da": "Kahyt 3.Klasse", "de": "Kabine 3 Klasse", "it": "Cabina di terza Classe", "pt": "Cabine de 3ª classe" } },
-  "titledinner1st": { "text": { "fr": "Salle à manger 1ère classe", "en": "Dinner 1st", "da": "Spisesal 1.Klasse", "de": "Speisesaal 1 Klasse", "it": "Sala da pranzo 1 Classe", "pt": "Sala de jantar 1ª classe" } },
-  "titledinner2nd": { "text": { "fr": "Salle à manger 2ème classe", "en": "Dinner 2nd", "da": "Spisesal 2.Klasse", "de": "Speisesaal 2 Klasse", "it": "Sala da pranzo di seconda Classe", "pt": "Sala de jantar 2ª classe" } },
-  "titledinner3rd": { "text": { "fr": "Salle à manger 3ème classe", "en": "Dinner 3rd", "da": "Spisesal 3.Klasse", "de": "Speisesaal 3 Klasse", "it": "Sala da pranzo terza Classe", "pt": "Sala de jantar 3ª classe" } },
-  "titleporcelaine": { "text": { "fr": "Porcelaine", "en": "Porcelaine", "da": "Porcelaen", "de": "Porzellan", "it": "Porcellane", "pt": "Porcelana" } },
-  "titlerestaurant": { "text": { "fr": "Restaurant", "en": "Restaurant", "da": "Restaurant", "de": "Restaurant", "it": "Ristorante", "pt": "Restaurante" } },
-  "titlebarber": { "text": { "fr": "Barbier", "en": "Barber", "da": "Barber", "de": "Barbier", "it": "Barbiere", "pt": "Barbeiro" } },
-  "titleelevator": { "text": { "fr": "Ascenseur", "en": "Elevator", "da": "Lift", "de": "Aufzug", "it": "Ascensore", "pt": "Elevador" } },
-  "titlegym": { "text": { "fr": "Gymnase", "en": "Gym", "da": "Træningslokale", "de": "Fitnessraum", "it": "Palestra", "pt": "Ginásio" } },
-  "titlesquash": { "text": { "fr": "Squash", "en": "Squash", "da": "Squash", "de": "Squash", "it": "Squash", "pt": "Squash" } },
-  "titleswimmingpool": { "text": { "fr": "Piscine", "en": "Swimming Pool", "da": "Svømmehal", "de": "Schwimmbecken", "it": "Piscina", "pt": "Piscina" } },
-  "titleturkishbath": { "text": { "fr": "Bain turc", "en": "Turkish Bath", "da": "Tyrkisk Bad", "de": "Türkisches Bad", "it": "Bagno turco", "pt": "Banho turco" } },
-  "titleonthedeck": { "text": { "fr": "Sur le pont", "en": "On the Deck", "da": "På dækket", "de": "Auf dem Deck", "it": "Sul ponte", "pt": "No convés" } },
-  "titlecafeparisien": { "text": { "fr": "Café Parisien", "en": "Cafe Parisien", "da": "PariserCafe", "de": "Pariser Café", "it": "Caffè Parisien", "pt": "Café Parisien" } },
-  "titleverandacafe": { "text": { "fr": "Véranda Café", "en": "Veranda Cafe", "da": "Verandacafe", "de": "Veranda Café", "it": "Veranda Cafe", "pt": "Café Veranda" } },
-  "titlelounge1st": { "text": { "fr": "Lounge 1ère classe", "en": "Lounge 1st", "da": "Lounge 1.Klasse", "de": "Lounge 1 Klasse", "it": "Lounge 1ª Classe", "pt": "Lounge 1ª classe" } },
-  "titlelounge2nd": { "text": { "fr": "Lounge 2ème classe", "en": "Lounge 2nd", "da": "Lounge 2.Klasse", "de": "Lounge 2 Klasse", "it": "Lounge 2ª Classe", "pt": "Lounge 2ª classe" } },
-  "titlereading": { "text": { "fr": "Salle de lecture et d'écriture", "en": "Reading & Writing", "da": "Læse- og skriverum", "de": "Lesen und Schreiben", "it": "Sala lettura e scrittura", "pt": "Sala de leitura e escrita" } },
-  "titlereceptionroom": { "text": { "fr": "Salle de réception", "en": "Reception Room", "da": "Modtagelsesværelse", "de": "Empfangsraum", "it": "Sala Ricevimento", "pt": "Sala de recepção" } },
-  "titlesittingroom": { "text": { "fr": "Salle de séjour", "en": "Sitting Room", "da": "Opholdsstue", "de": "Salon", "it": "Salotto", "pt": "Sala de estar" } },
-  "titlesmokeroom1st": { "text": { "fr": "Fumoir 1ère classe", "en": "Smoke Room 1st", "da": "Rygestue 1.Klasse", "de": "Rauchzimmer 1 Klasse", "it": "Sala fumatori 1ª classe", "pt": "Sala de fumadores 1ª classe" } },
-  "titlesmokeroom2nd": { "text": { "fr": "Fumoir 2ème classe", "en": "Smoke Room 2nd", "da": "Rygestue 2.Klasse", "de": "Rauchzimmer 2 Klasse", "it": "Sala fumatori 2ª classe", "pt": "Sala de fumadores 2ª classe" } },
-  "titlesmokeroom3rd": { "text": { "fr": "Fumoir 3ème classe", "en": "Smoke Room 3rd", "da": "Rygestue 3.Klasse", "de": "Rauchzimmer 3 Klasse", "it": "Sala fumatori 3ª classe", "pt": "Sala de fumadores 3ª classe" } },
-  "titlestaircase": { "text": { "fr": "Escalier", "en": "Staircase", "da": "Trappe", "de": "Treppe", "it": "Scala", "pt": "Escada" } },
-  "titlegrandstaircase": { "text": { "fr": "Grand escalier", "en": "Grand Staircase", "da": "Stor trappe", "de": "Prunktreppe", "it": "Grande scalone", "pt": "Grande escadaria" } },
-  "titlemailservice": { "text": { "fr": "Service postal", "en": "Mail Service", "da": "Postservice", "de": "Postdienst", "it": "Ufficio postale", "pt": "Serviço postal" } },
-  "titlemarconitelegram": { "text": { "fr": "Télégramme de Marconi", "en": "Marconi Telegram", "da": "Marconi Telegram", "de": "Marconi Telegramm", "it": "Sala Marconi", "pt": "Telegrama Marconi" } },
-  "titlekitchen": { "text": { "fr": "Cuisine", "en": "Kitchen", "da": "Køkken", "de": "Küche", "it": "Cucine", "pt": "Cozinha" } },
-  "titledeparture": { "text": { "fr": "Départ", "en": "Departure", "da": "Afrejse", "de": "Abfahrt", "it": "Partenza", "pt": "Partida" } },
-  "titleaftermath": { "text": { "fr": "Conséquences", "en": "Aftermath", "da": "Eftervirkninger", "de": "Nachwirkungen", "it": "Conseguenze", "pt": "Consequências" } },
-  "titlewreck": { "text": { "fr": "Épave", "en": "Wreck", "da": "Vrag", "de": "Wrack", "it": "Relitto", "pt": "Naufrágio" } },
-
-  "titleall": { "text": { "fr": "Tout", "en": "All", "da": "Alle", "de": "Alle", "it": "Tutto", "pt": "Tudo" } },
-  "goback": { "text": { "fr": "Retour", "en": "Back", "da": "Tilbage", "de": "Zurück", "it": "Indietro", "pt": "Voltar" } }
+  "titleharland": {
+    "text": {
+      "fr": "Harland & Wolff",
+      "en": "Harland & Wolff",
+      "da": "Harland & Wolff",
+      "de": "Harland & Wolff",
+      "it": "Harland & Wolff",
+      "pt": "Harland & Wolff",
+      "nl": "Harland & Wolff"
+    }
+  },
+  "titleinsideconstruction": {
+    "text": {
+      "fr": "Construction intérieure",
+      "en": "Construction Inside",
+      "da": "Konstruktion indefra",
+      "de": "Innenkonstruktion",
+      "it": "Costruzione interna",
+      "pt": "Construção interna",
+      "nl": "Bouw binnenin"
+    }
+  },
+  "titleoutsideconstruction": {
+    "text": {
+      "fr": "Construction extérieure",
+      "en": "Construction Outside",
+      "da": "Konstruktion udefra",
+      "de": "Außenkonstruktion",
+      "it": "Costruzione esterna",
+      "pt": "Construção externa",
+      "nl": "Bouw buiten"
+    }
+  },
+  "titlehull": {
+    "text": {
+      "fr": "Coque",
+      "en": "Hull",
+      "da": "Skrog",
+      "de": "Schiffsrumpf",
+      "it": "Scafo",
+      "pt": "Casco",
+      "nl": "Romp"
+    }
+  },
+  "titlefunnel": {
+    "text": {
+      "fr": "Cheminée",
+      "en": "Funnel",
+      "da": "Skorsten",
+      "de": "Schornstein",
+      "it": "Camino",
+      "pt": "Chaminé",
+      "nl": "Schoorsteen"
+    }
+  },
+  "titlestern": {
+    "text": {
+      "fr": "Poupe",
+      "en": "Stern",
+      "da": "Agter",
+      "de": "Heck",
+      "it": "Poppa",
+      "pt": "Popa",
+      "nl": "Achtersteven"
+    }
+  },
+  "titlepropellers": {
+    "text": {
+      "fr": "Propulseurs",
+      "en": "Propellers",
+      "da": "Propeller",
+      "de": "Schiffschrauben",
+      "it": "Eliche",
+      "pt": "Hélices",
+      "nl": "Schroeven"
+    }
+  },
+  "titleelectricmotor": {
+    "text": {
+      "fr": "Moteur électrique",
+      "en": "Electric Motor",
+      "da": "Elektrisk motor",
+      "de": "Elektromotor",
+      "it": "Motore elettrico",
+      "pt": "Motor elétrico",
+      "nl": "Elektrische motor"
+    }
+  },
+  "titlesteammotor": {
+    "text": {
+      "fr": "Moteur à vapeur",
+      "en": "Steam Motor",
+      "da": "Damp-motor",
+      "de": "Dampfmotor",
+      "it": "Motore a vapore",
+      "pt": "Motor a vapor",
+      "nl": "Stoommachine"
+    }
+  },
+  "titleventilation": {
+    "text": {
+      "fr": "Ventilation",
+      "en": "Ventilation",
+      "da": "Udluftning",
+      "de": "Belüftung",
+      "it": "Ventilazione",
+      "pt": "Ventilação",
+      "nl": "Ventilatie"
+    }
+  },
+  "titlewindows": {
+    "text": {
+      "fr": "Fenêtres & Hublots",
+      "en": "Windows & Porthole",
+      "da": "Vinduer & Koøjer",
+      "de": "Fenster & Bullaugen",
+      "it": "Finestre e oblò",
+      "pt": "Janelas e vigias",
+      "nl": "Ramen en patrijspoorten"
+    }
+  },
+  "titleanchor": {
+    "text": {
+      "fr": "Ancre",
+      "en": "Anchor",
+      "da": "Anker",
+      "de": "Anker",
+      "it": "Ancora",
+      "pt": "Âncora",
+      "nl": "Anker"
+    }
+  },
+  "titlelifeboat": {
+    "text": {
+      "fr": "Bateau de sauvetage",
+      "en": "Lifeboat",
+      "da": "Redningsbåd",
+      "de": "Rettungsboot",
+      "it": "Scialuppa di salvataggio",
+      "pt": "Bote salva-vidas",
+      "nl": "Reddingsboot"
+    }
+  },
+  "titlefinish": {
+    "text": {
+      "fr": "Finitions",
+      "en": "Finish",
+      "da": "Afslutning",
+      "de": "Finish",
+      "it": "Finitura",
+      "pt": "Acabamento",
+      "nl": "Afwerking"
+    }
+  },
+  "titlelayout": {
+    "text": {
+      "fr": "Disposition",
+      "en": "Layout",
+      "da": "Planløsning",
+      "de": "Grundriss",
+      "it": "Disposizione",
+      "pt": "Disposição",
+      "nl": "Indeling"
+    }
+  },
+  "titlestockingplaces": {
+    "text": {
+      "fr": "Lieux de stockage",
+      "en": "Stocking Places",
+      "da": "Opbevaringssteder",
+      "de": "Bevorratungsplätze",
+      "it": "Luoghi di stoccaggio",
+      "pt": "Locais de armazenamento",
+      "nl": "Opslagplaatsen"
+    }
+  },
+  "titleother": {
+    "text": {
+      "fr": "Autre",
+      "en": "Other",
+      "da": "Andet",
+      "de": "Andere",
+      "it": "Altro",
+      "pt": "Outro",
+      "nl": "Overige"
+    }
+  },
+  "titlecabin1st": {
+    "text": {
+      "fr": "Cabine 1ère classe",
+      "en": "Cabin 1st",
+      "da": "Kahyt 1.Klasse",
+      "de": "Kabine 1 Klasse",
+      "it": "Cabina 1 Classe",
+      "pt": "Cabine de 1ª classe",
+      "nl": "Hut 1e klas"
+    }
+  },
+  "titlecabin2nd": {
+    "text": {
+      "fr": "Cabine 2ème classe",
+      "en": "Cabin 2nd",
+      "da": "Kahyt 2.Klasse",
+      "de": "Kabine 2 Klasse",
+      "it": "Cabina di seconda Classe",
+      "pt": "Cabine de 2ª classe",
+      "nl": "Hut 2e klas"
+    }
+  },
+  "titlecabin3rd": {
+    "text": {
+      "fr": "Cabine 3ème classe",
+      "en": "Cabin 3rd",
+      "da": "Kahyt 3.Klasse",
+      "de": "Kabine 3 Klasse",
+      "it": "Cabina di terza Classe",
+      "pt": "Cabine de 3ª classe",
+      "nl": "Hut 3e klas"
+    }
+  },
+  "titledinner1st": {
+    "text": {
+      "fr": "Salle à manger 1ère classe",
+      "en": "Dinner 1st",
+      "da": "Spisesal 1.Klasse",
+      "de": "Speisesaal 1 Klasse",
+      "it": "Sala da pranzo 1 Classe",
+      "pt": "Sala de jantar 1ª classe",
+      "nl": "Eetzaal 1e klas"
+    }
+  },
+  "titledinner2nd": {
+    "text": {
+      "fr": "Salle à manger 2ème classe",
+      "en": "Dinner 2nd",
+      "da": "Spisesal 2.Klasse",
+      "de": "Speisesaal 2 Klasse",
+      "it": "Sala da pranzo di seconda Classe",
+      "pt": "Sala de jantar 2ª classe",
+      "nl": "Eetzaal 2e klas"
+    }
+  },
+  "titledinner3rd": {
+    "text": {
+      "fr": "Salle à manger 3ème classe",
+      "en": "Dinner 3rd",
+      "da": "Spisesal 3.Klasse",
+      "de": "Speisesaal 3 Klasse",
+      "it": "Sala da pranzo terza Classe",
+      "pt": "Sala de jantar 3ª classe",
+      "nl": "Eetzaal 3e klas"
+    }
+  },
+  "titleporcelaine": {
+    "text": {
+      "fr": "Porcelaine",
+      "en": "Porcelaine",
+      "da": "Porcelaen",
+      "de": "Porzellan",
+      "it": "Porcellane",
+      "pt": "Porcelana",
+      "nl": "Porselein"
+    }
+  },
+  "titlerestaurant": {
+    "text": {
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "da": "Restaurant",
+      "de": "Restaurant",
+      "it": "Ristorante",
+      "pt": "Restaurante",
+      "nl": "Restaurant"
+    }
+  },
+  "titlebarber": {
+    "text": {
+      "fr": "Barbier",
+      "en": "Barber",
+      "da": "Barber",
+      "de": "Barbier",
+      "it": "Barbiere",
+      "pt": "Barbeiro",
+      "nl": "Barbier"
+    }
+  },
+  "titleelevator": {
+    "text": {
+      "fr": "Ascenseur",
+      "en": "Elevator",
+      "da": "Lift",
+      "de": "Aufzug",
+      "it": "Ascensore",
+      "pt": "Elevador",
+      "nl": "Lift"
+    }
+  },
+  "titlegym": {
+    "text": {
+      "fr": "Gymnase",
+      "en": "Gym",
+      "da": "Træningslokale",
+      "de": "Fitnessraum",
+      "it": "Palestra",
+      "pt": "Ginásio",
+      "nl": "Gymzaal"
+    }
+  },
+  "titlesquash": {
+    "text": {
+      "fr": "Squash",
+      "en": "Squash",
+      "da": "Squash",
+      "de": "Squash",
+      "it": "Squash",
+      "pt": "Squash",
+      "nl": "Squash"
+    }
+  },
+  "titleswimmingpool": {
+    "text": {
+      "fr": "Piscine",
+      "en": "Swimming Pool",
+      "da": "Svømmehal",
+      "de": "Schwimmbecken",
+      "it": "Piscina",
+      "pt": "Piscina",
+      "nl": "Zwembad"
+    }
+  },
+  "titleturkishbath": {
+    "text": {
+      "fr": "Bain turc",
+      "en": "Turkish Bath",
+      "da": "Tyrkisk Bad",
+      "de": "Türkisches Bad",
+      "it": "Bagno turco",
+      "pt": "Banho turco",
+      "nl": "Turks bad"
+    }
+  },
+  "titleonthedeck": {
+    "text": {
+      "fr": "Sur le pont",
+      "en": "On the Deck",
+      "da": "På dækket",
+      "de": "Auf dem Deck",
+      "it": "Sul ponte",
+      "pt": "No convés",
+      "nl": "Op het dek"
+    }
+  },
+  "titlecafeparisien": {
+    "text": {
+      "fr": "Café Parisien",
+      "en": "Cafe Parisien",
+      "da": "PariserCafe",
+      "de": "Pariser Café",
+      "it": "Caffè Parisien",
+      "pt": "Café Parisien",
+      "nl": "Café Parisien"
+    }
+  },
+  "titleverandacafe": {
+    "text": {
+      "fr": "Véranda Café",
+      "en": "Veranda Cafe",
+      "da": "Verandacafe",
+      "de": "Veranda Café",
+      "it": "Veranda Cafe",
+      "pt": "Café Veranda",
+      "nl": "Veranda Café"
+    }
+  },
+  "titlelounge1st": {
+    "text": {
+      "fr": "Lounge 1ère classe",
+      "en": "Lounge 1st",
+      "da": "Lounge 1.Klasse",
+      "de": "Lounge 1 Klasse",
+      "it": "Lounge 1ª Classe",
+      "pt": "Lounge 1ª classe",
+      "nl": "Salon 1e klas"
+    }
+  },
+  "titlelounge2nd": {
+    "text": {
+      "fr": "Lounge 2ème classe",
+      "en": "Lounge 2nd",
+      "da": "Lounge 2.Klasse",
+      "de": "Lounge 2 Klasse",
+      "it": "Lounge 2ª Classe",
+      "pt": "Lounge 2ª classe",
+      "nl": "Salon 2e klas"
+    }
+  },
+  "titlereading": {
+    "text": {
+      "fr": "Salle de lecture et d'écriture",
+      "en": "Reading & Writing",
+      "da": "Læse- og skriverum",
+      "de": "Lesen und Schreiben",
+      "it": "Sala lettura e scrittura",
+      "pt": "Sala de leitura e escrita",
+      "nl": "Lees- en schrijfzaal"
+    }
+  },
+  "titlereceptionroom": {
+    "text": {
+      "fr": "Salle de réception",
+      "en": "Reception Room",
+      "da": "Modtagelsesværelse",
+      "de": "Empfangsraum",
+      "it": "Sala Ricevimento",
+      "pt": "Sala de recepção",
+      "nl": "Ontvangstzaal"
+    }
+  },
+  "titlesittingroom": {
+    "text": {
+      "fr": "Salle de séjour",
+      "en": "Sitting Room",
+      "da": "Opholdsstue",
+      "de": "Salon",
+      "it": "Salotto",
+      "pt": "Sala de estar",
+      "nl": "Zitkamer"
+    }
+  },
+  "titlesmokeroom1st": {
+    "text": {
+      "fr": "Fumoir 1ère classe",
+      "en": "Smoke Room 1st",
+      "da": "Rygestue 1.Klasse",
+      "de": "Rauchzimmer 1 Klasse",
+      "it": "Sala fumatori 1ª classe",
+      "pt": "Sala de fumadores 1ª classe",
+      "nl": "Rooksalon 1e klas"
+    }
+  },
+  "titlesmokeroom2nd": {
+    "text": {
+      "fr": "Fumoir 2ème classe",
+      "en": "Smoke Room 2nd",
+      "da": "Rygestue 2.Klasse",
+      "de": "Rauchzimmer 2 Klasse",
+      "it": "Sala fumatori 2ª classe",
+      "pt": "Sala de fumadores 2ª classe",
+      "nl": "Rooksalon 2e klas"
+    }
+  },
+  "titlesmokeroom3rd": {
+    "text": {
+      "fr": "Fumoir 3ème classe",
+      "en": "Smoke Room 3rd",
+      "da": "Rygestue 3.Klasse",
+      "de": "Rauchzimmer 3 Klasse",
+      "it": "Sala fumatori 3ª classe",
+      "pt": "Sala de fumadores 3ª classe",
+      "nl": "Rooksalon 3e klas"
+    }
+  },
+  "titlestaircase": {
+    "text": {
+      "fr": "Escalier",
+      "en": "Staircase",
+      "da": "Trappe",
+      "de": "Treppe",
+      "it": "Scala",
+      "pt": "Escada",
+      "nl": "Trap"
+    }
+  },
+  "titlegrandstaircase": {
+    "text": {
+      "fr": "Grand escalier",
+      "en": "Grand Staircase",
+      "da": "Stor trappe",
+      "de": "Prunktreppe",
+      "it": "Grande scalone",
+      "pt": "Grande escadaria",
+      "nl": "Grote trap"
+    }
+  },
+  "titlemailservice": {
+    "text": {
+      "fr": "Service postal",
+      "en": "Mail Service",
+      "da": "Postservice",
+      "de": "Postdienst",
+      "it": "Ufficio postale",
+      "pt": "Serviço postal",
+      "nl": "Postdienst"
+    }
+  },
+  "titlemarconitelegram": {
+    "text": {
+      "fr": "Télégramme de Marconi",
+      "en": "Marconi Telegram",
+      "da": "Marconi Telegram",
+      "de": "Marconi Telegramm",
+      "it": "Sala Marconi",
+      "pt": "Telegrama Marconi",
+      "nl": "Marconi-telegram"
+    }
+  },
+  "titlekitchen": {
+    "text": {
+      "fr": "Cuisine",
+      "en": "Kitchen",
+      "da": "Køkken",
+      "de": "Küche",
+      "it": "Cucine",
+      "pt": "Cozinha",
+      "nl": "Keuken"
+    }
+  },
+  "titledeparture": {
+    "text": {
+      "fr": "Départ",
+      "en": "Departure",
+      "da": "Afrejse",
+      "de": "Abfahrt",
+      "it": "Partenza",
+      "pt": "Partida",
+      "nl": "Vertrek"
+    }
+  },
+  "titleaftermath": {
+    "text": {
+      "fr": "Conséquences",
+      "en": "Aftermath",
+      "da": "Eftervirkninger",
+      "de": "Nachwirkungen",
+      "it": "Conseguenze",
+      "pt": "Consequências",
+      "nl": "Nasleep"
+    }
+  },
+  "titlewreck": {
+    "text": {
+      "fr": "Épave",
+      "en": "Wreck",
+      "da": "Vrag",
+      "de": "Wrack",
+      "it": "Relitto",
+      "pt": "Naufrágio",
+      "nl": "Wrak"
+    }
+  },
+  "titleall": {
+    "text": {
+      "fr": "Tout",
+      "en": "All",
+      "da": "Alle",
+      "de": "Alle",
+      "it": "Tutto",
+      "pt": "Tudo",
+      "nl": "Alles"
+    }
+  },
+  "goback": {
+    "text": {
+      "fr": "Retour",
+      "en": "Back",
+      "da": "Tilbage",
+      "de": "Zurück",
+      "it": "Indietro",
+      "pt": "Voltar",
+      "nl": "Terug"
+    }
+  }
 }

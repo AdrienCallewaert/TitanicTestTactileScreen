@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "3rd",
     "survived": true,
@@ -22,7 +23,8 @@
       "da": "Neshan Krekorian",
       "de": "Neshan Krekorian",
       "it": "Neshan Krekorian",
-      "pt": "Neshan Krekorian"
+      "pt": "Neshan Krekorian",
+      "nl": "Neshan Krekorian"
     },
     "description": {
       "fr": "Neshan Krekorian, né le 12 mai 1886 à Keghi, en Arménie sous occupation turque, fuit au Canada en raison des persécutions contre les chrétiens par les musulmans turcs. En route pour Hamilton, Ontario, il embarque à Cherbourg comme passager de troisième classe avec le billet n°2654.",
@@ -30,7 +32,8 @@
       "da": "Neshan Krekorian, født den 12. maj 1886 i Keghi i det tyrkisk besatte Armenien, flygtede til Canada på grund af tyrkiske muslimers forfølgelse af kristne. Han var på vej til Hamilton, Ontario, og gik om bord på Titanic i Cherbourg som passager på tredje klasse med billetnummer 2654.",
       "de": "Neshan Krekorian, geboren am 12. Mai 1886 in Keghi im türkisch besetzten Armenien, floh aufgrund der Christenverfolgung durch türkische Muslime nach Kanada. Auf dem Weg nach Hamilton, Ontario, ging er in Cherbourg als Passagier der Dritten Klasse mit der Ticketnummer 2654 an Bord der Titanic.",
       "it": "Neshan Krekorian, nato il 12 maggio 1886 a Keghi, nell'Armenia occupata dai turchi, fuggì in Canada a causa delle persecuzioni dei cristiani da parte dei musulmani turchi. Diretti a Hamilton, Ontario, si imbarcò sul Titanic a Cherbourg come passeggero di terza classe con il biglietto numero 2654.",
-      "pt": "Neshan Krekorian, nascido em 12 de maio de 1886 em Keghi, na Armênia sob ocupação turca, fugiu para o Canadá devido à perseguição aos cristãos pelos muçulmanos turcos. Com destino a Hamilton, Ontário, embarcou no Titanic em Cherbourg como passageiro da terceira classe, portando o bilhete de número 2654."
+      "pt": "Neshan Krekorian, nascido em 12 de maio de 1886 em Keghi, na Armênia sob ocupação turca, fugiu para o Canadá devido à perseguição aos cristãos pelos muçulmanos turcos. Com destino a Hamilton, Ontário, embarcou no Titanic em Cherbourg como passageiro da terceira classe, portando o bilhete de número 2654.",
+      "nl": "Neshan Krekorian, born on May 12, 1886, in Keghi, Turkish-occupied Armenia, fled to Canada due to persecution of Christians by Turkish Muslims. Heading to Hamilton, Ontario, he boarded the Titanic at Cherbourg as a third-class passenger with ticket number 2654."
     },
     "postIceberg": {
       "fr": "Neshan Krekorian remarqua des plaques de glace près de sa cabine et s’échappa du navire en sautant dans le canot 10. Ayant survécu à la catastrophe, Krekorian souffrit de pneumonie et fut hospitalisé à New York puis à Brantford, Ontario. Il s’installa à St. Catharines en 1918, épousa Persape Vartanian en 1924 et eut trois enfants. Krekorian travailla chez General Motors et ne reprit jamais la mer. Il mourut le 21 mai 1978 et est enterré à St. Catharines, Ontario.",
@@ -38,7 +41,8 @@
       "da": "Neshan Krekorian så isflager fra sin kahyt og undslap senere det synkende skib ved at springe i redningsbåd nr. 10. Krekorian overlevede katastrofen, men fik lungebetændelse og blev indlagt på et hospital i New York og senere i Brantford, Ontario. Han flyttede til St. Catharines i 1918, blev gift med Persape Vartanian i 1924 og fik tre børn. Krekorian arbejdede hos General Motors og sejlede aldrig igen. Han døde den 21. maj 1978 og er begravet i St. Catharines, Ontario.",
       "de": "Neshan Krekorian bemerkte Eisschollen in der Nähe seiner Kabine und entkam daraufhin dem sinkenden Schiff, indem er in das Rettungsboot 10 sprang. Nachdem er die Katastrophe überlebt hatte, litt Krekorian an einer Lungenentzündung und wurde in New York und später in Brantford, Ontario, ins Krankenhaus eingeliefert. Er zog 1918 nach St. Catharines, heiratete 1924 Persape Vartanian und bekam drei Kinder. Krekorian arbeitete bei General Motors und fuhr nie wieder zur See. Er starb am 21. Mai 1978 und ist in St. Catharines, Ontario, begraben.",
       "it": "Neshan Krekorian notò dei banchi di ghiaccio vicino alla sua cabina e poi scappò dalla nave affondante saltando nella scialuppa 10. Sopravvissuto al disastro, Krekorian soffrì di polmonite e fu ricoverato a New York e successivamente a Brantford, Ontario. Si trasferì a St. Catharines nel 1918, sposò Persape Vartanian nel 1924 e ebbe tre figli. Krekorian lavorò alla General Motors e non navigò mai più. Morì il 21 maggio 1978 ed è sepolto a St. Catharines, Ontario.",
-      "pt": "Neshan Krekorian percebeu a presença de blocos de gelo próximo à sua cabine e, posteriormente, escapou do navio em afundamento pulando no bote salva-vidas número 10. Sobrevivendo ao desastre, Krekorian sofreu de pneumonia e foi hospitalizado em Nova York e depois em Brantford, Ontário. Em 1918, mudou-se para St. Catharines, casou-se com Persape Vartanian em 1924 e teve três filhos. Trabalhou na General Motors e nunca mais navegou. Faleceu em 21 de maio de 1978 e está sepultado em St. Catharines, Ontário."
+      "pt": "Neshan Krekorian percebeu a presença de blocos de gelo próximo à sua cabine e, posteriormente, escapou do navio em afundamento pulando no bote salva-vidas número 10. Sobrevivendo ao desastre, Krekorian sofreu de pneumonia e foi hospitalizado em Nova York e depois em Brantford, Ontário. Em 1918, mudou-se para St. Catharines, casou-se com Persape Vartanian em 1924 e teve três filhos. Trabalhou na General Motors e nunca mais navegou. Faleceu em 21 de maio de 1978 e está sepultado em St. Catharines, Ontário.",
+      "nl": "Neshan Krekorian noticed ice floes near his cabin and later escaped the sinking ship by jumping into Lifeboat 10. Surviving the disaster, Krekorian suffered from pneumonia and was hospitalized in New York and later in Brantford, Ontario. He moved to St. Catharines in 1918, married Persape Vartanian in 1924, and had three children. Krekorian worked at General Motors and never sailed again. He died on May 21, 1978, and is buried in St. Catharines, Ontario."
     }
   }
 }

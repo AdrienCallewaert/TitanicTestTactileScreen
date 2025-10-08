@@ -8,7 +8,8 @@
       "da": "Omkommet besætningsmedlem (postmedarbejder)",
       "de": "Sachbearbeiter Post",
       "it": "Impiegato delle poste",
-      "pt": "Comissário do correio"
+      "pt": "Comissário do correio",
+      "nl": "Mail Clerk"
     },
     "class": "Staff",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "John Starr March",
       "de": "John Starr March",
       "it": "John Starr March",
-      "pt": "John Starr March"
+      "pt": "John Starr March",
+      "nl": "John Starr March"
     },
     "description": {
       "fr": "John Starr March était steward de salon à bord du RMS Titanic. March avait déjà travaillé sur d’autres navires de la White Star Line, acquérant une expérience précieuse dans l’hôtellerie. Connu pour sa fiabilité et son caractère agréable, il était un membre apprécié de l’équipage. Son rôle sur le Titanic impliquait de longues heures et une attention méticuleuse aux détails, contribuant à l’expérience luxueuse offerte aux voyageurs aisés du navire.",
@@ -30,7 +32,8 @@
       "da": "John Starr March var salonsteward om bord på RMS Titanic. March havde tidligere arbejdet på andre af White Star Lines skibe og fået værdifuld erfaring inden for service og gæstfrihed. Han var kendt for sin pålidelighed og behagelige gemyt og var et værdsat besætningsmedlem. Hans rolle på Titanic betød lange arbejdsdage og krævede stor opmærksomhed på detaljer, hvilket bidrog til den luksuriøse oplevelse for skibets velhavende passagerer.",
       "de": "John Starr March war ein Salonsteward an Bord der RMS Titanic. March hatte zuvor auf anderen Schiffen der White Star Line gearbeitet und dabei wertvolle Erfahrungen im Gastgewerbe gesammelt. Er war für seine Zuverlässigkeit und sein freundliches Auftreten bekannt und ein hochgeschätztes Mitglied der Besatzung. Seine Aufgabe auf der Titanic bestand darin, lange Arbeitszeiten zu absolvieren und mit viel Liebe zum Detail zum luxuriösen Erlebnis der wohlhabenden Reisenden auf dem Schiff beizutragen.",
       "it": "John Starr March era uno steward del salone a bordo del RMS Titanic. March aveva precedentemente lavorato su altre navi della White Star Line, acquisendo una preziosa esperienza nell'ospitalità. Conosciuto per la sua affidabilità e il suo comportamento piacevole, era un membro dell'equipaggio molto apprezzato. Il suo ruolo sul Titanic prevedeva lunghe ore e una meticolosa attenzione ai dettagli, contribuendo all'esperienza lussuosa dei facoltosi viaggiatori della nave.",
-      "pt": "John Starr March foi um mordomo do salão a bordo do RMS Titanic. March já havia trabalhado em outros navios da White Star Line, adquirindo valiosa experiência em hospitalidade. Conhecido por sua confiabilidade e atitude agradável, era um membro da tripulação muito valorizado. Seu papel no Titanic envolvia longas jornadas e atenção meticulosa aos detalhes, contribuindo para a experiência luxuosa dos passageiros abastados do navio."
+      "pt": "John Starr March foi um mordomo do salão a bordo do RMS Titanic. March já havia trabalhado em outros navios da White Star Line, adquirindo valiosa experiência em hospitalidade. Conhecido por sua confiabilidade e atitude agradável, era um membro da tripulação muito valorizado. Seu papel no Titanic envolvia longas jornadas e atenção meticulosa aos detalhes, contribuindo para a experiência luxuosa dos passageiros abastados do navio.",
+      "nl": "John Starr March was a saloon steward aboard the RMS Titanic. March had previously worked on other White Star Line ships, gaining valuable experience in hospitality. Known for his reliability and pleasant demeanor, he was a valued crew member. His role on the Titanic involved long hours and meticulous attention to detail, contributing to the luxurious experience of the ship's affluent travelers."
     },
     "postIceberg": {
       "fr": "John Starr March ne survécut pas au naufrage du Titanic. Son corps fut retrouvé par le MacKay-Bennett",
@@ -38,7 +41,8 @@
       "da": "March døde i forliset, og hans krop blev senere bjærget af MacKay-Bennett.",
       "de": "March starb beim Untergang, und seine Leiche wurde später von der MacKay-Bennett geborgen.",
       "it": "Albert Ervine, un steward, non sopravvisse al disastro del Titanic. Il suo corpo non fu mai recuperato.",
-      "pt": "Albert Ervine, um mordomo, não sobreviveu ao desastre do Titanic. Seu corpo nunca foi recuperado."
+      "pt": "Albert Ervine, um mordomo, não sobreviveu ao desastre do Titanic. Seu corpo nunca foi recuperado.",
+      "nl": "March died in the sinking and his body was later recovered by the MacKay-Bennett"
     }
   }
 }

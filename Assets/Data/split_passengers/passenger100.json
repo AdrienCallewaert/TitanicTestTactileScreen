@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Father Charles Leonard Kirkland",
       "de": "Father Charles Leonard Kirkland",
       "it": "Father Charles Leonard Kirkland",
-      "pt": "Father Charles Leonard Kirkland"
+      "pt": "Father Charles Leonard Kirkland",
+      "nl": "Father Charles Leonard Kirkland"
     },
     "description": {
       "fr": "Charles Leonard Kirkland naquit à Londres, en Angleterre, en 1873. Très tôt attiré par l’Église d’Angleterre, il entreprit des études de théologie avant d’être ordonné prêtre. Il exerça ensuite son ministère comme pasteur anglican, accompagnant spirituellement ses paroissiens dans son pays natal. Il projetait également de rendre visite à des connaissances et de poursuivre sa mission pastorale. Lorsque le Titanic heurta l’iceberg, le révérend Kirkland serait resté calme et inébranlable. Des témoins oculaires le décrivirent dans le salon de deuxième classe, priant avec les passagers et leur prodiguant des paroles de réconfort alors que la panique gagnait. Comme beaucoup d’hommes d’Église présents à bord, il refusa de chercher à se mettre en sécurité, préférant rester auprès de ceux qui avaient besoin de soutien spirituel.",
@@ -30,7 +32,8 @@
       "da": "Charles Leonard Kirkland blev født i London, England, i 1873. Allerede som ung blev han tiltrukket af den anglikanske kirke og studerede teologi, inden han blev ordineret. Han tjente derefter som præst og ydede sjælesorg til sine menigheder i hjemlandet. Han planlagde at besøge bekendte og fortsætte sin pastorale mission. Da Titanic ramte isbjerget, siges det, at pastor Kirkland forblev rolig og urokkelig. Øjenvidner beskrev ham i anden klasses salon, hvor han bad med passagererne og trøstede dem, mens panikken spredte sig. Som mange præster ombord nægtede han at søge sikkerhed for sig selv og valgte i stedet at blive hos dem, der havde brug for åndelig støtte.",
       "de": "Charles Leonard Kirkland wurde 1873 in London, England, geboren. Schon früh fühlte er sich zur Kirche von England hingezogen und studierte Theologie, bevor er ordiniert wurde. Anschließend diente er als anglikanischer Geistlicher und betreute die Gemeindemitglieder in seiner Heimat. Er plante, Bekannte zu besuchen und seine pastorale Mission fortzusetzen. Als die Titanic den Eisberg rammte, soll Reverend Kirkland ruhig und standhaft geblieben sein. Augenzeugen beschrieben ihn in der Lounge der zweiten Klasse, wo er mit Passagieren betete und tröstende Worte sprach, während die Panik zunahm. Wie viele Geistliche an Bord weigerte er sich, sich selbst in Sicherheit zu bringen, und blieb bei denen, die geistlichen Beistand brauchten.",
       "it": "Charles Leonard Kirkland nacque a Londra, Inghilterra, nel 1873. Fin da giovane si sentì attratto dalla Chiesa d’Inghilterra e intraprese studi di teologia prima di essere ordinato sacerdote. Prestò servizio come pastore anglicano, accompagnando spiritualmente i parrocchiani nel suo paese. Aveva anche in programma di visitare conoscenti e proseguire la sua missione pastorale. Quando il Titanic colpì l’iceberg, il reverendo Kirkland sarebbe rimasto calmo e saldo. Testimoni oculari lo descrissero nel salone di seconda classe, intento a pregare con i passeggeri e ad offrire parole di conforto mentre il panico cresceva. Come molti uomini di chiesa a bordo, rifiutò di mettersi in salvo, scegliendo invece di rimanere accanto a chi aveva bisogno di sostegno spirituale.",
-      "pt": "Charles Leonard Kirkland nasceu em Londres, Inglaterra, em 1873. Desde jovem, sentiu-se chamado pela Igreja Anglicana e estudou teologia até sua ordenação, servindo depois como pastor em paróquias no Reino Unido. Planejava visitar conhecidos e continuar sua missão pastoral quando embarcou no Titanic. Na noite do naufrágio, o reverendo Kirkland manteve-se sereno e firme. Testemunhas relataram que ele estava no salão da segunda classe, orando com os passageiros e oferecendo palavras de conforto enquanto o pânico crescia. Como outros clérigos a bordo, recusou-se a buscar segurança para si mesmo, permanecendo com aqueles que precisavam de apoio espiritual."
+      "pt": "Charles Leonard Kirkland nasceu em Londres, Inglaterra, em 1873. Desde jovem, sentiu-se chamado pela Igreja Anglicana e estudou teologia até sua ordenação, servindo depois como pastor em paróquias no Reino Unido. Planejava visitar conhecidos e continuar sua missão pastoral quando embarcou no Titanic. Na noite do naufrágio, o reverendo Kirkland manteve-se sereno e firme. Testemunhas relataram que ele estava no salão da segunda classe, orando com os passageiros e oferecendo palavras de conforto enquanto o pânico crescia. Como outros clérigos a bordo, recusou-se a buscar segurança para si mesmo, permanecendo com aqueles que precisavam de apoio espiritual.",
+      "nl": "Charles Leonard Kirkland was born in London, England, in 1873. From an early age, he was drawn to the Church of England and pursued theological studies before his ordination. He went on to serve as an Anglican clergyman, ministering to parishioners in his home country. He planned to visit acquaintances and continue his pastoral mission.  When Titanic struck the iceberg, Father Kirkland is said to have remained calm and steadfast. Eyewitness accounts describe him in the second-class lounge, praying with passengers and offering words of comfort as panic spread. Like many of the clergymen on board, he refused to seek safety for himself, choosing instead to remain with those in need of spiritual support. "
     },
     "postIceberg": {
       "fr": "Son corps fut plus tard retrouvé par le câblier Mackay-Bennett. Parmi ses effets personnels se trouvaient des vêtements sacerdotaux et d’autres objets qui confirmèrent son identité. Il fut inhumé en mer après sa récupération.",
@@ -38,7 +41,8 @@
       "da": "Hans krop blev senere fundet af kabelskibet Mackay-Bennett. Blandt hans ejendele var præstelige klæder og andre personlige genstande, som bekræftede hans identitet. Han blev begravet til søs efter bjærgningen.",
       "de": "Sein Leichnam wurde später vom Kabelschiff Mackay-Bennett geborgen. Unter seinen persönlichen Gegenständen befanden sich priesterliche Gewänder und andere Effekte, die seine Identität bestätigten. Er wurde nach der Bergung auf See bestattet.",
       "it": "Il suo corpo fu successivamente recuperato dalla nave posacavi Mackay-Bennett. Tra i suoi effetti personali furono trovati paramenti sacri e altri oggetti che confermarono la sua identità. Dopo il recupero fu sepolto in mare.",
-      "pt": "Seu corpo foi recuperado pelo navio-cabos Mackay-Bennett. Entre seus pertences estavam roupas clericais e objetos pessoais que ajudaram a identificá-lo. Foi sepultado no mar."
+      "pt": "Seu corpo foi recuperado pelo navio-cabos Mackay-Bennett. Entre seus pertences estavam roupas clericais e objetos pessoais que ajudaram a identificá-lo. Foi sepultado no mar.",
+      "nl": "His body was later recovered by the cable ship Mackay-Bennett, among his effects were clerical garments and other personal belongings, which confirmed his identity. He was buried at sea after recovery."
     }
   }
 }

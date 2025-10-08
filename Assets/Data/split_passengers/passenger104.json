@@ -8,7 +8,8 @@
       "da": "Passager",
       "de": "Passagier",
       "it": "Passeggero",
-      "pt": "Passageiro"
+      "pt": "Passageiro",
+      "nl": "Passenger"
     },
     "class": "2nd",
     "survived": false,
@@ -22,7 +23,8 @@
       "da": "Leonard Mark Hickman",
       "de": "Leonard Mark Hickman",
       "it": "Leonard Mark Hickman",
-      "pt": "Leonard Mark Hickman"
+      "pt": "Leonard Mark Hickman",
+      "nl": "Leonard Mark Hickman"
     },
     "description": {
       "fr": "Leonard Mark Hickman naquit en 1897 dans le Devon, en Angleterre. Il était le fils de Lewis et Annie Hickman. Leonard appartenait à une famille nombreuse de la classe ouvrière et, comme beaucoup de jeunes hommes de sa génération, il se tourna vers l’étranger pour trouver de meilleures opportunités. Il voyageait avec plusieurs de ses frères : Lewis Jr., Stanley George, Norman et Raymond Hickman. Leur destination était l’Ohio, aux États-Unis, où ils prévoyaient de travailler et de rejoindre des proches déjà installés là-bas.",
@@ -30,7 +32,8 @@
       "da": "Leonard Mark Hickman blev født i 1897 i Devon, England. Han var søn af Lewis og Annie Hickman. Leonard kom fra en stor arbejderklassefamilie og, som mange unge mænd i sin generation, søgte han bedre muligheder i udlandet. Han rejste sammen med flere af sine brødre: Lewis Jr., Stanley George, Norman og Raymond Hickman. Deres destination var Ohio, USA, hvor de planlagde at arbejde og slutte sig til slægtninge, der allerede var bosat der.",
       "de": "Leonard Mark Hickman wurde 1897 in Devon, England, geboren. Er war der Sohn von Lewis und Annie Hickman. Leonard stammte aus einer großen Arbeiterfamilie und wie viele junge Männer seiner Generation suchte er im Ausland nach besseren Chancen. Er reiste zusammen mit mehreren seiner Brüder: Lewis Jr., Stanley George, Norman und Raymond Hickman. Ihr Ziel war Ohio in den Vereinigten Staaten, wo sie arbeiten und sich Verwandten anschließen wollten, die bereits dort lebten.",
       "it": "Leonard Mark Hickman nacque nel 1897 a Devon, in Inghilterra. Era figlio di Lewis e Annie Hickman. Leonard faceva parte di una numerosa famiglia della classe operaia e, come molti giovani della sua generazione, guardava all’estero per migliori opportunità. Viaggiava con diversi suoi fratelli: Lewis Jr., Stanley George, Norman e Raymond Hickman. La loro destinazione era l’Ohio, negli Stati Uniti, dove intendevano lavorare e raggiungere i parenti già stabilitisi lì.",
-      "pt": "Leonard Mark Hickman nasceu em 1897, em Devon, Inglaterra, filho de Lewis e Annie Hickman. Cresceu em uma família grande e trabalhadora e, como muitos jovens de sua época, buscava melhores oportunidades no exterior.  Viajou no Titanic junto com seus irmãos Lewis Jr., Stanley George, Norman e Raymond Hickman. O destino deles era o estado de Ohio, nos Estados Unidos, onde pretendiam trabalhar e se reunir com parentes que já haviam emigrado."
+      "pt": "Leonard Mark Hickman nasceu em 1897, em Devon, Inglaterra, filho de Lewis e Annie Hickman. Cresceu em uma família grande e trabalhadora e, como muitos jovens de sua época, buscava melhores oportunidades no exterior.  Viajou no Titanic junto com seus irmãos Lewis Jr., Stanley George, Norman e Raymond Hickman. O destino deles era o estado de Ohio, nos Estados Unidos, onde pretendiam trabalhar e se reunir com parentes que já haviam emigrado.",
+      "nl": "Leonard Mark Hickman was born in Devon, England, in 1897. He was the son of Lewis and Annie Hickman. Leonard was part of a large working-class family, and like many young men of his generation, he looked abroad for better opportunities. He traveled with several of his brothers: Lewis Jr., Stanley George, Norman, and Raymond Hickman. Their destination was Ohio, United States, where they planned to work and join relatives already settled there."
     },
     "postIceberg": {
       "fr": "Leonard n’avait que 15 ans au moment de la catastrophe, ce qui faisait de lui l’un des plus jeunes passagers masculins de troisième classe à périr. Seul Stanley George Hickman survécut et témoigna plus tard de la perte de ses frères.",
@@ -38,7 +41,8 @@
       "da": "Leonard var kun 15 år gammel på tidspunktet for katastrofen, hvilket gjorde ham til en af de yngste mandlige tredjeklassepassagerer, der omkom. Kun Stanley George Hickman overlevede og vidnede senere om tabet af sine brødre.",
       "de": "Leonard war erst 15 Jahre alt zum Zeitpunkt der Katastrophe und gehörte damit zu den jüngsten männlichen Passagieren der dritten Klasse, die ums Leben kamen. Nur Stanley George Hickman überlebte und berichtete später vom Verlust seiner Brüder.",
       "it": "Leonard aveva solo 15 anni al momento del disastro, il che lo rese uno dei più giovani passeggeri maschi di terza classe a morire. Solo Stanley George Hickman sopravvisse e in seguito testimoniò sulla perdita dei suoi fratelli.",
-      "pt": "Leonard tinha apenas 15 anos quando aconteceu o desastre - sendo um dos mais jovens passageiros homens da terceira classe a perder a vida. Somente seu irmão Stanley George Hickman sobreviveu, mais tarde testemunhando sobre a perda dos irmãos."
+      "pt": "Leonard tinha apenas 15 anos quando aconteceu o desastre - sendo um dos mais jovens passageiros homens da terceira classe a perder a vida. Somente seu irmão Stanley George Hickman sobreviveu, mais tarde testemunhando sobre a perda dos irmãos.",
+      "nl": "Leonard was only 15 years old at the time of the disaster, one of the youngest male steerage passengers to die. Only Stanley George Hickman survived, later testifying about the loss of his brothers."
     }
   }
 }

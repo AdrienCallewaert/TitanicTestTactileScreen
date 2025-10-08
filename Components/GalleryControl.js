@@ -3,6 +3,64 @@ document.addEventListener("DOMContentLoaded", async () => {
   const options = document.getElementById("select-options");
   const selected = document.querySelector(".selected-option");
 
+  const GALLERY_CACHE_KEY = "galleryTranslations";
+  const GALLERY_CACHE_VERSION = "1";
+  const GALLERY_CACHE_TTL = 1000 * 60 * 60 * 12; // 12 heures
+
+  function getCacheStorageKey() {
+    return `${GALLERY_CACHE_KEY}:${GALLERY_CACHE_VERSION}`;
+  }
+
+  function loadCachedTranslations() {
+    try {
+      const raw = localStorage.getItem(getCacheStorageKey());
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (
+        !parsed?.data ||
+        typeof parsed.timestamp !== "number" ||
+        parsed.version !== GALLERY_CACHE_VERSION
+      ) {
+        return null;
+      }
+      if (Date.now() - parsed.timestamp > GALLERY_CACHE_TTL) {
+        return null;
+      }
+      return parsed.data;
+    } catch (error) {
+      console.warn("⚠️ Cache gallery illisible", error);
+      return null;
+    }
+  }
+
+  function saveTranslationsToCache(data) {
+    try {
+      const payload = {
+        version: GALLERY_CACHE_VERSION,
+        timestamp: Date.now(),
+        data
+      };
+      localStorage.setItem(getCacheStorageKey(), JSON.stringify(payload));
+    } catch (error) {
+      console.warn("⚠️ Impossible d'enregistrer le cache gallery", error);
+    }
+  }
+
+  async function getTranslations() {
+    const cached = loadCachedTranslations();
+    if (cached) return cached;
+
+    try {
+      const res = await fetch("Assets/Data/Gallery.json", { cache: "no-store" });
+      const data = await res.json();
+      saveTranslationsToCache(data);
+      return data;
+    } catch (error) {
+      console.error("Erreur de chargement du fichier de langue :", error);
+      throw error;
+    }
+  }
+
   // === 🔧 Gestion des langues (helper commun) ===
   function getSavedLang() {
     return localStorage.getItem("lang") || (navigator.language || "en").slice(0, 2);
@@ -10,8 +68,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   async function loadLanguage(lang = getSavedLang()) {
     try {
-      const res = await fetch("Assets/Data/Gallery.json", { cache: "no-store" });
-      const data = await res.json();
+      const data = await getTranslations();
 
       // 🔁 Appliquer les traductions à tous les éléments avec data-i18n
       document.querySelectorAll("[data-i18n]").forEach((el) => {
